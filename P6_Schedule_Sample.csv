@@ -1,0 +1,4500 @@
+﻿Activity ID,Activity Name
+CON-GEN-7240,Site Survey
+CON-GEN-3950,Day 0 compound - in use
+CON-GEN-1010,"Initial Site Set Up incl Day 0 welfare compound, access routes, parking, fencing & secuirty"
+CON-GEN-4310,Tree Felling
+CON-GEN-7250,"Access routes, parking, fencing & secuirty"
+CON-GEN-1430,Water Management
+CON-GEN-3930,Day 1 Copmound
+CON-ZA-1400,Temp Access Roads
+CON-ZB-1400,Temp Access Roads
+CON-ZF-1410,Temp Access Roads
+CON-AD-1000,Admin - Site Clearance and Earthworks
+CON-C2-1000,GL 15-22 - Site Clearance & Earthworks
+CON-ZC-1000,"Zone C, Substation & Support Buildings- Site Clearance & Earthworks"
+CON-ZF-1000,Zone F GL1 - Site Clearance & Earthworks
+CON-SB-1410,Support Buildings - Site Clearance & Earthworks
+CON-C1-1000,GL 1-8 - Site Clearance and Earthworks
+CON-C1-1010,GL 8-15 - Site Clearance and Earthworks
+CON-ZE-1000,Zone E - Site Clearance & Earthworks
+CON-SUB-1000,Substation - Site Clearance & Earthworks
+CON-ZE-1460,Rock Blasting & Crushing
+CON-C2-1010,GL 22-30 - Site Clearance & Earthworks
+CON-C5-1000,GL 30-36 - Site Clearance & Earthworks
+CON-ZF-1480,Zone F East of Green Area - Site Clearance & Earthworks
+CON-GEN-1420,HEL17 - Site Clearance & Earthworks
+CON-SP-1420,Temp Access Roads
+CON-ZA-1000,Zone A - Site Clearance & Earthworks
+CON-ZB-1000,Zone B - Site Clearance & Earthworks
+CON-ZC-1130,Zone C - Site Clearance & Earthworks
+CON-ZD-1000,Zone D - Site Clearance & Earthworks
+CON-EX-SP-1000,Temp Access Road (Incl. Mass Ex & Blasting)
+CON-EX-SP-1010,Site Clearance & Tree Felling
+CON-C1-6680,Columns
+CON-AD-6360,Columns
+CON-ZF-1340,Sheet Piling
+CON-SUB-1100,Columns
+CON-SUB-1110,Preloading
+CON-SUB-1120,Surcharge Install (1/2)
+CON-ZF-1330,Excavation for platforms
+CON-ZF-1350,Rock Bolts
+CON-ZF-1360,Waler beam
+CON-EX-SP-1050,Services Installation (Poles 120-182)
+CON-EX-SP-1130,Handover from CoE
+CON-EX-SP-1080,"Directional drilling launch pits, machinery alignment"
+CON-EX-SP-1140,Top Soil Removal (Southern Parcel)
+CON-C2-6740,Columns
+CON-C1-6710,Columns
+CON-SUB-7450,Substation Handover # 1
+CON-ZA-1470,Rock Blasting & Crushing
+CON-SUB-1130,Surcharge Install (2/2)
+CON-EX-SP-1040,Rock Blasting & Crushing (Southern Parcel)
+CON-C5-6790,Bulk Excavation and back filling
+CON-C5-7300,Columns (East)
+CON-ZF-1370,Anchors installation
+CON-GEN-2400,Day 2 Compound
+CON-EX-SP-1110,Enabling work - areas surrounding day 2 Compound
+CON-SUB-7460,Substation Handover # 2
+CON-ZC-1100,Columns
+CON-ZC-1120,Preloading
+CON-EX-SP-1060,Services Installation (Poles 0-120)
+CON-ZF-7130,Excavation to formation
+CON-EX-SP-1090,(Poles 120-182) Handover to CoE
+CON-EX-SP-1020,Water Management (Southern Parcel)
+CON-EX-SP-1070,Link Road (DD Only)
+CON-C5-6960,Steel Piles GL 29-36
+CON-C2-7100,Surcharge Install
+CON-ZB-1100,Zone B Columns
+CON-C2-7220,Overload settlement time
+CON-ZB-1110,Preloading
+CON-ZC-7110,Surcharge Install
+CON-C5-6970,Testing
+CON-ZF-1380,Waiting Time for Anchors
+CON-ZC-7200,Overload settlement time
+CON-AD-6460,Surcharge Install
+CON-C1-7040,Surcharge Install
+CON-AD-7460,Overload settlement time
+CON-C1-7150,Overload settlement time
+CON-ZB-1120,Surcharge Install
+CON-ZC-7210,Columns
+CON-C1-6470,Surcharge Install
+CON-C1-7160,Overload settlement time
+CON-ZB-6978,Overload settlement time
+CON-ZC-7230,Surcharge Install
+CON-EX-SP-1100,(Poles 0-120) Handover to CoE
+CON-ZD-1100,Zone D Columns
+CON-ZC-7240,Overload settlement time
+CON-C5-7100,C5_SUB - Fill & Detailing for Pads Cell 1 & 2
+CON-ZD-1110,Preloading
+CON-ZF-1105,Zone F LC Columns
+CON-AD-6470,Concrete Piles Admin
+CON-C1-6840,Concrete Piles GL 1-8
+CON-C1-7170,Concrete Piles West Yard
+CON-C2-6930,Concrete Piles GL 22-29
+CON-ZF-7140,Micro Piling
+CON-ZF-7380,MSSTB (Zone F peat)
+CON-ZF-1115,Preloading  (Zone F peat)
+CON-C1-6870,Concrete Piles GL 8-15
+CON-C2-6900,Concrete Piles GL 15-22
+CON-C1-6980,C1_SUB - Fill & Detailing for Pads Cell 1 & 2
+CON-SUB-7430,MV
+CON-ZB-6988,Zone B Mass Exchange
+CON-C1-6990,Pile Caps - Concrete Works
+CON-C5-7110,Pile Caps - Concrete Works
+CON-C5-7120,Back Fill
+CON-SUB-7400,Foul Water
+CON-SUB-7420,Storm Water
+CON-C2-7070,C2_SUB - Fill & Detailing for Pads Cell 3 & 4
+CON-ZF-7150,Testing
+CON-AD-6410,Testing
+CON-C2-6910,Testing
+CON-C2-6940,Testing
+CON-C1-6850,Testing
+CON-C1-6880,Testing
+CON-ZF-7490,MSSTB
+CON-SB-7070,Excavation to Piling Mat
+CON-SB-7100,Drilling Holes for Concrete Piles
+CON-C5-7140,Ground Beams
+CON-WTP-7080,Concrete Piling WTP
+CON-SPH-7090,Concrete Piling SPH
+CON-ZD-1120,Surcharge Install
+CON-C1-7070,Ground Beams
+CON-ZC-1340,Piles - Sunken Road
+CON-C2-7040,C2_SUB - Fill & Detailing for Pads Cell 1 & 2
+CON-C2-7080,Pile Caps - Concrete Works
+CON-SB-7110,Concrete Piling Snow-Vehicle Shelter
+CON-SB-7120,Concrete Piling Airraid Shelter
+CON-EX-SP-1120,Secondary Access Road
+CON-EX-SP-1150,Secondary Access Road Start
+CON-ZD-7330,Overload settlement time
+CON-SB-7090,Testing
+CON-C1-7010,C1_SUB - Fill & Detailing for Pads Cell 3 & 4
+CON-ZD-7310,Storm Water Attenuation Tank Works
+CON-SB-7340,Storm Water
+CON-C1-7180,Testing
+CON-ZF-7420,Micro Pile Slab Prep & Pour
+CON-AD-ES-6500,Admin East - Fill & Detailing for Pads
+CON-C2-7050,Pile Caps - Concrete Works
+CON-C2-7160,Ground Beams
+CON-L1-C5-4120,COLO5 - Structural steel frame - from GL29 - GL36
+CON-ZB-6899,Storm Water
+CON-ZB-6909,Foul Water
+CON-C2-7090,Back Fill
+CON-ZF-1122,Surcharge Install  (Zone F peat)
+CON-AD-WS-6450,Admin West - Fill & Detailing for Pads
+CON-AD-C-6939,Admin Center - Fill & Detailing for Pads
+CON-C1-7020,Pile Caps - Concrete Works
+CON-C2-7140,Ground Beams
+CON-L1-C1-4070,COLO1&3 - Structural steel frame - from GL1 - GL8
+CON-SUB-7440,LV
+CON-ZF-7470,Overload settlement time
+CON-SB-7350,Foul Water
+CON-SB-7360,Hydrant Water
+CON-ZB-6929,MV
+CON-AD-ES-6480,Pile Caps - Concrete Works
+CON-C1-7090,Ground Beams
+CON-ZC-6899,Hydrant Water
+CON-ZC-7120,NPW
+CON-C2-7060,Back Fill
+CON-AD-ES-6490,Back Fill
+CON-ZB-6919,Potable Water
+CON-AD-ES-6919,Ground Beams
+CON-AD-WS-6430,Pile Caps - Concrete Works
+CON-AD-C-6919,Foundation Slab & Walls
+CON-UR-C5-4130,COLO5 - Penthouses Steel Frame - from GL29 - GL36
+CON-SB-7370,NPW
+CON-AD-C-6929,Back Fill
+CON-SB-7380,LV
+CON-ZF-7430,Back Fill
+CON-AD-WS-6440,Back Fill
+CON-C5-7150,Sandwich panel
+CON-L1-3220,Concrete cores in Admin
+CON-L1-C2-4110,COLO2&4 - Structural steel frame - from GL22 - GL29
+CON-C5-UR-1140,COLO 5 - Install metal roof decking and safety netting
+CON-C1-7000,Back Fill
+CON-C1-7030,Back Fill
+CON-ZC-7130,Sewer
+CON-AD-WS-7189,Ground Beams
+CON-SB-7390,Backfill & Subsoil
+CON-ZC-7140,Storm Water
+CON-C5-c3-1370,Decking Colo 5 Cell 3
+CON-C5-c1-2500,COLO5 - Panels
+CON-C5-c1-6849,COLO5 - Panels
+CON-C5-c1-6889,COLO5 - Panels
+CON-ZF-7440,Removing Sheet Piling
+CON-C5-UR-1160,COLO 5 - Complete roof build up to capping
+CON-WTP-7090,Concrete Pads Prep & Pour
+CON-C5-c4-1380,Decking Colo 5 Cell 4
+CON-C5-7170,Single Pile Caps & Column encasement  - Concrete Works
+CON-UR-C2-4140,COLO2&4 - Penthouses Steel Frame - from GL22 - GL29
+CON-C5-c1-640,UGS Install - MV COLO5 Cell 1
+CON-C5-c1-4620,UGS Install - Clear Water Discharge COLO5 Cell 1
+CON-C5-c2-6819,UGS Install - MV COLO5 Cell 2
+CON-C5-c2-6829,UGS Install - Clear Water Discharge COLO5 Cell 2
+CON-ZE-1470,Retaining Wall
+CON-ZA-1100,Zone A2  Columns
+CON-ZA-6949,Zone A Mass Exchange
+CON-ZF/D-1340,Concrete & Steel Piles
+CON-ZA-6819,Trafo Drainage
+CON-ZA-6849,MV
+CON-C5-c1-6819,COLO5 - Flashing
+CON-C5-c1-6859,COLO5 - Flashing
+CON-C5-c1-6899,COLO5 - Flashing
+CON-ZA-1110,Preloading
+CON-C2-7170,Sandwich panel
+CON-C5-c1-6839,COLO5 - Snow Hoods & Dampers
+CON-C5-c1-6879,COLO5 - Snow Hoods & Dampers
+CON-C5-c1-4630,UGS Install - Foul Water COLO5 Cell 1
+CON-C5-c2-6839,UGS Install - Foul Water COLO5 Cell 2
+CON-L1-C1-4080,COLO1&3 - Structural steel frame - GL8 - GL15
+CON-C4-UR-1100,COLO 4 -Install metal roof decking and safety netting
+CON-C5-c1-4650,UGS Install - LV COLO5 Cell 1 (GL:29-36)
+CON-C5-c2-6849,UGS Install - LV COLO5 Cell 2 (GL:29-36)
+CON-C5-c1-6969,UGS Install - Back Fill COLO5 Cell 1
+CON-C5-c2-6959,UGS Install - Back Fill COLO5 Cell 2
+CON-C2-E-4761,COLO2 - Panels
+CON-C2-W-4801,COLO2 - Panels
+CON-C4-E-4841,COLO4 - Panels
+CON-C4-W-4721,COLO4 - Panels
+CON-ZD-7200,Storm Water South
+CON-LR-C5-2510,Cladding
+CON-ZE-7240,Soil Sub-Drainage
+CON-C5-c1-4660,UGS Install - Subsoil COLO5 Cell 1
+CON-C5-c2-6859,UGS Install - Subsoil COLO5 Cell 2
+CON-C5-c1-4720,Foul Water
+CON-C5-c2-4820,Foul Water
+CON-C4-c3-1330,Decking Colo 4 Cell 3
+CON-C4-UR-1110,COLO 4 - Complete roof build up to capping
+CON-C2-E-4771,COLO2 - Flashing
+CON-C2-W-4811,COLO2 - Flashing
+CON-C4-E-4851,COLO4 - Flashing
+CON-C4-W-4731,COLO4 - Flashing
+CON-LR-C5-1320,Roof
+CON-LR-C5-1330,Flashings
+CON-ZA-1120,Surcharge Install
+CON-C5-c1-4671,UGS Install - Radon Header COLO5 Cell 1
+CON-C5-c2-6869,UGS Install - Radon Header COLO5 Cell 2
+CON-ZB-6939,LV
+CON-ZB-6949,Telecoms
+CON-ZC-7150,Rain  Water
+CON-WTP-2750,Slab Prep & Pour
+CON-SPH-7100,Concrete Pads Prep & Pour
+CON-SVS-7110,Concrete Pads Prep & Pour
+CON-ZA-6939,Overload settlement time
+CON-C2-7190,Single Pile Caps & Column encasement - Concrete Works
+CON-C4-c4-1340,Decking Colo 4 Cell 4
+CON-C2-E-4751,COLO2 - Snow Hoods & Dampers
+CON-C2-W-4791,COLO2 - Snow Hoods & Dampers
+CON-C4-E-4831,COLO4 - Snow Hoods & Dampers
+CON-C4-W-4140,COLO4 - Snow Hoods & Dampers
+CON-C5-c3-1430,Floor Prep - COLO5  Cell 3
+CON-UR-C1-4090,COLO1&3 - Penthouses Steel Frame - from GL1 - GL8
+CON-LR-C5-1340,Louvers
+CON-C5-c1-6809,UGS Install - Drainage Layer COLO5 Cell 1
+CON-C5-c2-6879,UGS Install - Drainage Layer COLO5 Cell 2
+CON-C5-c1-4730,Rain Water
+CON-C5-c1-4790,Storm Water
+CON-C5-c1-4800,MV
+CON-C5-c2-4830,Rain Water
+CON-C5-c2-4890,Storm Water
+CON-C5-c2-4900,MV
+CON-UR-C1-4110,COLO1&3 - Penthouses Steel Frame - GL8 - GL15
+CON-C3-UR-1010,COLO 3 - Install metal roof decking and safety netting
+CON-C2-c3-4601,Foul Water
+CON-C2-c4-4700,Foul Water
+CON-ZA-6829,Hydrant Water
+CON-ZA-6839,NPW
+CON-C1-7080,Sandwich panel
+CON-C5-c3-4700,Floor Pour - COLO5  Cell 3
+CON-C5-c4-1440,Floor Prep - COLO5  Cell 4
+CON-LR-C5-1350,PV panels
+CON-C5-c1-1410,Floor Prep - COLO5  Cell 1
+CON-ZC-7160,Battery Room Discharge
+CON-ZF-7200,Foul Water
+CON-ZF-7240,Storm Water
+CON-ZF-7270,District Heating (1/2)
+CON-ZF-7530,Waste Heat Recovery pipes (1/2)
+CON-ZF-7310,General Sewer Tank (508m3) *Coordinate with TW Design
+CON-C3-UR-1030,COLO 3 - Install metal roof decking and safety netting
+CON-C2-c3-4480,UGS Install - Clear Water Discharge COLO2 Cell 3
+CON-C2-c3-4600,UGS Install - MV COLO2 Cell 3
+CON-C2-c4-4550,UGS Install - Clear Water Discharge  COLO2 Cell 4
+CON-C2-c4-4621,UGS Install - MV  COLO2 Cell 4
+CON-ZD-7220,Hydrant Water
+CON-C1-7100,Sandwich panel
+CON-L1-AD-4090,ADMIN - Structural steel frame
+CON-C5-c4-4710,Floor Pour - COLO5  Cell 4
+CON-C1-E-4130,COLO1 - Panels
+CON-C1-W-4550,COLO1 - Panels
+CON-C3-E-4590,COLO3 - Panels
+CON-C3-W-4630,COLO3 - Panels
+CON-LR-C5-1360,Doors & finishes
+CON-C5-c1-6909,Floor Pour - COLO5  Cell 1
+CON-C5-c2-1420,Floor Prep - COLO5  Cell 2
+CON-C2-c3-4611,Rain Water
+CON-C2-c3-4670,Storm Water
+CON-C2-c3-4680,MV
+CON-C2-c4-4710,Rain Water
+CON-C2-c4-4770,Storm Water
+CON-C2-c4-4801,MV
+CON-ZC-7170,MV
+CON-WTP-2670,Slab Curing
+CON-C1-E-4580,COLO1 - Panels
+CON-C1-W-4740,COLO1 - Panels
+CON-C1-E-4490,COLO1 - Flashing
+CON-C1-W-4530,COLO1 - Flashing
+CON-C2-c3-4490,UGS Install - Foul Water COLO2 Cell 3
+CON-C2-c4-4560,UGS Install - Foul Water  COLO2 Cell 4
+CON-C3-UR-1020,COLO 3 - Complete roof build up to capping
+CON-L1-C2-4100,COLO2&4 - Structural steel frame - from  GL15 - GL22
+CON-C5-c3-4690,Floor Prep & Pour - COLO5  Cell 3 - Curing Period
+CON-C1-c1-1330,Decking Colo 3 Cell 1
+CON-C3-E-4660,COLO3 - Panels
+CON-C3-W-4700,COLO3 - Panels
+CON-LR-C4-1310,Cladding
+CON-C3-E-4570,COLO3 - Flashing
+CON-C3-W-4610,COLO3 - Flashing
+CON-C5-UR-1170,COLO 5 - Roof Walkways
+CON-C5-c2-6899,Floor Pour - COLO5  Cell 2
+CON-C1-c1-4530,HEL16-UMS02- Slab Prep & Pour
+CON-C1-c2-4660,HEL16-UMS01- Slab Prep & Pour
+CON-C2-c3-4500,UGS Install - Battery Room Discharge COLO2 Cell 3
+CON-C2-c4-4570,UGS Install - Battery Room Discharge  COLO2 Cell 4
+CON-C1-c1-4250,UGS Install - LV COLO1 Cell 1 (GL:1)
+CON-C1-c1-4260,UGS Install - MV COLO1 Cell 1
+CON-C1-c2-4350,UGS Install - LV COLO1 Cell 2 (GL:1)
+CON-C1-c2-4360,UGS Install - MV COLO1 Cell 2
+CON-C1-E-4591,COLO1 - Snow Hoods & Dampers
+CON-C1-W-4520,COLO1 - Snow Hoods & Dampers
+CON-C1-E-4590,COLO1 - Flashing
+CON-C1-W-4750,COLO1 - Flashing
+CON-C1-7110,Single Pile Caps & Column encasement - Concrete Works
+CON-C3-UR-1040,COLO 3 - Complete roof build up to capping
+CON-ZD-7230,NPW
+CON-C5-c4-4700,Floor Prep & Pour - COLO5  Cell 4 - Curing Period
+CON-C1-c2-1340,Decking Colo 3 Cell 2
+CON-C3-E-4560,COLO3 - Snow Hoods & Dampers
+CON-C3-W-4600,COLO3 - Snow Hoods & Dampers
+CON-LR-C4-1320,Roof
+CON-LR-C4-1330,Flashings
+CON-C3-E-4670,COLO3 - Flashing
+CON-C3-W-4710,COLO3 - Flashing
+CON-C2-c3-4510,UGS Install - LV COLO2 Cell 3 (GL:22-29)
+CON-C2-c4-4580,UGS Install - LV  COLO2 Cell 4 (GL:22-29)
+CON-C5-c1-4670,Floor Prep & Pour - COLO5  Cell 1 - Curing Period
+CON-ZB-6941,Road Build Up
+CON-GH-3170,Floor Build Up
+CON-SB-7400,Road Build Up
+CON-ZF-7280,MV
+CON-SVS-3010,Steel Frame
+CON-SPH-2980,Slab Prep & Pour
+CON-C1-c1-4270,UGS Install - Clear Water Discharge COLO1 Cell 1
+CON-C1-c2-4370,UGS Install - Clear Water Discharge COLO1 Cell 2
+CON-C1-c1-4350,Foul Water
+CON-C1-c1-4360,Rain Water
+CON-C1-c1-4430,Storm Water
+CON-C1-c1-4440,MV
+CON-C1-c2-4470,Foul Water
+CON-C1-E-1180,COLO1 - Snow Hoods & Dampers
+CON-C1-W-4730,COLO1 - Snow Hoods & Dampers
+CON-ZA-6869,LV
+CON-ZA-6879,Telecoms
+CON-C1-c3-1350,Decking Colo 3 Cell 3
+CON-C3-E-4650,COLO3 - Snow Hoods & Dampers
+CON-C3-W-4690,COLO3 - Snow Hoods & Dampers
+CON-LR-C4-1340,Louvers
+CON-C2-c3-4520,UGS Install - Subsoil COLO2 Cell 3
+CON-C2-c4-4590,UGS Install - Subsoil  COLO2 Cell 4
+CON-C5-c2-4680,Floor Prep & Pour - COLO5  Cell 2 - Curing Period
+CON-C2-c3-4110,HEL16-COLO2&4-CE3-TX/LBP01- Slab Prep & Pour
+CON-C2-c4-4130,HEL16-COLO2&4-CE4-TX/LBP01- Slab Prep & Pour
+CON-AD-WS-7199,Sandwich panel - West Side
+CON-AD-ES-7269,Sandwich panel - East Side
+CON-AD-ES-7279,Sandwich panel - South Side
+CON-C2-c3-4530,UGS Install - Radon Header COLO2 Cell 3
+CON-C2-c4-4600,UGS Install - Radon Header COLO2 Cell 4
+CON-ZC-7190,Telecom
+CON-C1-c1-4280,UGS Install - Foul Water COLO1 Cell 1
+CON-C1-c1-4300,UGS Install - LV COLO1 Cell 1 (GL:8)
+CON-C1-c1-4570,UGS Install - Back Fill Cell 1
+CON-C1-c3-4420,UGS Install - Clear Water Discharge COLO1 Cell 3
+CON-C1-c2-4380,UGS Install - Foul Water COLO1 Cell 2
+CON-C1-c2-4400,UGS Install - LV COLO1 Cell 2 (GL:8)
+CON-C1-c2-4700,UGS Install - Back Fill Cell 2
+CON-C1-c4-4480,UGS Install - Clear Water Discharge COLO1 Cell 4
+CON-C1-c3-4471,Foul Water
+CON-C1-c4-4590,Foul Water
+CON-C1-7120,Single Pile Caps & Column encasement - Concrete Works
+CON-C1-c4-1360,Decking Colo 3 Cell 4
+CON-LR-C4-1350,PV panels
+CON-C1-c2-4480,Rain Water
+CON-C1-c2-4550,Storm Water
+CON-C1-c2-4560,MV
+CON-C2-c3-4540,UGS Install - Drainage Layer COLO2 Cell 3
+CON-C2-c4-4610,UGS Install - Drainage Layer  COLO2 Cell 4
+CON-C2-c3-4620,Clear Water Discharge
+CON-C2-c3-4630,Battery Room Discharge
+CON-C2-c3-4640,Hydrant Water
+CON-C2-c4-4720,Clear Water Discharge
+CON-C2-c4-4730,Battery Room Discharge
+CON-C2-c4-4740,Hydrant Water
+CON-AD-UR-1050,ADMIN - Install metal roof decking and safety netting
+CON-C1-c1-4290,UGS Install - NPW COLO1 Cell 1
+CON-C1-c2-4390,UGS Install - NPW COLO1 Cell 2
+CON-SUB-7370,Road Build Up
+CON-SVS-3050,Building Envelope
+CON-C1-c1-4310,UGS Install - Battery Room Discharge COLO1 Cell 1
+CON-C1-c3-4430,UGS Install - Foul Water COLO1 Cell 3
+CON-C1-c2-4410,UGS Install - Battery Room Discharge COLO1 Cell 2
+CON-C1-c4-4490,UGS Install - Foul Water COLO1 Cell 4
+CON-LR-C1-1190,Cladding
+CON-C2-c3-4650,NPW
+CON-C2-c4-4750,NPW
+CON-C2-c3-4660,Transfo Drainage
+CON-C2-c4-4760,Transfo Drainage
+CON-LR-C4-1360,Doors & finishes
+CON-C1-c4-4620,Rain Water
+CON-C1-c4-4660,Storm Water
+CON-C1-c4-4670,MV
+CON-C2-c3-1330,Floor Prep - COLO2  Cell 3
+CON-C1-c1-4320,UGS Install - Subsoil COLO1 Cell 1
+CON-C1-c2-4420,UGS Install - Subsoil COLO1 Cell 2
+CON-C1-c1-4540,HEL16-UMS02- Curing period
+CON-C1-c2-4670,HEL16-UMS01- Curing period
+CON-C2-c3-4731,HEL16-COLO2&4-CE3-TX/LBP01- Curing period
+CON-C2-c4-4830,HEL16-COLO2&4-CE4-TX/LBP01- Curing period
+CON-C5-c1-4150,HEL16-COLO5-CE1&3-TX/LBP01- Slab Prep & Pour
+CON-C5-c2-4170,HEL16-COLO5-CE2&4-TX/LBP01- Slab Prep & Pour
+CON-C2-c3-4741,HEL16-COLO2&4-CE3-GPC01- Slab Prep & Pour
+CON-C2-c4-4840,HEL16-COLO2&4-CE4-GPC01- Slab Prep & Pour
+CON-C1-c3-4500,Rain Water
+CON-C1-c3-4550,Storm Water
+CON-C1-c3-4560,MV
+CON-AD-UR-1080,ADMIN - Complete roof build up to capping
+CON-AD-WS-1230,"Decking Admin West Side (GL: Y1-Y7,YA-YH)"
+CON-L1-AD-WS-2540,ADMIN - Cladding
+CON-L1-AD-SS-4120,ADMIN - Cladding
+CON-L1-AD-ES-4150,ADMIN - Cladding
+CON-UR-C2-4120,COLO2&4 - Penthouses Steel Frame - from  GL15 - GL22
+CON-SPH-2970,Slab Curing
+CON-C1-c1-4330,UGS Install - Radon Header COLO1 Cell 1
+CON-C1-c3-4450,UGS Install - LV COLO1 Cell 3 (GL:8-15)
+CON-C1-c2-4430,UGS Install - Radon Header COLO1 Cell 2
+CON-C1-c4-4510,UGS Install - LV COLO1 Cell 4 (GL:8-15)
+CON-C1-c1-3990,HEL16-COLO1&3-CE1-TX/LBP01- Slab Prep & Pour
+CON-LR-C1-1200,Roof
+CON-LR-C1-1210,Flashings
+CON-LR-C3-1250,Cladding
+CON-ZD-7240,Rain Water
+CON-C4-UR-1120,COLO 4 - Roof Walkways
+CON-C1-c1-4340,UGS Install - Drainage Layer COLO1 Cell 1
+CON-C1-c2-4440,UGS Install - Drainage Layer COLO1 Cell 2
+CON-C2-c3-4721,Floor Pour - COLO2  Cell 3
+CON-C2-c4-1340,Floor Prep - COLO2  Cell 4
+CON-C5-c1-4740,Clear Water Discharge
+CON-C5-c1-4750,Battery Room Discharge
+CON-C5-c1-4760,Hydrant Water
+CON-C5-c1-4770,NPW
+CON-C5-c1-4810,LV
+CON-C5-c2-4840,Clear Water Discharge
+CON-C5-c2-4850,Battery Room Discharge
+CON-C5-c2-4860,Hydrant Water
+CON-C5-c2-4870,NPW
+CON-C5-c2-4910,Aco Chanels
+CON-C5-c2-4920,LV
+CON-C5-c1-4780,Transfo Drainage
+CON-C5-c2-4880,Transfo Drainage
+CON-AD-L2-1280,"Level 2 Admin West Side (GL: Y1-Y7,YA-YH) Slab Prep & Pour"
+CON-ZE-7300,Telecom
+CON-GH-3140,Slab Pour
+CON-AD-WS-1270,UGS Install - LV ADMIN West
+CON-C1-c1-1290,Floor Prep - COLO1  Cell 1
+CON-AD-ES-1240,"Decking Admin East Side (GL: Y1-Y7,YH-YN)"
+CON-SUB-7380,Road Surfacing
+CON-C4-UR-1070,COLO 4 -Install metal roof decking and safety netting
+CON-C2-7150,Sandwich panel
+CON-C1-c3-4440,UGS Install - Battery Room Discharge COLO1 Cell 3
+CON-C1-c4-4500,UGS Install - Battery Room Discharge COLO1 Cell 4
+CON-C1-c1-4390,Hydrant Water
+CON-C1-c1-4400,NPW
+CON-L1-AD-WS-4100,ADMIN - Flashings
+CON-LR-C1-1220,Louvers
+CON-LR-C3-1260,Roof
+CON-LR-C3-1270,Flashings
+CON-C1-c2-4010,HEL16-COLO1&3-CE2-TX/LBP01- Slab Prep & Pour
+CON-C2-c4-4820,Floor Pour - COLO2  Cell 4
+CON-C4-c3-1370,Floor Prep - COLO4  Cell 3
+CON-C1-c3-4460,UGS Install - Subsoil COLO1 Cell 3
+CON-C1-c4-4520,UGS Install - Subsoil COLO1 Cell 4
+CON-C5-c1-6919,HEL16-COLO5-CE1&3-TX/LBP01-Curing period
+CON-C5-c2-6909,HEL16-COLO5-CE2&4-TX/LBP01- Curing period
+CON-C2-c3-4751,HEL16-COLO2&4-CE3-GPC01- Curing period
+CON-C2-c4-4850,HEL16-COLO2&4-CE4-GPC01- Curing period
+CON-C5-c1-6929,HEL16-COLO5-CE1&3-GPC01- Slab Prep & Pour
+CON-C5-c2-6919,HEL16-COLO5-CE2&4-GPC01- Slab Prep & Pour
+CON-AD-WS-6909,Foul Water
+CON-L1-AD-ES-4160,ADMIN - Flashings
+CON-AD-WS-7209,Waste Heat Recovery pipes
+CON-ZF-7330,BALLARD Rainwater tank 2 (508m3)
+CON-C1-c1-4490,Floor Pour - COLO1  Cell 1
+CON-C1-c2-1300,Floor Prep - COLO1  Cell 2
+CON-C2-E-4840,COLO2 - Panels
+CON-C2-W-4800,COLO2 - Panels
+CON-C4-E-4760,COLO4 - Panels
+CON-C4-W-4710,COLO4 - Panels
+CON-C1-c3-4470,UGS Install - Radon Header COLO1 Cell 3
+CON-C1-c3-4350,UGS Install - Drainage Layer COLO1 Cell 3
+CON-C1-c4-4530,UGS Install - Radon Header COLO1 Cell 4
+CON-C1-c1-4500,HEL16-COLO1&3-CE1-TX/LBP01- Curing period
+CON-C1-c1-4520,HEL16-COLO1&3-CE1-GPC01 - Slab Prep & Pour
+CON-C1-c1-4370,Clear Water Discharge
+CON-C1-c1-4380,Battery Room Discharge
+CON-C1-c1-4420,Transfo Drainage
+CON-C1-c1-4410,Transfo Drainage Admin
+CON-AD-L2-1290,"Level 2 Admin East Side (GL: Y1-Y7,YH-YN) Slab Prep & Pour"
+CON-AD-L2-1300,"Level 2 Admin West Side (GL: Y1-Y7,YA-YH) Curing period"
+CON-L1-AD-SS-4130,ADMIN - Flashings
+CON-LR-C1-1230,PV panels
+CON-LR-C3-1280,Louvers
+CON-AD-WS-1280,UGS Install - Subsoil ADMIN West
+CON-AD-WS-1290,UGS Install - Radon Header ADMIN West
+CON-C1-c4-4050,HEL16-COLO1&3-CE4-TX/LBP01- Slab Prep & Pour
+CON-C1-c2-4490,Clear Water Discharge
+CON-C1-c2-4500,Battery Room Discharge
+CON-C1-c2-4510,Hydrant Water
+CON-C2-c3-4610,Floor Prep & Pour - COLO2  Cell 3 - Curing Period
+CON-C4-c3-4660,Floor Pour - COLO4  Cell 3
+CON-C4-c4-1380,Floor Prep - COLO4  Cell 4
+CON-C5-LB-1370,COLO 5 loading Bay Installation
+CON-AD-WS-1300,UGS Install - West Drainage Layer ADMIN West
+CON-CDS-7120,Concrete Pads Prep & Pour
+CON-C1-c4-4540,UGS Install - Drainage Layer COLO1 Cell 4
+CON-C1-c3-4030,HEL16-COLO1&3-CE3-TX/LBP01- Slab Prep & Pour
+CON-AD-WS-6919,Rain Water Harvesting Tank
+CON-GH-3210,Slab Curing
+CON-AD-ES-1320,UGS Install - Subsoil ADMIN East
+CON-C1-c2-4520,NPW
+CON-AD-WS-7019,Foul Water
+CON-C1-c2-4540,Transfo Drainage
+CON-C1-c1-4240,Floor Prep & Pour - COLO1  Cell 1 - Curing Period
+CON-C1-c2-4610,Floor Pour - COLO1  Cell 2
+CON-C1-c3-1310,Floor Prep - COLO1  Cell 3
+CON-C2-E-4850,COLO2 - Flashing
+CON-SUB-7390,Landscaping
+CON-ZD-7340,Waste Heat Recovery pipes (1/2)
+CON-ZF-7540,Waste Heat Recovery pipes (2/2)
+CON-C3-c1-1370,Floor Prep - COLO3  Cell 1
+CON-C2-W-4810,COLO2 - Flashing
+CON-C4-E-4770,COLO4 - Flashing
+CON-C4-W-4740,COLO4 - Flashing
+CON-C4-UR-1090,COLO 4 - Complete roof build up to capping
+CON-C4-c1-1310,Decking Colo 4 Cell 1
+CON-LR-C1-1240,Doors & finishes
+CON-AD-L1-1320,"Level 1 Admin West Side (GL: Y1-Y7,YA-YH) Slab Prep & Pour"
+CON-C2-c3-4690,LV
+CON-C2-c3-4710,Aco Chanels
+CON-C2-c4-4790,Aco Chanels
+CON-C2-c4-4800,LV
+CON-LR-C3-1290,PV panels
+CON-C1-c2-4630,HEL16-COLO1&3-CE2-TX/LBP01- Curing period
+CON-C1-c2-4640,HEL16-COLO1&3-CE2-GPC01- Slab Prep & Pour
+CON-C1-c4-4630,Clear Water Discharge
+CON-C1-c4-4640,Battery Room Discharge
+CON-AD-WS-6929,Rain Water
+CON-AD-LB-1360,ADMIN Loading Bay Installation
+CON-C2-c4-4620,Floor Prep & Pour - COLO2  Cell 4 - Curing Period
+CON-C4-c4-4670,Floor Pour - COLO4  Cell 4
+CON-C5-c1-6939,HEL16-COLO5-CE1&3-GPC01-Curing period
+CON-C5-c2-6929,HEL16-COLO5-CE2&4-GPC01- Curing period
+CON-AD-ES-1330,UGS Install - Radon Header ADMIN East
+CON-AD-WS-1220,HEL16-ADMIN-TX/LBP01- Slab Prep & Pour
+CON-C1-c3-4510,Clear Water Discharge
+CON-C1-c3-4520,Battery Room Discharge
+CON-C1-c3-4480,Hydrant Water
+CON-C1-c3-4540,Transfo Drainage
+CON-AD-L2-1310,"Level 2 Admin East Side (GL: Y1-Y7,YH-YN) Curing period"
+CON-AD-UR-1110,ADMIN - Install sky lights
+CON-AD-UR-1130,ADMIN - Install admin to COLO staircase
+CON-C1-c2-4300,Floor Prep & Pour - COLO1  Cell 2 - Curing Period
+CON-C1-c3-4600,Floor Pour - COLO1  Cell 3
+CON-C1-c4-1320,Floor Prep  - COLO1  Cell 4
+CON-C2-c1-4360,UGS Install - MV COLO2 Cell 1
+CON-C2-c1-4371,UGS Install - Clear Water Discharge COLO2 Cell 1
+CON-C2-c1-4380,UGS Install - Foul Water COLO2 Cell 1
+CON-C2-c2-4450,UGS Install - MV  COLO2 Cell 2
+CON-C2-c2-4460,UGS Install - Clear Water Discharge  COLO2 Cell 2
+CON-C2-c2-4470,UGS Install - Foul Water  COLO2 Cell 2
+CON-C2-7180,Single Pile Caps & Column encasement - Concrete Works
+CON-C3-c1-4560,Floor Pour - COLO3  Cell 1
+CON-C3-c2-1380,Floor Prep - COLO3  Cell 2
+CON-C2-E-4830,COLO2 - Snow Hoods & Dampers
+CON-C2-W-4790,COLO2 - Snow Hoods & Dampers
+CON-C4-c2-1320,Decking Colo 4 Cell 2
+CON-C4-E-4750,COLO4 - Snow Hoods & Dampers
+CON-C4-W-1200,COLO4 - Snow Hoods & Dampers
+CON-SVS-3020,Floor Build Up
+CON-C1-c1-4510,HEL16-COLO1&3-CE1-GPC01- Curing period
+CON-C1-c1-4450,LV
+CON-C3-UR-1060,COLO 3 - Roof Walkways
+CON-LR-C3-1300,Doors & finishes
+CON-C1-c4-4710,HEL16-COLO1&3-CE4-TX/LBP01- Curing period
+CON-C1-c4-4720,HEL16-COLO1&3-CE4-GPC01- Slab Prep & Pour
+CON-AD-WS-6939,Battery Room Discharge
+CON-AD-WS-6949,Hydrant Water
+CON-C4-c3-4650,Floor Prep & Pour - COLO4  Cell 3 - Curing Period
+CON-C5-c1-4830,Aco Chanels
+CON-C5-c2-6889,Telecoms
+CON-AD-ES-1340,UGS Install - West Drainage Layer ADMIN East
+CON-C1-c3-4610,HEL16-COLO1&3-CE3-TX/LBP01- Curing period
+CON-C1-c3-4620,HEL16-COLO1&3-CE3-GPC01- Slab Prep & Pour
+CON-C1-c3-4490,NPW
+CON-C2-c1-4410,UGS Install - Battery Room Discharge COLO2 Cell 1
+CON-C2-c2-4500,UGS Install - Battery Room Discharge COLO2 Cell 2
+CON-ZC-7180,LV
+ARC-C1-c1-5110,Install Secondary Steel for Wall & Door Supports
+CON-C1-c4-4600,Hydrant Water
+CON-C1-c4-4610,NPW
+CON-C1-c2-4570,LV
+CON-AD-WS-7059,Hydrant Water North
+CON-AD-UR-1140,ADMIN - Green roof planting
+CON-AD-UR-1120,ADMIN - Roof Walkways
+CON-C1-c4-4650,Transfo Drainage
+CON-C1-c3-4310,Floor Prep & Pour - COLO1  Cell 3 - Curing Period
+CON-C1-c4-4700,Floor Pour - COLO1  Cell 4
+CON-C2-c1-4480,Foul Water
+CON-C2-c2-4590,Foul Water
+CON-C3-c2-4570,Floor Pour - COLO3  Cell 2
+CON-C3-c3-1390,Floor Prep - COLO3  Cell 3
+CON-C1-c1-4460,Telecoms
+CON-AD-WS-6959,NPW Including Chamber
+CON-AD-WS-6969,Storm Water
+CON-AD-WS-6989,MV
+CON-AD-L1-1340,"Level 1 Admin West Side (GL: Y1-Y7,YA-YH) Curing period"
+CON-C2-c1-4390,UGS Install - NPW COLO2 Cell 1
+CON-C2-c2-4480,UGS Install - NPW  COLO2 Cell 2
+CON-C3-UR-1050,COLO 3 - Roof Walkways
+CON-C1-c2-4650,HEL16-COLO1&3-CE2-GPC01- Curing period
+CON-C4-c4-4660,Floor Prep & Pour - COLO4  Cell 4 - Curing Period
+CON-AD-WS-7069,Hydrant Water South
+CON-AD-WS-6979,District Heating
+CON-AD-WS-7139,HEL16-ADMIN-TX/LBP01- Curing period
+CON-AD-WS-7159,HEL16-ADMIN-GPC01 - Slab Prep & Pour
+CON-C1-c3-4570,LV
+CON-AD-L1-1330,"Level 1 Admin East Side (GL: Y1-Y7,YH-YN) Slab Prep & Pour"
+CON-GH-3160,Steel Frame
+MEC-C1-c1-5910,Install HL Soils & Waste Pipwork
+ARC-AD-L2-8020,1st fix Partitions  - incl. Metal Work
+ARC-AD-L2-4750,1st fix Partitions  - incl. Metal Work
+ARC-C1-c1-5150,Install White Walls - Switchroom
+ARC-C1-c1-4770,Secondary Steelwork Supports
+ARC-C1-c1-5600,Secondary Steelwork Supports
+ARC-C1-c2-6250,Install Secondary Steel for Wall & Door Supports
+CON-C1-c2-4580,Telecoms
+CON-C1-c4-4320,Floor Prep & Pour - COLO1  Cell 4 - Curing Period
+CON-C2-c1-4400,UGS Install - LV COLO2 Cell 1 (GL:15-22)
+CON-C2-c1-4770,UGS Install - Back Fill COLO2 Cell 1
+CON-C2-c2-4490,UGS Install - LV COLO2 Cell 2 (GL:15-22)
+CON-C2-c2-4790,UGS Install - Back Fill  COLO2 Cell 2
+CON-ZC-6978,Road Build Up
+CON-ZF-7550,District Heating (2/2)
+CON-C3-c1-4550,Floor Prep & Pour - COLO3  Cell 1 - Curing Period
+CON-C3-c3-4580,Floor  Pour - COLO3  Cell 3
+CON-C3-c4-1400,Floor Prep - COLO3  Cell 4
+CON-AD-WS-6999,LV
+CON-ZA-6859,Storm Water
+CON-C1-c4-4730,HEL16-COLO1&3-CE4-GPC01- Curing period
+CON-C2-c1-4490,Rain Water
+CON-C2-c1-4560,Storm Water
+CON-C2-c1-4570,MV
+CON-C2-c2-4601,Rain Water
+CON-C2-c2-4660,Storm Water
+CON-C2-c2-4670,MV
+CON-AD-WS-7079,NPW Including Chamber
+CON-C5-c1-6949,HEL16-COLO5-CE1&3- Yard Slab Prep & Pour
+CON-C5-c2-6939,HEL16-COLO5-CE2&4- Yard Slab Prep & Pour
+CON-C1-c3-4630,HEL16-COLO1&3-CE3-GPC01- Curing period
+CON-C2-c3-4761,HEL16-COLO2&4-CE3- Yard Slab Prep & Pour
+CON-C2-c4-4860,HEL16-COLO2&4-CE4- Yard Slab Prep & Pour
+CON-ZF-7220,Battery Room Discharge
+CON-ZF-7230,Rain Water
+CON-EX-SP-1160,Secondary Access Road Complete
+MEC-C1-c2-6190,Install HL Soils & Waste Pipwork
+ME-C1-c1-4750,Install HL Sprinkler Pipework Inc Test
+ARC-C1-c1-5170,Install White Walls - Battery Room
+ARC-C1-c1-5180,Install Flashings to White Walls - Switchroom
+ARC-C1-c2-6270,Install White Walls - Switchroom
+MEC-C1-c1-5560,Install HL Sprinkler Pipework (Above Ceiling)
+ARC-C1-c2-6100,Secondary Steelwork Supports
+ARC-C1-c2-6370,Secondary Steelwork Supports
+ARC-C1-c3-6630,Install Secondary Steel for Wall & Door Supports
+CON-C1-c4-4680,LV
+CON-C2-c1-4421,UGS Install - Subsoil COLO2 Cell 1
+CON-C2-c2-4510,UGS Install - Subsoil  COLO2 Cell 2
+CON-C3-c2-4560,Floor Prep & Pour - COLO3  Cell 2 - Curing Period
+CON-C3-c4-4590,Floor  Pour - COLO3  Cell 4
+CON-LR-C2-1230,Cladding
+CON-SVS-3040,Slab Pour
+ARC-AD-L2-4920,Plasterboard to 1 side
+ARC-AD-L2-8390,Install Bracketry and First Fix Pipework
+CON-C2-c1-4430,UGS Install - Radon Header COLO2 Cell 1
+CON-C2-c2-4520,UGS Install - Radon Header  COLO2 Cell 2
+CON-CDS-3110,Floor Build Up
+CON-AD-WS-7169,HEL16-ADMIN- Yard Slab Prep & Pour
+CON-AD-WS-7149,HEL16-ADMIN-GPC01- Curing period
+CON-AD-L1-1350,"Level 1 Admin East Side (GL: Y1-Y7,YH-YN) Curing period"
+CON-GH-7130,Roofing and Cladding
+MEC-C1-c3-6450,Install HL Soils & Waste Pipwork
+ARC-AD-L2-8290,Install Brackets
+GEN-C1-c1-4760,Install HL VESDA Pipework
+ARC-C1-c1-5200,Install Eurobond Ceiling
+ARC-C1-c1-5210,Install Flashings to White Walls - Battery Room
+ARC-C1-c2-6290,Install White Walls - Battery Room
+ARC-C1-c2-6300,Install Flashings to White Walls - Switchroom
+ARC-C1-c3-6650,Install White Walls - Switchroom
+ELE-C1-c1-5100,Install HL VESDA Pipework
+MEC-C1-c1-5580,Test HL Sprinkler Pipework (Above Ceiling)
+ARC-C1-c3-6480,Secondary Steelwork Supports
+ARC-C1-c3-6750,Secondary Steelwork Supports
+ME-C1-c2-4760,Install HL Sprinkler Pipework Inc Test
+ARC-C1-c4-7010,Install Secondary Steel for Wall & Door Supports
+MEC-C1-c2-6070,Install HL Sprinkler Pipework (Above Ceiling)
+CON-C1-c4-4690,Telecoms
+CON-C3-c3-4570,Floor Prep & Pour - COLO3  Cell 3 - Curing Period
+CON-LR-C2-1270,Flashings
+CON-LR-C2-1260,Roof
+ARC-AD-L1-1140,1st fix Partitions  - incl. Metal Work
+ELE-L2-SR-6460,1st Fix Containment Installation
+ELE-AD-L2-8540,Installation of Primary Containment - Main Tray
+CON-C1-c1-4550,HEL16-COLO1&3-CE1- Yard Slab Prep & Pour
+CON-L1-AD-WS-4110,ADMIN - Curtain walling
+CON-C2-c1-4440,UGS Install - Drainage Layer COLO2 Cell 1
+CON-C2-c2-4610,UGS Install - Drainage Layer  COLO2 Cell 2
+CON-AD-WS-7099,MV
+CON-AD-WS-7129,Storm Water
+CON-AD-WS-7179,HEL16-ADMIN- Yard Slab Curing period
+CON-C2-c1-1310,Floor Prep - COLO2  Cell 1
+MEC-C1-c4-6710,Install HL Soils & Waste Pipwork
+MEC-C1-c3-6330,Install HL Sprinkler Pipework (Above Ceiling)
+GEN-C1-c1-4820,Install Ceiling Hangers - Sub Grid & Drop Rods
+ELE-C1-c1-5590,Install HL VESDA Pipework
+ARC-C1-c1-5140,Install Ceiling Hangers - Sub Grid & Drop Rods
+ARC-C1-c2-6310,Install Eurobond Ceiling
+ARC-C1-c2-6320,Install Flashings to White Walls - Battery Room
+GEN-C1-c2-4830,Install HL VESDA Pipework
+ELE-C1-c2-6410,Install HL VESDA Pipework
+ARC-C1-c3-6670,Install White Walls - Battery Room
+ARC-C1-c3-6680,Install Flashings to White Walls - Switchroom
+ARC-C1-c4-7030,Install White Walls - Switchroom
+ARC-C1-c4-6860,Secondary Steelwork Supports
+MEC-C1-c2-6090,Test HL Sprinkler Pipework (Above Ceiling)
+ARC-C1-c4-7130,Secondary Steelwork Supports
+ME-C1-c3-4770,Install HL Sprinkler Pipework Inc Test
+ARC-C3-c1-6250,Install Secondary Steel for Wall & Door Supports
+CON-ZF-7290,LV
+CON-C3-c4-4580,Floor Prep & Pour - COLO3  Cell 4 - Curing Period
+CON-LR-C2-1280,Louvers
+CON-SVS-3030,Slab Curing
+ARC-AD-L1-4310,1st fix Partitions  - incl. Metal Work
+ELE-L2-SR-6470,2nd Fix Containment Installation
+ARC-AD-L2-8400,1st Fix Pressure Test
+CON-C2-c1-4070,HEL16-COLO2&4-CE1-TX/LBP01- Slab Prep & Pour
+CON-C2-c2-4090,HEL16-COLO2&4-CE2-TX/LBP01- Slab Prep & Pour
+CON-AD-WS-7109,LV
+CON-C5-c1-6959,HEL16-COLO5-CE1&3- Yard Slab Curing period
+CON-C5-c2-6949,HEL16-COLO5-CE2&4- Yard Slab Curing period
+GEN-L1-2750,Temporary USS01/USS02 Installation
+ARC-AD-L2-8180,Plasterboard to 1 side
+ELE-AD-L2-8550,"Installation of Containment for FA,GS,BMS, BAS - Basket"
+CON-C2-c3-4771,HEL16-COLO2&4-CE3- Yard Slab Curing period
+CON-C2-c4-4870,HEL16-COLO2&4-CE4- Yard Slab Curing period
+CON-C2-c1-4710,Floor Pour - COLO2  Cell 1
+CON-C2-c2-1320,Floor Prep - COLO2  Cell 2
+CON-C4-c1-1350,Floor Prep - COLO4  Cell 1
+MEC-C1-c4-6590,Install HL Sprinkler Pipework (Above Ceiling)
+GEN-C1-c2-4840,Install Ceiling Hangers - Sub Grid & Drop Rods
+ARC-C1-c1-4780,Install White Walls
+ARC-C1-c1-4790,Install Column Encasements
+ARC-C1-c1-5610,Install Ceiling Grid & Panels
+ARC-C1-c2-6260,Install Ceiling Hangers - Sub Grid & Drop Rods
+ARC-C1-c3-6690,Install Eurobond Ceiling
+ELE-C1-c2-6590,Install HL VESDA Pipework
+ARC-C1-c3-6700,Install Flashings to White Walls - Battery Room
+GEN-C1-c3-4850,Install HL VESDA Pipework
+ARC-C1-c4-7050,Install White Walls - Battery Room
+ARC-C1-c4-7060,Install Flashings to White Walls - Switchroom
+ELE-C1-c3-7020,Install HL VESDA Pipework
+MEC-C1-c3-6350,Test HL Sprinkler Pipework (Above Ceiling)
+ME-C1-c4-4780,Install HL Sprinkler Pipework Inc Test
+CON-C1-c2-4680,HEL16-COLO1&3-CE2- Yard Slab Prep & Pour
+ARC-C3-c1-6100,Secondary Steelwork Supports
+ARC-C3-c1-6270,Install White Walls - Switchroom
+ARC-C3-c1-6370,Secondary Steelwork Supports
+MEC-C3-c1-6190,Install HL Soils & Waste Pipwork
+ARC-C3-c2-6630,Install Secondary Steel for Wall & Door Supports
+CON-LR-C2-1290,PV panels
+ARC-C3-c1-6101,Roof Fire Lining
+ELE-L2-SR-7210,Equipment  Installation - CFCI
+ARC-AD-L2-8410,Install Pipework Drops 2nd Fix
+ARC-C1-c1-5160,Install Ceiling Grid & Fit Ceiling Tiles
+CON-C1-c1-4560,HEL16-COLO1&3-CE1- Yard Slab Curing period
+CON-C1-c3-4640,HEL16-COLO1&3-CE3- Yard Slab Prep & Pour
+CON-ZA-6899,Road Build Up
+CON-CDS-3080,Slab Pour
+CON-C2-c1-4500,Clear Water Discharge
+CON-C2-c1-4510,Battery Room Discharge
+CON-C2-c1-4520,Hydrant Water
+CON-C2-c2-4611,Clear Water Discharge
+CON-C2-c2-4620,Battery Room Discharge
+CON-C2-c2-4630,Hydrant Water
+CON-AD-7139,Excavations & UGS
+CON-L1-AD-SS-4140,ADMIN - Curtain walling
+CON-L1-AD-ES-4170,ADMIN - Curtain walling
+CON-ZF-7250,Hydrant Water
+CON-ZF-7260,NPW
+CON-C2-c1-4590,Floor Prep & Pour - COLO2  Cell 1 - Curing Period
+CON-C2-c2-4730,Floor Pour - COLO2  Cell 2
+CON-C4-c1-4640,Floor Pour - COLO4  Cell 1
+CON-C4-c2-1360,Floor Prep - COLO4  Cell 2
+ARC-AD-L2-8300,Install 1st Fix Ductwork
+GEN-C1-c3-4860,Install Ceiling Hangers - Sub Grid & Drop Rods
+ARC-C1-c1-4800,Install Flashings to White Walls
+ARC-C1-c1-4810,Install Mesh Walls
+ARC-C1-c1-4850,Modular HACs - 1st Fix - assembly on ground
+ARC-C1-c1-4890,Firestopping Top Whitewalls
+ARC-C1-c2-6110,Install White Walls
+ELE-C1-c3-7200,Install HL VESDA Pipework
+ARC-C1-c2-6120,Install Column Encasements
+ARC-C1-c2-6280,Install Ceiling Grid & Fit Ceiling Tiles
+ARC-C1-c2-6380,Install Ceiling Grid & Panels
+ARC-C1-c3-6640,Install Ceiling Hangers - Sub Grid & Drop Rods
+ARC-C1-c4-7070,Install Eurobond Ceiling
+ARC-C1-c4-7080,Install Flashings to White Walls - Battery Room
+GEN-C1-c4-4870,Install HL VESDA Pipework
+ELE-C1-c4-7630,Install HL VESDA Pipework
+MEC-C1-c4-6610,Test HL Sprinkler Pipework (Above Ceiling)
+ME-C3-c1-4760,Install HL Sprinkler Pipework Inc Test
+ARC-C3-c1-6290,Install White Walls - Battery Room
+ARC-C3-c1-6300,Install Flashings to White Walls - Switchroom
+MEC-C3-c1-6070,Install HL Sprinkler Pipework (Above Ceiling)
+ARC-C3-c2-6480,Secondary Steelwork Supports
+ARC-C3-c2-6650,Install White Walls - Switchroom
+ARC-C3-c2-6750,Secondary Steelwork Supports
+MEC-C3-c2-6450,Install HL Soils & Waste Pipwork
+ARC-C3-c3-7010,Install Secondary Steel for Wall & Door Supports
+CON-C2-c1-4530,NPW
+CON-C2-c2-4640,NPW
+CON-C2-c1-4550,Transfo Drainage
+CON-C2-c2-4650,Transfo Drainage
+CON-LR-C2-1300,Doors & finishes
+ARC-C3-c2-7641,Roof Fire Lining
+ARC-AD-EX-1440,Ductwork From AHU to POC
+ELE-AD-L2-8430,Installation of Primary Containment - Drops
+ARC-C1-c1-6010,Install Containment Gantry Steel
+CON-CDS-3100,Wall Pours
+ARC-AD-L1-4490,Plasterboard to 1 side
+ELE-L2-SR-6620,Cabling LV
+ARC-AD-L2-4760,Close Plasterboard to Partitions - Incl. Ply Grounds into Walls
+ARC-AD-L2-8420,Complete System Pressure Test
+CON-C2-c1-4720,HEL16-COLO2&4-CE1-TX/LBP01- Curing period
+CON-C2-c2-4740,HEL16-COLO2&4-CE2-TX/LBP01- Curing period
+CON-C2-c1-4730,HEL16-COLO2&4-CE1-GPC01- Slab Prep & Pour
+CON-C2-c2-4750,HEL16-COLO2&4-CE2-GPC01- Slab Prep & Pour
+ELE-AD-L2-8470,"Installation of Containment for FA,GS,BMS, BAS - Drops"
+CON-C2-c2-4600,Floor Prep & Pour - COLO2  Cell 2 - Curing Period
+CON-C4-c2-4650,Floor Pour - COLO4  Cell 2
+CON-GH-3180,Fit-Out
+ARC-AD-L1-1190,Plasterboard to 1 side
+MEC-C1-c1-5570,Install NPW 1st Fix Pipework
+ELE-C1-c1-5630,Containment - Primary for LV to AHUs
+ARC-AD-L1-1210,Install Bracketry and First Fix Pipework
+GEN-C1-c4-4880,Install Ceiling Hangers - Sub Grid & Drop Rods
+ARC-C1-c1-4830,Install Ceiling Grid & Fit Ceiling Tiles
+ARC-C1-c1-4840,Install Ceiling in Central Corridor
+ARC-C1-c1-6100,Modular HACs - 1st Fix - MEP connections & OAQC
+ARC-C1-c1-5620,Form Openings in Ceiling Panels Dampers & Hatches
+MEC-C1-c1-5850,Install Mechanical Corridor Handrails
+ARC-C1-c2-6130,Install Flashings to White Walls
+ARC-C1-c2-6140,Install Mesh Walls
+ELE-C1-c4-7810,Install HL VESDA Pipework
+ARC-C1-c2-6170,Modular HACs - 1st Fix - assembly on ground
+ARC-C1-c2-6210,Firestopping Top Whitewalls
+ARC-C1-c3-6490,Install White Walls
+ARC-C1-c3-6500,Install Column Encasements
+ARC-C1-c3-6660,Install Ceiling Grid & Fit Ceiling Tiles
+ARC-C1-c3-6760,Install Ceiling Grid & Panels
+ARC-C1-c4-7020,Install Ceiling Hangers - Sub Grid & Drop Rods
+CON-C1-c2-4690,HEL16-COLO1&3-CE2- Yard Slab Curing period
+CON-C1-c4-4740,HEL16-COLO1&3-CE4- Yard Slab Prep & Pour
+GEN-C3-c1-4830,Install HL VESDA Pipework
+ELE-C3-c1-6410,Install HL VESDA Pipework
+CON-L1-C1-4100,COLO1&3 - Flue Towers - GL1 - GL8
+ARC-C3-c1-6310,Install Eurobond Ceiling
+ARC-C3-c1-6320,Install Flashings to White Walls - Battery Room
+MEC-C3-c1-6090,Test HL Sprinkler Pipework (Above Ceiling)
+ME-C3-c2-4770,Install HL Sprinkler Pipework Inc Test
+ARC-C3-c2-6670,Install White Walls - Battery Room
+ARC-C3-c2-6680,Install Flashings to White Walls - Switchroom
+MEC-C3-c2-6330,Install HL Sprinkler Pipework (Above Ceiling)
+ARC-C3-c3-6860,Secondary Steelwork Supports
+ARC-C3-c3-7030,Install White Walls - Switchroom
+ARC-C3-c3-7130,Secondary Steelwork Supports
+MEC-C3-c3-6710,Install HL Soils & Waste Pipwork
+ARC-C3-c4-7390,Install Secondary Steel for Wall & Door Supports
+CON-C4-UR-1150,COLO 4 - Roof Walkways
+ARC-C3-c1-7630,Roof Fire Lining
+MEC-C1-c1-5190,Install Refrigeration Tray
+MEC-C1-c1-5130,Installation of UPS Chimey Ducting
+ELE-C1-c1-5260,Containment - Primary LV Main Equipment & Panels
+ELE-C1-c1-5120,Install Below Ceiling VESDA
+ARC-C1-c1-6040,Erect Generator Support Steel
+CON-C1-c3-4650,HEL16-COLO1&3-CE3- Yard Slab Curing period
+CON-C4-c1-4630,Floor Prep & Pour - COLO4  Cell 1 - Curing Period
+GEN-C3-c1-4840,Install Ceiling Hangers - Sub Grid & Drop Rods
+ARC-C3-c1-6260,Install Ceiling Hangers - Sub Grid & Drop Rods
+ELE-C3-c1-6590,Install HL VESDA Pipework
+GEN-C3-c2-4850,Install HL VESDA Pipework
+ELE-C3-c2-7020,Install HL VESDA Pipework
+ARC-C3-c2-6690,Install Eurobond Ceiling
+ARC-C3-c2-6700,Install Flashings to White Walls - Battery Room
+MEC-C3-c2-6350,Test HL Sprinkler Pipework (Above Ceiling)
+ME-C3-c3-4780,Install HL Sprinkler Pipework Inc Test
+ARC-C3-c3-7050,Install White Walls - Battery Room
+ARC-C3-c3-7060,Install Flashings to White Walls - Switchroom
+MEC-C3-c3-6590,Install HL Sprinkler Pipework (Above Ceiling)
+ARC-C3-c4-7240,Secondary Steelwork Supports
+ARC-C3-c4-7410,Install White Walls - Switchroom
+ARC-C3-c4-7510,Secondary Steelwork Supports
+MEC-C3-c4-6970,Install HL Soils & Waste Pipwork
+ARC-AD-L2-4770,Tape & Joint Finish to Walls
+ARC-C2-c1-6630,Install Secondary Steel for Wall & Door Supports
+MEC-C1-c1-5670,Install HL Return Dampers
+MEC-C1-c2-6080,Install NPW 1st Fix Pipework
+MEC-C1-c2-6020,Install Refrigeration Tray
+MEC-C1-c2-6010,Installation of UPS Chimey Ducting
+ELE-C1-c2-6430,Containment - Primary LV Main Equipment & Panels
+ELE-C1-c2-6600,Containment - Primary for LV to AHUs
+ARC-AD-L1-1200,Install Brackets
+ARC-C1-c2-6150,Install Ceiling Grid & Fit Ceiling Tiles
+ELE-C1-c2-6420,Install Below Ceiling VESDA
+ARC-C1-c2-6160,Install Ceiling in Central Corridor
+ARC-C1-c2-6480,Modular HACs - 1st Fix - MEP connections & OAQC
+ARC-C1-c2-6390,Form Openings in Ceiling Panels Dampers & Hatches
+MEC-C1-c2-6170,Install Mechanical Corridor Handrails
+ARC-C1-c3-6510,Install Flashings to White Walls
+ARC-C1-c3-6520,Install Mesh Walls
+ARC-C1-c3-6550,Modular HACs - 1st Fix - assembly on ground
+ARC-C1-c3-6590,Firestopping Top Whitewalls
+ARC-C1-c4-6870,Install White Walls
+ARC-C1-c2-6450,Install Containment Gantry Steel
+ARC-C1-c4-6880,Install Column Encasements
+ARC-C1-c4-7040,Install Ceiling Grid & Fit Ceiling Tiles
+ARC-C1-c4-7140,Install Ceiling Grid & Panels
+CON-UR-C1-4085,COLO1&3 - WHR Supports - GL1
+CON-C2-c1-4580,Aco Chanels
+CON-C2-c1-4591,LV
+CON-C2-c2-4680,Aco Chanels
+CON-C2-c2-4690,LV
+ARC-C3-c4-7641,Roof Fire Lining
+CON-SVS-3060,Fit-Out
+ELE-AD-L2-8340,Install AC Units System
+ELE-AD-L2-8440,Installation of MV/LV Cabling (1/2)
+MEC-C1-c1-5220,Install AC Units
+ELE-C1-c1-6020,Containment - Primary LV Mains
+CON-AD-ES-7229,HEL16-ADMIN-Retaining Walls Prep & Pour
+CON-C2-c1-4740,HEL16-COLO2&4-CE1-GPC01- Curing period
+CON-C2-c2-4760,HEL16-COLO2&4-CE2-GPC01- Curing period
+ARC-AD-L2-8030,Close Plasterboard to Partitions - Incl. Ply Grounds into Walls
+CON-C4-c2-4640,Floor Prep & Pour - COLO4  Cell 2 - Curing Period
+ARC-C3-c1-6110,Install White Walls
+ARC-C3-c1-6120,Install Column Encasements
+ARC-C3-c1-6280,Install Ceiling Grid & Fit Ceiling Tiles
+ARC-C3-c1-6380,Install Ceiling Grid & Panels
+ARC-C3-c1-6450,Install Containment Gantry Steel
+GEN-C3-c2-4860,Install Ceiling Hangers - Sub Grid & Drop Rods
+ARC-C3-c2-6640,Install Ceiling Hangers - Sub Grid & Drop Rods
+ELE-C3-c2-7200,Install HL VESDA Pipework
+GEN-C3-c3-4870,Install HL VESDA Pipework
+ELE-C3-c3-7630,Install HL VESDA Pipework
+ARC-C3-c3-7070,Install Eurobond Ceiling
+ARC-C3-c3-7080,Install Flashings to White Walls - Battery Room
+MEC-C3-c3-6610,Test HL Sprinkler Pipework (Above Ceiling)
+ME-C3-c4-4790,Install HL Sprinkler Pipework Inc Test
+ARC-C3-c4-7430,Install White Walls - Battery Room
+ARC-C3-c4-7440,Install Flashings to White Walls - Switchroom
+MEC-C3-c4-6850,Install HL Sprinkler Pipework (Above Ceiling)
+ARC-C2-c1-6480,Secondary Steelwork Supports
+ARC-C2-c1-6650,Install White Walls - Switchroom
+ARC-C2-c1-6750,Secondary Steelwork Supports
+MEC-C2-c1-6450,Install HL Soils & Waste Pipwork
+ARC-C2-c2-7010,Install Secondary Steel for Wall & Door Supports
+ARC-AD-L2-4780,Skim and Inital Painting
+MEC-C1-c2-6030,Install AC Units
+MEC-C1-c2-6100,Install HL Return Dampers
+MEC-C1-c3-6340,Install NPW 1st Fix Pipework
+ARC-C1-c1-4900,Install Containment for LV Power in Central Corridor
+ELE-C1-c1-5640,Containment - Primary LV Containment SW and Gen Yard
+MEC-C1-c3-6280,Install Refrigeration Tray
+MEC-C1-c3-6270,Installation of UPS Chimey Ducting
+ELE-C1-c1-4920,Install LL VESDA Pipework
+ELE-C1-c3-7030,Install Below Ceiling VESDA
+ELE-C1-c3-7040,Containment - Primary LV Main Equipment & Panels
+ELE-C1-c3-7210,Containment - Primary for LV to AHUs
+ARC-C1-c1-4870,Modular HACs - 2nd Fix - Lift HACs & Install Support Column
+ARC-C1-c3-6530,Install Ceiling Grid & Fit Ceiling Tiles
+ARC-C1-c3-6540,Install Ceiling in Central Corridor
+ARC-C1-c3-6860,Modular HACs - 1st Fix - MEP connections & OAQC
+ARC-C1-c3-6770,Form Openings in Ceiling Panels Dampers & Hatches
+MEC-C1-c3-6430,Install Mechanical Corridor Handrails
+ARC-C1-c4-6890,Install Flashings to White Walls
+ARC-C1-c4-6900,Install Mesh Walls
+ARC-C1-c4-6930,Modular HACs - 1st Fix - assembly on ground
+ARC-C1-c4-6970,Firestopping Top Whitewalls
+ARC-C1-c3-6830,Install Containment Gantry Steel
+ARC-C1-c2-6460,Erect Generator Support Steel
+CON-C1-c4-4750,HEL16-COLO1&3-CE4- Yard Slab Curing period
+CON-L1-C1-4120,COLO1&3 - Flue Towers - GL8 - GL15
+ELE-AD-L1-9420,Installation of Primary Containment - Main Tray
+ELE-AD-L2-8480,"Installation of  Cabling for FA,GS,BMS, BAS (1/2)"
+MEC-C1-c1-5230,Install AC Pipework
+ELE-C1-c1-4960,Installation of Tap Off Boxes
+ARC-AD-EX-1130,Install Pipework From ACUs to POC incl. drainage
+ELE-L2-SR-6630,Terminations LV
+CON-ZF-7320,Underground Battery Room Drainage Tank (67m3)
+ARC-C3-c1-6130,Install Flashings to White Walls
+ARC-C3-c1-6140,Install Mesh Walls
+ARC-C3-c1-6170,Modular HACs - 1st Fix - assembly on ground
+ARC-C3-c1-6210,Firestopping Top Whitewalls
+ARC-C3-c2-6490,Install White Walls
+ARC-C3-c2-6500,Install Column Encasements
+ARC-C3-c2-6660,Install Ceiling Grid & Fit Ceiling Tiles
+ARC-C3-c2-6760,Install Ceiling Grid & Panels
+ARC-C3-c2-6830,Install Containment Gantry Steel
+GEN-C3-c3-4880,Install Ceiling Hangers - Sub Grid & Drop Rods
+ARC-C3-c3-7020,Install Ceiling Hangers - Sub Grid & Drop Rods
+ELE-C3-c3-7810,Install HL VESDA Pipework
+GEN-C3-c4-4890,Install HL VESDA Pipework
+ELE-C3-c4-8240,Install HL VESDA Pipework
+ARC-C3-c4-7450,Install Eurobond Ceiling
+ARC-C3-c4-7460,Install Flashings to White Walls - Battery Room
+MEC-C3-c4-6870,Test HL Sprinkler Pipework (Above Ceiling)
+ME-C2-c1-4770,Install HL Sprinkler Pipework Inc Test
+ARC-C2-c1-6670,Install White Walls - Battery Room
+ARC-C2-c1-6680,Install Flashings to White Walls - Switchroom
+MEC-C2-c1-6330,Install HL Sprinkler Pipework (Above Ceiling)
+ARC-C2-c2-6860,Secondary Steelwork Supports
+ARC-C2-c2-7030,Install White Walls - Switchroom
+ARC-C2-c2-7130,Secondary Steelwork Supports
+MEC-C2-c2-6710,Install HL Soils & Waste Pipwork
+ARC-C2-c3-7390,Install Secondary Steel for Wall & Door Supports
+ARC-C3-c1-6460,Erect Generator Support Steel
+ARC-AD-L1-1360,1st Fix Pressure Test
+ARC-AD-L2-8040,Tape & Joint Finish to Walls
+ARC-AD-L2-8310,Insulation & Labeling
+ARC-C1-c2-6220,Install Containment for LV Power in Central Corridor
+ELE-C1-c2-6610,Containment - Primary LV Containment SW and Gen Yard
+ELE-C1-c2-6710,Containment - Primary LV Mains
+MEC-C1-c2-6040,Install AC Pipework
+MEC-C1-c3-6290,Install AC Units
+MEC-C1-c3-6360,Install HL Return Dampers
+MEC-C1-c4-6600,Install NPW 1st Fix Pipework
+MEC-C1-c4-6540,Install Refrigeration Tray
+MEC-C1-c4-6530,Installation of UPS Chimey Ducting
+ELE-C1-c4-7650,Containment - Primary LV Main Equipment & Panels
+ELE-C1-c4-7820,Containment - Primary for LV to AHUs
+ELE-C1-c2-6290,Install LL VESDA Pipework
+ELE-C1-c4-7640,Install Below Ceiling VESDA
+ARC-C1-c2-6190,Modular HACs - 2nd Fix - Lift HACs & Install Support Column
+ARC-C1-c4-6910,Install Ceiling Grid & Fit Ceiling Tiles
+ARC-C1-c4-6920,Install Ceiling in Central Corridor
+ARC-C1-c4-7240,Modular HACs - 1st Fix - MEP connections & OAQC
+ARC-C1-c4-7150,Form Openings in Ceiling Panels Dampers & Hatches
+MEC-C1-c4-6690,Install Mechanical Corridor Handrails
+ARC-C1-c4-7210,Install Containment Gantry Steel
+ARC-C1-c2-6470,Erect Generator Access Steel
+ARC-C1-c3-6840,Erect Generator Support Steel
+CON-ZF-7300,Telecom
+GEN-L1-2850,MV Cable Pulling
+ELE-L2-SR-6640,"Secondary Containment (FA, GS, BAS)"
+ARC-AD-L2-4790,Tile Walls in WC's 2x
+ARC-AD-L2-8200,Install LTHW Brackets
+ARC-AD-L2-8350,Install AC Support & Pipework
+ELE-C1-c2-6330,Installation of Tap Off Boxes
+CON-CDS-3090,Roof Pour
+CON-AD-ES-7219,HEL16-ADMIN-Retaining Walls Curing period
+ELE-AD-L2-8510,Installation of MV/LV Cabling  (2/2)
+ELE-C1-c3-7220,Containment - Primary LV Containment SW and Gen Yard
+ARC-C3-c1-6150,Install Ceiling Grid & Fit Ceiling Tiles
+ARC-C3-c1-6160,Install Ceiling in Central Corridor
+ARC-C3-c1-7640,Modular HACs - 1st Fix - MEP connections & OAQC
+ELE-C3-c1-6420,Install Below Ceiling VESDA
+MEC-C3-c1-6010,Installation of UPS Chimey Ducting
+MEC-C3-c1-6020,Install Refrigeration Tray
+ELE-C3-c1-6430,Containment - Primary LV Main Equipment & Panels
+MEC-C3-c1-6080,Install NPW 1st Fix Pipework
+ARC-C3-c1-6390,Form Openings in Ceiling Panels Dampers & Hatches
+ELE-C3-c1-6600,Containment - Primary for LV to AHUs
+MEC-C3-c1-6170,Install Mechanical Corridor Handrails
+ELE-C3-c1-6710,Containment - Primary LV Mains
+ARC-C3-c2-6510,Install Flashings to White Walls
+ARC-C3-c2-6520,Install Mesh Walls
+ARC-C3-c2-6550,Modular HACs - 1st Fix - assembly on ground
+ARC-C3-c2-6590,Firestopping Top Whitewalls
+ARC-C3-c3-6870,Install White Walls
+ARC-C3-c3-6880,Install Column Encasements
+ARC-C3-c3-7040,Install Ceiling Grid & Fit Ceiling Tiles
+ARC-C3-c3-7140,Install Ceiling Grid & Panels
+ARC-C3-c3-7210,Install Containment Gantry Steel
+GEN-C3-c4-4900,Install Ceiling Hangers - Sub Grid & Drop Rods
+ARC-C3-c4-7400,Install Ceiling Hangers - Sub Grid & Drop Rods
+ELE-C3-c4-8420,Install HL VESDA Pipework
+GEN-C2-c1-4850,Install HL VESDA Pipework
+ARC-C2-c1-6690,Install Eurobond Ceiling
+ELE-C2-c1-7020,Install HL VESDA Pipework
+ARC-C2-c1-6700,Install Flashings to White Walls - Battery Room
+MEC-C2-c1-6350,Test HL Sprinkler Pipework (Above Ceiling)
+ARC-C3-c1-6470,Erect Generator Access Steel
+ME-C2-c2-4780,Install HL Sprinkler Pipework Inc Test
+ARC-C2-c2-7050,Install White Walls - Battery Room
+ARC-C2-c2-7060,Install Flashings to White Walls - Switchroom
+MEC-C2-c2-6590,Install HL Sprinkler Pipework (Above Ceiling)
+ARC-C2-c3-7240,Secondary Steelwork Supports
+ARC-C2-c3-7410,Install White Walls - Switchroom
+ARC-C2-c3-7510,Secondary Steelwork Supports
+MEC-C2-c3-6970,Install HL Soils & Waste Pipwork
+ARC-C2-c4-7770,Install Secondary Steel for Wall & Door Supports
+ARC-C3-c2-6840,Erect Generator Support Steel
+CON-C2-c1-4750,HEL16-COLO2&4-CE1- Yard Slab Prep & Pour
+CON-C2-c2-4770,HEL16-COLO2&4-CE2- Yard Slab Prep & Pour
+ARC-AD-L1-1330,Install 1st Fix Ductwork
+ARC-AD-L2-8050,Skim and Inital Painting
+ELE-AD-L1-2000,Secure Store I Elec - Primary Containmnet
+ELE-AD-L1-8530,Secure Store II Elec - Primary Containmnet
+ELE-AD-L1-8630,High Value Store Elec - Primary Containmnet
+ELE-AD-L1-8730,FCR Elec - Primary Containmnet
+ELE-AD-L1-8830,MMR1 Elec - Primary Containmnet
+ELE-AD-L1-8930,MMR2 Elec - Primary Containmnet
+ELE-AD-L1-9030,FOC- Elec - Primary Containmnet
+ELE-AD-L1-9130,SER Elec - Primary Containmnet
+ELE-AD-L1-9230,IDF Elec - Primary Containmnet
+ELE-AD-L1-9330,SOC Elec - Primary Containmnet
+MEC-C1-c3-6300,Install AC Pipework
+MEC-C1-c4-6550,Install AC Units
+MEC-C1-c1-5300,Install HL Fire Dampers
+MEC-C1-c4-6620,Install HL Return Dampers
+ARC-C1-c1-5280,Install Primary Containment for FA /SEC/GPL/BAS
+ELE-C1-c1-5650,Containment - Primary FA /SEC/GPL/BAS
+ELE-C1-c1-5290,Install Earth Bars
+ARC-C1-c3-6600,Install Containment for LV Power in Central Corridor
+ELE-C1-c3-7320,Containment - Primary LV Mains
+ELE-C1-c3-6900,Install LL VESDA Pipework
+ARC-C1-c3-6570,Modular HACs - 2nd Fix - Lift HACs & Install Support Column
+ARC-AD-L1-1450,Install Pipework Drops 2nd Fix
+ARC-C1-c1-5270,Install Panel Support Structures
+ARC-C1-c1-6090,Erect Generator Access Steel
+ARC-C1-c3-6850,Erect Generator Access Steel
+ARC-C1-c4-7220,Erect Generator Support Steel
+CON-L1-C2-4150,COLO2&4 - Flue Towers - GL22 - GL29
+ELE-AD-L1-9430,"Installation of Containment for FA,GS,BMS, BAS - Basket"
+MEC-C1-c1-5240,Install Condenstate Drainage Pipework
+ELE-C1-c3-6940,Installation of Tap Off Boxes
+ARC-SPH-3390,Onsite position & Installation of Pump House Modules
+CON-AD-ES-7199,HEL16-ADMIN-Loading Dock Slab Prep & Pour
+CON-AD-ES-7259,Backfill
+ARC-C4-c1-7010,Install Secondary Steel for Wall & Door Supports
+ELE-AD-L2-8560,"Installation of  Cabling for FA,GS,BMS, BAS (2/2)"
+ARC-C1-c2-6350,Install Primary Containment for FA /SEC/GPL/BAS
+MEC-C1-c2-6060,Install HL Fire Dampers
+ELE-C1-c2-6440,Install Earth Bars
+ARC-C1-c2-6340,Install Panel Support Structures
+MEC-C3-c1-6030,Install AC Units
+MEC-C3-c1-6100,Install HL Return Dampers
+ARC-C3-c2-6530,Install Ceiling Grid & Fit Ceiling Tiles
+ARC-C3-c2-6540,Install Ceiling in Central Corridor
+ARC-C3-c2-7651,Modular HACs - 1st Fix - MEP connections & OAQC
+ELE-C3-c2-7030,Install Below Ceiling VESDA
+MEC-C3-c2-6270,Installation of UPS Chimey Ducting
+MEC-C3-c2-6280,Install Refrigeration Tray
+ELE-C3-c2-7040,Containment - Primary LV Main Equipment & Panels
+MEC-C3-c2-6340,Install NPW 1st Fix Pipework
+ARC-C3-c2-6770,Form Openings in Ceiling Panels Dampers & Hatches
+ELE-C3-c2-7210,Containment - Primary for LV to AHUs
+MEC-C3-c2-6430,Install Mechanical Corridor Handrails
+ELE-C3-c2-7320,Containment - Primary LV Mains
+ARC-C3-c3-6890,Install Flashings to White Walls
+ARC-C3-c3-6900,Install Mesh Walls
+ARC-C3-c3-6930,Modular HACs - 1st Fix - assembly on ground
+ARC-C3-c3-6970,Firestopping Top Whitewalls
+ARC-C3-c4-7250,Install White Walls
+ARC-C3-c4-7260,Install Column Encasements
+ARC-C3-c4-7420,Install Ceiling Grid & Fit Ceiling Tiles
+ARC-C3-c4-7520,Install Ceiling Grid & Panels
+ARC-C3-c4-7590,Install Containment Gantry Steel
+GEN-C2-c1-4860,Install Ceiling Hangers - Sub Grid & Drop Rods
+ARC-C2-c1-6640,Install Ceiling Hangers - Sub Grid & Drop Rods
+ARC-C2-c2-7070,Install Eurobond Ceiling
+ELE-C2-c1-7200,Install HL VESDA Pipework
+ARC-C3-c2-6850,Erect Generator Access Steel
+GEN-C2-c2-4870,Install HL VESDA Pipework
+ELE-C2-c2-7630,Install HL VESDA Pipework
+ARC-C2-c2-7080,Install Flashings to White Walls - Battery Room
+MEC-C2-c2-6610,Test HL Sprinkler Pipework (Above Ceiling)
+ME-C2-c3-4790,Install HL Sprinkler Pipework Inc Test
+ARC-C2-c3-7430,Install White Walls - Battery Room
+ARC-C2-c3-7440,Install Flashings to White Walls - Switchroom
+MEC-C2-c3-6850,Install HL Sprinkler Pipework (Above Ceiling)
+ARC-C2-c4-7620,Secondary Steelwork Supports
+ARC-C2-c4-7790,Install White Walls - Switchroom
+ARC-C2-c4-7890,Secondary Steelwork Supports
+MEC-C2-c4-7230,Install HL Soils & Waste Pipwork
+ARC-C3-c3-7220,Erect Generator Support Steel
+ARC-AD-L2-8320,Install 2nd Fix Ductwork
+ELE-C1-c1-5430,Install Earthing and Bonding to Containment
+MEC-C1-c4-6560,Install AC Pipework
+MEC-C1-c2-6050,Install Condenstate Drainage Pipework
+ELE-C1-c1-4910,Containment - Primary FA /SEC/GPL/BAS
+ELE-C1-c2-6620,Containment - Primary FA /SEC/GPL/BAS
+ARC-C1-c4-6980,Install Containment for LV Power in Central Corridor
+ELE-C1-c4-7930,Containment - Primary LV Mains
+ELE-C1-c4-7510,Install LL VESDA Pipework
+ARC-C1-c4-6950,Modular HACs - 2nd Fix - Lift HACs & Install Support Column
+ELE-C1-c4-7830,Containment - Primary LV Containment SW and Gen Yard
+ARC-C1-c4-7230,Erect Generator Access Steel
+ARC-AD-L1-1650,Complete System Pressure Test
+ELE-AD-L1-1260,Installation of Primary Containment - Drops
+ARC-AD-L2-4800,Sanitaryware WC's 2x
+ARC-AD-L2-8260,Install LTHW Brackets.Install DHW/DCW Flow & Return to Restrooms
+ELE-C1-c4-7550,Installation of Tap Off Boxes
+ARC-AD-EX-1430,Install Pipework From AHU to POC
+CON-ZD-7260,Storm Water North
+CON-ZD-7300,Telecom
+ARC-C4-c1-7640,Secondary Steelwork Supports
+ARC-C4-c1-7030,Install White Walls - Switchroom
+ARC-C4-c1-7130,Secondary Steelwork Supports
+MEC-C4-c1-6710,Install HL Soils & Waste Pipwork
+ARC-C4-c2-7390,Install Secondary Steel for Wall & Door Supports
+ARC-AD-L2-4820,Install Hangers for the Ceiling System
+MEC-C1-c3-6320,Install HL Fire Dampers
+ELE-C1-c2-6500,Install Earthing and Bonding to Containment
+ARC-C1-c3-6730,Install Primary Containment for FA /SEC/GPL/BAS
+ELE-C1-c3-7230,Containment - Primary FA /SEC/GPL/BAS
+ARC-C1-c3-6720,Install Panel Support Structures
+ELE-C1-c3-7050,Install Earth Bars
+ARC-C4-c1-6860,Roof Lining
+ELE-C3-c1-6610,Containment - Primary LV Containment SW and Gen Yard
+ARC-C3-c1-6190,Modular HACs - 2nd Fix - Lift HACs & Install Support Column
+ARC-C3-c1-6220,Install Containment for LV Power in Central Corridor
+ELE-C3-c1-6290,Install LL VESDA Pipework
+MEC-C3-c1-6040,Install AC Pipework
+MEC-C3-c2-6290,Install AC Units
+MEC-C3-c2-6360,Install HL Return Dampers
+ARC-C3-c3-6910,Install Ceiling Grid & Fit Ceiling Tiles
+ARC-C3-c3-6920,Install Ceiling in Central Corridor
+ARC-C3-c3-7240,Modular HACs - 1st Fix - MEP connections & OAQC
+ELE-C3-c3-7640,Install Below Ceiling VESDA
+MEC-C3-c3-6530,Installation of UPS Chimey Ducting
+MEC-C3-c3-6540,Install Refrigeration Tray
+ELE-C3-c3-7650,Containment - Primary LV Main Equipment & Panels
+MEC-C3-c3-6600,Install NPW 1st Fix Pipework
+ARC-C3-c3-7150,Form Openings in Ceiling Panels Dampers & Hatches
+ELE-C3-c3-7820,Containment - Primary for LV to AHUs
+MEC-C3-c3-6690,Install Mechanical Corridor Handrails
+ELE-C3-c3-7930,Containment - Primary LV Mains
+ARC-C3-c4-7270,Install Flashings to White Walls
+ARC-C3-c4-7280,Install Mesh Walls
+ARC-C3-c4-7310,Modular HACs - 1st Fix - assembly on ground
+ARC-C3-c4-7350,Firestopping Top Whitewalls
+ARC-C2-c1-6490,Install White Walls
+ARC-C2-c1-6500,Install Column Encasements
+ARC-C2-c1-6660,Install Ceiling Grid & Fit Ceiling Tiles
+ARC-C2-c1-6760,Install Ceiling Grid & Panels
+ARC-C2-c2-7020,Install Ceiling Hangers - Sub Grid & Drop Rods
+ARC-C2-c3-7450,Install Eurobond Ceiling
+GEN-C2-c2-4880,Install Ceiling Hangers - Sub Grid & Drop Rods
+ELE-C2-c2-7810,Install HL VESDA Pipework
+ARC-C3-c3-7230,Erect Generator Access Steel
+GEN-C2-c3-4890,Install HL VESDA Pipework
+ELE-C2-c3-8240,Install HL VESDA Pipework
+ARC-C2-c3-7460,Install Flashings to White Walls - Battery Room
+MEC-C2-c3-6870,Test HL Sprinkler Pipework (Above Ceiling)
+ME-C2-c4-4800,Install HL Sprinkler Pipework Inc Test
+ARC-C2-c4-7810,Install White Walls - Battery Room
+ARC-C2-c4-7820,Install Flashings to White Walls - Switchroom
+MEC-C2-c4-7110,Install HL Sprinkler Pipework (Above Ceiling)
+ARC-C3-c4-7600,Erect Generator Support Steel
+MEC-C1-c3-6310,Install Condenstate Drainage Pipework
+ELE-C1-c1-4940,Containment - Secondary FA /SEC/GPL/BAS
+ELE-C1-c2-6280,Containment - Primary FA /SEC/GPL/BAS
+CON-L1-C5-4140,COLO5 - Flue Towers - GL29 - GL36
+GEN-L1-2770,Fit out  UMS 01
+ELE-C3-c1-6330,Installation of Tap Off Boxes
+ELE-L2-SR-6650,"Secondary Cabling (FA, GS, BAS)"
+ARC-AD-L2-8210,Install LTHW Flow & Return (1st Fix)
+ARC-AD-L2-8360,Install Condensate Drains (AC)
+ELE-AD-L2-8450,Temination of MV/LVCabling (1/2)
+ELE-AD-L2-8490,"Cabling Terminations  for FA,GS,BMS, BAS (1/2)"
+ELE-C1-c1-4990,Cabling - Earthing
+ELE-C1-c1-5000,Cabling - Main LV to Equipment/Boards
+ELE-C1-c1-5760,Cabling - Main LV to Equipment/Boards
+MEC-C1-c1-5900,Install leak detection
+MEC-C1-c1-5930,Install NPW 2nd fix Pipework
+MEC-C1-c1-5690,Install Refrigeration Tray
+MEC-C1-c1-5700,Pipework Connections to AHUs
+ELE-C1-c1-5660,Containment - Secondary FA /SEC/GPL/BAS
+ELE-C1-c1-5790,VESDA Fit out
+ARC-C1-c1-5950,Install Corridor & riser Walls
+GEN-L1-2860,MV Cable Termination
+ELE-C1-c1-5440,Cabling - Main LV to Equipment/Boards
+ELE-C1-c1-6110,Cabling - Main LV to Equipment/Boards
+ELE-C1-c1-5460,Containment - Secondary FA /SEC/GPL/BAS
+ELE-C1-c1-6070,Containment - Secondary FA /SEC/GPL/BAS
+CON-AD-ES-7209,HEL16-ADMIN-Loading Dock Slab Curing period
+CON-AD-ES-7249,HEL16-ADMIN-BIN Store & Compactor Slab Prep & Pour
+GEN-L1-2780,Fit out  UMS 02
+ME-C4-c1-4780,Install HL Sprinkler Pipework Inc Test
+ARC-C4-c1-7050,Install White Walls - Battery Room
+ARC-C4-c1-7060,Install Flashings to White Walls - Switchroom
+MEC-C4-c1-6590,Install HL Sprinkler Pipework (Above Ceiling)
+ARC-C4-c2-7240,Secondary Steelwork Supports
+ARC-C4-c2-7410,Install White Walls - Switchroom
+ARC-C4-c2-7510,Secondary Steelwork Supports
+MEC-C4-c2-6970,Install HL Soils & Waste Pipwork
+ARC-C4-c3-7770,Install Secondary Steel for Wall & Door Supports
+ELE-C1-c4-7660,Install Earth Bars
+MEC-C1-c4-6580,Install HL Fire Dampers
+ARC-C1-c4-7110,Install Primary Containment for FA /SEC/GPL/BAS
+ELE-C1-c4-7840,Containment - Primary FA /SEC/GPL/BAS
+ARC-C1-c4-7100,Install Panel Support Structures
+ARC-C4-c2-8000,Roof Lining
+CON-GH-3200,MEP Connections
+ELE-C3-c2-7220,Containment - Primary LV Containment SW and Gen Yard
+ARC-C3-c2-6570,Modular HACs - 2nd Fix - Lift HACs & Install Support Column
+ARC-C3-c2-6600,Install Containment for LV Power in Central Corridor
+ELE-C3-c2-6900,Install LL VESDA Pipework
+MEC-C3-c2-6300,Install AC Pipework
+MEC-C3-c3-6550,Install AC Units
+MEC-C3-c3-6620,Install HL Return Dampers
+ARC-C3-c4-7290,Install Ceiling Grid & Fit Ceiling Tiles
+ARC-C3-c4-7300,Install Ceiling in Central Corridor
+ARC-C3-c4-7651,Modular HACs - 1st Fix - MEP connections & OAQC
+ELE-C3-c4-8250,Install Below Ceiling VESDA
+MEC-C3-c4-6790,Installation of UPS Chimey Ducting
+MEC-C3-c4-6800,Install Refrigeration Tray
+ELE-C3-c4-8260,Containment - Primary LV Main Equipment & Panels
+MEC-C3-c4-6860,Install NPW 1st Fix Pipework
+ARC-C3-c4-7530,Form Openings in Ceiling Panels Dampers & Hatches
+ELE-C3-c4-8430,Containment - Primary for LV to AHUs
+MEC-C3-c4-6950,Install Mechanical Corridor Handrails
+ELE-C3-c4-8540,Containment - Primary LV Mains
+ARC-C2-c1-6510,Install Flashings to White Walls
+ARC-C2-c1-6520,Install Mesh Walls
+ARC-C2-c1-6550,Modular HACs - 1st Fix - assembly on ground
+ARC-C2-c1-6590,Firestopping Top Whitewalls
+ARC-C2-c2-6870,Install White Walls
+ARC-C2-c2-6880,Install Column Encasements
+ARC-C2-c2-7040,Install Ceiling Grid & Fit Ceiling Tiles
+ARC-C2-c2-7140,Install Ceiling Grid & Panels
+ARC-C2-c3-7400,Install Ceiling Hangers - Sub Grid & Drop Rods
+ARC-C2-c4-7830,Install Eurobond Ceiling
+ARC-C3-c4-7610,Erect Generator Access Steel
+GEN-C2-c3-4900,Install Ceiling Hangers - Sub Grid & Drop Rods
+ELE-C2-c3-8420,Install HL VESDA Pipework
+GEN-C2-c4-4910,Install HL VESDA Pipework
+ELE-C2-c4-8850,Install HL VESDA Pipework
+ARC-C2-c4-7840,Install Flashings to White Walls - Battery Room
+MEC-C2-c4-7130,Test HL Sprinkler Pipework (Above Ceiling)
+CON-C2-c1-4760,HEL16-COLO2&4-CE1- Yard Slab Curing period
+CON-C2-c2-4780,HEL16-COLO2&4-CE2- Yard Slab Curing period
+CON-ZA-6909,LV Street Lighting
+ARC-AD-L2-8330,Pressure Test High Level Ductwork
+ELE-AD-L1-2070,Secure Store I Elec - Secondary Containmnet
+ELE-AD-L1-8540,Secure Store II Elec - Secondary Containmnet
+ELE-AD-L1-8640,High Value Store Elec - Secondary Containmnet
+ELE-AD-L1-8740,FCR Elec - Secondary Containmnet
+ELE-AD-L1-8840,MMR1 Elec -Secondary Containmnet
+ELE-AD-L1-8940,MMR2 Elec -  Secondary Containmnet
+ELE-AD-L1-9040,FOC Elec -Secondary Containmnet
+ELE-AD-L1-9140,SER Elec -Secondary Containmnet
+ELE-AD-L1-9240,IDF Elec -Secondary Containmnet
+ELE-AD-L1-9340,SOC Elec -Secondary Containmnet
+MEC-C1-c4-6570,Install Condenstate Drainage Pipework
+MEC-C1-c2-6180,Install leak detection
+MEC-C1-c2-6200,Install NPW 2nd fix Pipework
+ELE-C1-c2-6650,Cabling - Main LV to Equipment/Boards
+MEC-C1-c2-6120,Install Refrigeration Tray
+MEC-C1-c2-6130,Pipework Connections to AHUs
+ELE-C1-c3-6890,Containment - Primary FA /SEC/GPL/BAS
+ELE-C1-c3-7110,Install Earthing and Bonding to Containment
+ELE-C1-c1-4930,VESDA Fit Out
+ELE-C1-c2-6660,VESDA Fit out
+ARC-C1-c2-6440,Install Corridor & riser Walls
+ARC-WTP-1510,Onsite position of Plantroom Modules
+ELE-C1-c2-6310,Containment - Secondary FA /SEC/GPL/BAS
+ELE-C1-c2-6630,Containment - Secondary FA /SEC/GPL/BAS
+ELE-AD-L1-1900,Installation of MV/LV Cabling (1/2)
+ELE-AD-L1-1610,"Installation of Containment for FA,GS,BMS, BAS - Drops"
+ELE-L2-SR-6660,"Secondary Terminations (FA, GS, BAS)"
+ELE-C1-c1-5020,Cabling - Secondary - FA /SEC/GPL/BAS
+ARC-AD-L1-1600,Install AC Units System
+ELE-C1-c1-5450,Cabling - Earthing
+ELE-C1-c1-5510,Cabling - Secondary - FA /SEC/GPL/BAS
+ELE-C1-c2-6350,Cabling - Earthing
+ELE-C1-c2-6360,Cabling - Main LV to Equipment/Boards
+ELE-C1-c2-6510,Cabling - Main LV to Equipment/Boards
+MEC-C1-c1-5710,Install AC Units
+MEC-C1-c1-5960,Install Exhaust Duct Supports
+ELE-C1-c2-6750,Cabling - Main LV to Equipment/Boards
+ARC-C1-c1-5060,Firestopping Service Openings
+ELE-C1-c2-6530,Containment - Secondary FA /SEC/GPL/BAS
+ELE-C1-c2-6740,Containment - Secondary FA /SEC/GPL/BAS
+ELE-C3-c2-6940,Installation of Tap Off Boxes
+CON-CDS-3140,Roofing and Cladding
+ELE-C1-c1-6120,Cabling - Earthing
+ELE-C1-c1-6140,Cabling - Secondary - FA /SEC/GPL/BAS
+ELE-C1-c1-5030,Terminations - Main Equipment & Panels
+ARC-WTP-1480,Roof Flashings & Base Flashings made good with Plantroom in position
+ARC-WTP-6240,Weathering of Plantroom when position on site.
+ARC-AD-L2-8070,Install Hangers for the Ceiling System
+ARC-AD-L1-1490,Insulation & Labeling
+ARC-C3-c1-6350,Install Primary Containment for FA /SEC/GPL/BAS
+ELE-C3-c1-6440,Install Earth Bars
+MEC-C3-c1-6060,Install HL Fire Dampers
+ELE-C3-c1-6620,Containment - Primary FA /SEC/GPL/BAS
+GEN-C4-c1-4870,Install HL VESDA Pipework
+ELE-C4-c1-7630,Install HL VESDA Pipework
+ARC-C4-c1-7070,Install Eurobond Ceiling
+ARC-C4-c1-7080,Install Flashings to White Walls - Battery Room
+MEC-C4-c1-6610,Test HL Sprinkler Pipework (Above Ceiling)
+ME-C4-c2-4790,Install HL Sprinkler Pipework Inc Test
+ARC-C4-c2-7430,Install White Walls - Battery Room
+ARC-C4-c2-7440,Install Flashings to White Walls - Switchroom
+MEC-C4-c2-6850,Install HL Sprinkler Pipework (Above Ceiling)
+ARC-C4-c3-7620,Secondary Steelwork Supports
+ARC-C4-c3-7790,Install White Walls - Switchroom
+ARC-C4-c3-7890,Secondary Steelwork Supports
+MEC-C4-c3-7230,Install HL Soils & Waste Pipwork
+ARC-C4-c4-8150,Install Secondary Steel for Wall & Door Supports
+ARC-C3-c1-6340,Install Panel Support Structures
+ARC-C4-c3-8380,Roof Lining
+TELE-C1-c1-6280,IDFs
+TELE-C1-c1-6290,EPMS
+TELE-C1-c1-6300,SLV/SCCR
+TELE-C1-c1-6310,MORs
+TELE-C1-c1-7010,RNG
+ELE-C1-c2-6520,Cabling - Earthing
+MEC-C1-c2-6140,Install AC Units
+MEC-C1-c2-6220,Install Exhaust Duct Supports
+MEC-C1-c3-6440,Install leak detection
+MEC-C1-c3-6460,Install NPW 2nd fix Pipework
+MEC-C1-c3-6380,Install Refrigeration Tray
+ELE-C3-c3-7830,Containment - Primary LV Containment SW and Gen Yard
+MEC-C1-c3-6390,Pipework Connections to AHUs
+ELE-C1-c3-6920,Containment - Secondary FA /SEC/GPL/BAS
+ELE-C1-c3-7240,Containment - Secondary FA /SEC/GPL/BAS
+ELE-C1-c3-7260,Cabling - Main LV to Equipment/Boards
+ELE-C1-c2-6300,VESDA Fit Out
+ARC-C1-c3-6820,Install Corridor & riser Walls
+ELE-C1-c3-7270,VESDA Fit out
+ELE-C1-c4-7720,Install Earthing and Bonding to Containment
+ELE-C1-c4-7500,Containment - Primary FA /SEC/GPL/BAS
+MEC-C3-c1-6050,Install Condenstate Drainage Pipework
+ARC-C3-c3-6950,Modular HACs - 2nd Fix - Lift HACs & Install Support Column
+ARC-C3-c3-6980,Install Containment for LV Power in Central Corridor
+ELE-C3-c3-7510,Install LL VESDA Pipework
+MEC-C3-c3-6560,Install AC Pipework
+MEC-C3-c4-6810,Install AC Units
+MEC-C3-c4-6880,Install HL Return Dampers
+ARC-C2-c1-6860,Modular HACs - 1st Fix - MEP connections & OAQC
+ELE-C2-c1-7030,Install Below Ceiling VESDA
+MEC-C2-c1-6270,Installation of UPS Chimey Ducting
+MEC-C2-c1-6280,Install Refrigeration Tray
+ELE-C2-c1-7040,Containment - Primary LV Main Equipment & Panels
+MEC-C2-c1-6340,Install NPW 1st Fix Pipework
+ELE-C2-c1-7210,Containment - Primary for LV to AHUs
+MEC-C2-c1-6430,Install Mechanical Corridor Handrails
+ARC-C2-c1-6830,Install Containment Gantry Steel
+ARC-C2-c2-6890,Install Flashings to White Walls
+ARC-C2-c2-6900,Install Mesh Walls
+ARC-C2-c2-6930,Modular HACs - 1st Fix - assembly on ground
+ARC-C2-c2-6970,Firestopping Top Whitewalls
+ARC-C2-c1-6530,Install Ceiling Grid & Fit Ceiling Tiles
+ARC-C2-c1-6540,Install Ceiling in Central Corridor
+ARC-C2-c1-6770,Form Openings in Ceiling Panels Dampers & Hatches
+ARC-C2-c3-7250,Install White Walls
+ARC-C2-c3-7260,Install Column Encasements
+ARC-C2-c3-7420,Install Ceiling Grid & Fit Ceiling Tiles
+ARC-C2-c3-7520,Install Ceiling Grid & Panels
+ARC-C2-c4-7780,Install Ceiling Hangers - Sub Grid & Drop Rods
+GEN-C2-c4-4920,Install Ceiling Hangers - Sub Grid & Drop Rods
+ELE-C2-c4-9030,Install HL VESDA Pipework
+CON-L1-C2-4130,COLO2&4 - Flue Towers - GL15 - GL22
+ELE-C1-c1-5490,Terminations - Main Equipment & Panels
+ELE-C1-c1-5750,Install Earthing and Bonding to Containment
+ELE-C1-c2-6370,Cabling - Secondary - FA /SEC/GPL/BAS
+ELE-C1-c2-6560,Cabling - Secondary - FA /SEC/GPL/BAS
+ELE-C1-c2-6760,Cabling - Earthing
+ELE-C1-c2-6770,Cabling - Secondary - FA /SEC/GPL/BAS
+ELE-C1-c3-6960,Cabling - Earthing
+ELE-C1-c3-6970,Cabling - Main LV to Equipment/Boards
+MEC-C1-c1-5720,Install AC Pipework & Connections
+MEC-C1-c1-5730,Install Condenstate Drainage Pipework
+ELE-C1-c3-7120,Cabling - Main LV to Equipment/Boards
+MEC-C1-c1-5970,Install Exhaust Duct Ducting
+ELE-C1-c3-7140,Containment - Secondary FA /SEC/GPL/BAS
+ELE-C1-c3-7350,Containment - Secondary FA /SEC/GPL/BAS
+ARC-C1-c2-6230,Firestopping Service Openings
+ELE-C1-c3-7360,Cabling - Main LV to Equipment/Boards
+ELE-C3-c3-7550,Installation of Tap Off Boxes
+ELE-C1-c1-5050,Terminations - FA /SEC/GPL/BAS
+ELE-C1-c1-6150,Terminations - Main Equipment & Panels
+ELE-C1-c2-6380,Terminations - Main Equipment & Panels
+CON-AD-ES-7239,HEL16-ADMIN-BIN Store & Compactor Slab Slab Curing period
+ELE-AD-L2-8530,Temination of MV/LVCabling  (2/2)
+ARC-AD-L2-4810,Apply 1st Coat Paint to all Walls & Sand
+ARC-AD-L2-4830,Firestop High Level Openings
+ELE-AD-L2-8570,"Cabling Terminations  for FA,GS,BMS, BAS  (2/2)"
+ELE-C3-c1-6500,Install Earthing and Bonding to Containment
+ARC-C3-c2-6720,Install Panel Support Structures
+ARC-C3-c2-6730,Install Primary Containment for FA /SEC/GPL/BAS
+ELE-C3-c2-7050,Install Earth Bars
+MEC-C3-c2-6320,Install HL Fire Dampers
+ELE-C3-c2-7230,Containment - Primary FA /SEC/GPL/BAS
+GEN-C4-c1-4880,Install Ceiling Hangers - Sub Grid & Drop Rods
+ELE-C4-c1-7810,Install HL VESDA Pipework
+GEN-C4-c2-4890,Install HL VESDA Pipework
+ELE-C4-c2-8240,Install HL VESDA Pipework
+ARC-C4-c1-7020,Install Ceiling Hangers - Sub Grid & Drop Rods
+ARC-C4-c2-7450,Install Eurobond Ceiling
+ARC-C4-c2-7460,Install Flashings to White Walls - Battery Room
+MEC-C4-c2-6870,Test HL Sprinkler Pipework (Above Ceiling)
+ME-C4-c3-4800,Install HL Sprinkler Pipework Inc Test
+ARC-C4-c3-7810,Install White Walls - Battery Room
+ARC-C4-c3-7820,Install Flashings to White Walls - Switchroom
+MEC-C4-c3-7110,Install HL Sprinkler Pipework (Above Ceiling)
+ARC-C4-c4-8760,Secondary Steelwork Supports
+ARC-C4-c4-8170,Install White Walls - Switchroom
+ARC-C4-c4-8270,Secondary Steelwork Supports
+MEC-C4-c4-7490,Install HL Soils & Waste Pipwork
+ARC-C5-c1-7390,Install Secondary Steel for Wall & Door Supports
+ARC-C4-c4-8000,Roof Lining
+ARC-AD-L2-8280,Install DHW and DCW drainage pipework
+ELE-AD-L1-2160,Secure Store I Elec - Cabling
+ELE-AD-L1-8550,Secure Store II Elec - Cabling
+ELE-AD-L1-8650,High Value Store Elec - Cabling
+ELE-AD-L1-8750,FCR Elec- Cabling
+ELE-AD-L1-8850,MMR1 Elec -Cabling
+ELE-AD-L1-8950,MMR2 Elec -  Cabling
+ELE-AD-L1-9050,FOC Elec -Cabling
+ELE-AD-L1-9150,SER Elec -Cabling
+ELE-AD-L1-9250,IDF Elec -Cabling
+ELE-AD-L1-9350,SOC Elec -Cabling
+ELE-C1-c2-6550,Terminations - Main Equipment & Panels
+ELE-C1-c2-6640,Install Earthing and Bonding to Containment
+TELE-C1-c2-6420,IDFs
+TELE-C1-c2-6430,EPMS
+TELE-C1-c2-6440,SLV/SCCR
+TELE-C1-c2-6450,MORs
+TELE-C1-c2-7060,AZNG
+ELE-C1-c3-7130,Cabling - Earthing
+MEC-C1-c2-6150,Install AC Pipework & Connections
+MEC-C1-c3-6400,Install AC Units
+MEC-C1-c2-6160,Install Condenstate Drainage Pipework
+MEC-C1-c2-6230,Install Exhaust Duct Ducting
+MEC-C1-c3-6480,Install Exhaust Duct Supports
+ARC-C1-c4-7200,Install Corridor & riser Walls
+MEC-C1-c4-6700,Install leak detection
+MEC-C1-c4-6720,Install NPW 2nd fix Pipework
+MEC-C1-c4-6640,Install Refrigeration Tray
+MEC-C1-c4-6650,Pipework Connections to AHUs
+ELE-C3-c4-8440,Containment - Primary LV Containment SW and Gen Yard
+ELE-C1-c3-6910,VESDA Fit Out
+ELE-C1-c4-7880,VESDA Fit out
+ELE-C1-c4-7530,Containment - Secondary FA /SEC/GPL/BAS
+ELE-C1-c4-7850,Containment - Secondary FA /SEC/GPL/BAS
+ELE-C1-c4-7870,Cabling - Main LV to Equipment/Boards
+ELE-C3-c1-6280,Containment - Primary FA /SEC/GPL/BAS
+MEC-C3-c2-6310,Install Condenstate Drainage Pipework
+ARC-C3-c4-7330,Modular HACs - 2nd Fix - Lift HACs & Install Support Column
+ARC-C3-c4-7360,Install Containment for LV Power in Central Corridor
+ELE-C3-c4-8120,Install LL VESDA Pipework
+MEC-C3-c4-6820,Install AC Pipework
+MEC-C2-c1-6290,Install AC Units
+MEC-C2-c1-6360,Install HL Return Dampers
+ARC-C2-c2-7240,Modular HACs - 1st Fix - MEP connections & OAQC
+ELE-C2-c2-7640,Install Below Ceiling VESDA
+MEC-C2-c2-6530,Installation of UPS Chimey Ducting
+MEC-C2-c2-6540,Install Refrigeration Tray
+ELE-C2-c2-7650,Containment - Primary LV Main Equipment & Panels
+MEC-C2-c2-6600,Install NPW 1st Fix Pipework
+ELE-C2-c2-7820,Containment - Primary for LV to AHUs
+MEC-C2-c2-6690,Install Mechanical Corridor Handrails
+ARC-C2-c2-7210,Install Containment Gantry Steel
+ARC-C2-c3-7270,Install Flashings to White Walls
+ARC-C2-c3-7280,Install Mesh Walls
+ARC-C2-c3-7310,Modular HACs - 1st Fix - assembly on ground
+ARC-C2-c3-7350,Firestopping Top Whitewalls
+ARC-C2-c2-6910,Install Ceiling Grid & Fit Ceiling Tiles
+ARC-C2-c2-6920,Install Ceiling in Central Corridor
+ARC-C2-c2-7150,Form Openings in Ceiling Panels Dampers & Hatches
+ARC-C2-c4-7800,Install Ceiling Grid & Fit Ceiling Tiles
+ARC-C2-c4-7630,Install White Walls
+ARC-C2-c4-7640,Install Column Encasements
+ARC-C2-c4-7900,Install Ceiling Grid & Panels
+ARC-C2-c1-6840,Erect Generator Support Steel
+CON-ZA-6919,Road Surfacing
+CON-ZB-6948,LV Street Lighting
+CON-ZF-7331,Road Build Up
+CON-SB-7410,LV Street Lighting
+ARC-WTP-1490,Re - connect all mechanical pipework and connections across module divides.
+ARC-AD-L1-1340,Close Plasterboard to Partitions - Incl. Ply Grounds into Walls
+ARC-AD-L1-4320,Close Plasterboard to Partitions - Incl. Ply Grounds into Walls
+ELE-AD-L1-1910,"Installation of  Cabling for FA,GS,BMS, BAS (1/2)"
+ELE-L2-SR-6670,MEP Testing
+ARC-AD-L2-8220,QA Walkdown
+ARC-AD-L1-2150,Install AC Support & Pipework
+ARC-AD-L2-8370,Tie in to AHU
+ELE-C1-c1-5820,Cabling - Secondary - FA /SEC/GPL/BAS
+ELE-C1-c1-5800,Terminations - Main Equipment & Panels
+ELE-C1-c2-6780,Terminations - Main Equipment & Panels
+ELE-C1-c3-6980,Cabling - Secondary - FA /SEC/GPL/BAS
+ARC-AD-L1-2140,Install LTHW Brackets
+ELE-C1-c3-7170,Cabling - Secondary - FA /SEC/GPL/BAS
+ARC-C1-c1-5250,Install Doors & Ironmongery
+ARC-C1-c1-5810,Firestopping Service Openings
+MEC-C1-c1-5980,Install Exhaust Duct 2nd Fix Fittings
+ELE-C1-c3-7370,Cabling - Earthing
+ELE-C1-c3-7380,Cabling - Secondary - FA /SEC/GPL/BAS
+ARC-C1-c3-6610,Firestopping Service Openings
+ELE-C1-c4-7570,Cabling - Earthing
+ELE-C1-c4-7580,Cabling - Main LV to Equipment/Boards
+ELE-C1-c4-7730,Cabling - Main LV to Equipment/Boards
+ELE-C1-c4-7750,Containment - Secondary FA /SEC/GPL/BAS
+ELE-C1-c4-7960,Containment - Secondary FA /SEC/GPL/BAS
+ELE-C1-c4-7970,Cabling - Main LV to Equipment/Boards
+ELE-C3-c4-8160,Installation of Tap Off Boxes
+SEC-C1-c1-7060,Install Secondary Containment for Access Control
+ELE-C1-c1-6160,Terminations - FA /SEC/GPL/BAS
+ELE-C1-c2-6390,Terminations - FA /SEC/GPL/BAS
+ELE-C1-c3-6990,Terminations - Main Equipment & Panels
+ELE-C1-c1-5480,VESDA Fit out
+ELE-AD-L1-9380,Installation of MV/LV Cabling (2/2)
+ELE-C1-c4-7590,Cabling - Secondary - FA /SEC/GPL/BAS
+ELE-C3-c2-7110,Install Earthing and Bonding to Containment
+ARC-C3-c3-7100,Install Panel Support Structures
+ARC-C3-c3-7110,Install Primary Containment for FA /SEC/GPL/BAS
+ELE-C3-c3-7660,Install Earth Bars
+MEC-C3-c3-6580,Install HL Fire Dampers
+ELE-C3-c3-7840,Containment - Primary FA /SEC/GPL/BAS
+ARC-C4-c1-6870,Install White Walls
+ARC-C4-c1-6880,Install Column Encasements
+ARC-C4-c1-7040,Install Ceiling Grid & Fit Ceiling Tiles
+ELE-C4-c2-8420,Install HL VESDA Pipework
+GEN-C4-c3-4910,Install HL VESDA Pipework
+ARC-C4-c1-7140,Install Ceiling Grid & Panels
+ELE-C4-c3-8850,Install HL VESDA Pipework
+GEN-C4-c2-4900,Install Ceiling Hangers - Sub Grid & Drop Rods
+ARC-C4-c2-7400,Install Ceiling Hangers - Sub Grid & Drop Rods
+ARC-C4-c3-7830,Install Eurobond Ceiling
+ARC-C4-c3-7840,Install Flashings to White Walls - Battery Room
+MEC-C4-c3-7130,Test HL Sprinkler Pipework (Above Ceiling)
+ME-C4-c4-4810,Install HL Sprinkler Pipework Inc Test
+ARC-C4-c4-8190,Install White Walls - Battery Room
+MEC-C4-c4-7370,Install HL Sprinkler Pipework (Above Ceiling)
+ARC-C5-c1-7240,Secondary Steelwork Supports
+ARC-C5-c1-7410,Install White Walls - Switchroom
+ARC-C5-c1-7510,Secondary Steelwork Supports
+MEC-C5-c1-6970,Install HL Soils & Waste Pipwork
+ARC-C5-c2-7770,Install Secondary Steel for Wall & Door Supports
+ARC-C4-c4-8200,Install Flashings to White Walls - Switchroom
+ARC-AD-L1-1550,Install 2nd Fix Ductwork
+TELE-C1-c1-6820,Mount brackets
+ELE-C1-c2-6670,Terminations - Main Equipment & Panels
+ELE-C1-c3-7160,Terminations - Main Equipment & Panels
+ELE-C1-c2-6680,Cabling - Secondary - FA /SEC/GPL/BAS
+ELE-C1-c3-7250,Install Earthing and Bonding to Containment
+MEC-C1-c3-6410,Install AC Pipework & Connections
+MEC-C1-c4-6660,Install AC Units
+MEC-C1-c3-6420,Install Condenstate Drainage Pipework
+ELE-C2-c1-7220,Containment - Primary LV Containment SW and Gen Yard
+TELE-C1-c3-6420,IDFs
+TELE-C1-c3-6430,EPMS
+TELE-C1-c3-6440,SLV/SCCR
+TELE-C1-c3-6450,MORs
+ARC-C1-c1-5500,Firestopping Service Openings
+ARC-C1-c2-6400,Firestopping Service Openings
+ELE-C1-c4-7520,VESDA Fit Out
+MEC-C1-c2-6240,Install Exhaust Duct 2nd Fix Fittings
+MEC-C1-c3-6490,Install Exhaust Duct Ducting
+MEC-C1-c4-6740,Install Exhaust Duct Supports
+ELE-C3-c1-6310,Containment - Secondary FA /SEC/GPL/BAS
+ELE-C3-c1-6350,Cabling - Earthing
+ELE-C3-c1-6360,Cabling - Main LV to Equipment/Boards
+ELE-C3-c1-6510,Cabling - Main LV to Equipment/Boards
+ELE-C3-c1-6530,Containment - Secondary FA /SEC/GPL/BAS
+ELE-C3-c1-6630,Containment - Secondary FA /SEC/GPL/BAS
+MEC-C3-c1-6120,Install Refrigeration Tray
+MEC-C3-c1-6130,Pipework Connections to AHUs
+ELE-C3-c1-6650,Cabling - Main LV to Equipment/Boards
+ELE-C3-c1-6660,VESDA Fit out
+MEC-C3-c1-6180,Install leak detection
+MEC-C3-c1-6200,Install NPW 2nd fix Pipework
+ARC-C3-c1-6440,Install Corridor & riser Walls
+ELE-C3-c1-6740,Containment - Secondary FA /SEC/GPL/BAS
+ELE-C3-c1-6750,Cabling - Main LV to Equipment/Boards
+ELE-C3-c2-6890,Containment - Primary FA /SEC/GPL/BAS
+MEC-C3-c3-6570,Install Condenstate Drainage Pipework
+ARC-C2-c1-6570,Modular HACs - 2nd Fix - Lift HACs & Install Support Column
+ARC-C2-c1-6600,Install Containment for LV Power in Central Corridor
+ELE-C2-c1-6900,Install LL VESDA Pipework
+MEC-C2-c1-6300,Install AC Pipework
+ELE-C2-c1-7320,Containment - Primary LV Mains
+MEC-C2-c2-6550,Install AC Units
+MEC-C2-c2-6620,Install HL Return Dampers
+ARC-C2-c1-6850,Erect Generator Access Steel
+ARC-C2-c3-7620,Modular HACs - 1st Fix - MEP connections & OAQC
+ELE-C2-c3-8250,Install Below Ceiling VESDA
+MEC-C2-c3-6790,Installation of UPS Chimey Ducting
+MEC-C2-c3-6800,Install Refrigeration Tray
+ELE-C2-c3-8260,Containment - Primary LV Main Equipment & Panels
+MEC-C2-c3-6860,Install NPW 1st Fix Pipework
+ELE-C2-c3-8430,Containment - Primary for LV to AHUs
+MEC-C2-c3-6950,Install Mechanical Corridor Handrails
+ARC-C2-c3-7590,Install Containment Gantry Steel
+ARC-C2-c4-7650,Install Flashings to White Walls
+ARC-C2-c4-7660,Install Mesh Walls
+ARC-C2-c3-7290,Install Ceiling Grid & Fit Ceiling Tiles
+ARC-C2-c4-7690,Modular HACs - 1st Fix - assembly on ground
+ARC-C2-c4-7730,Firestopping Top Whitewalls
+ARC-C2-c3-7300,Install Ceiling in Central Corridor
+ARC-C2-c3-7530,Form Openings in Ceiling Panels Dampers & Hatches
+ARC-C2-c2-7220,Erect Generator Support Steel
+ELE-WTP-1640,Re - connect all electrical containment/caballing across plantroom divides
+ARC-SPH-3400,MEP & Telecom Connection & Testing
+ARC-AD-L2-8230,Insulation & Labeling
+ARC-AD-L2-8380,Test & Balancing AC units
+ELE-C1-c1-5530,Terminations - FA /SEC/GPL/BAS
+ELE-C1-c1-5840,Terminations - FA /SEC/GPL/BAS
+ELE-C1-c2-6790,Terminations - FA /SEC/GPL/BAS
+ELE-C1-c3-7390,Terminations - Main Equipment & Panels
+ARC-C1-c2-6330,Install Doors & Ironmongery
+ARC-C1-c4-6990,Firestopping Service Openings
+ELE-C1-c4-7740,Cabling - Earthing
+ELE-C1-c2-6540,VESDA Fit out
+ELE-C1-c4-7780,Cabling - Secondary - FA /SEC/GPL/BAS
+ELE-C1-c4-7980,Cabling - Earthing
+ELE-C1-c4-7990,Cabling - Secondary - FA /SEC/GPL/BAS
+ELE-C2-c1-6940,Installation of Tap Off Boxes
+ARC-AD-L1-1400,Tape & Joint Finish to Walls
+ARC-AD-L1-4330,Tape & Joint Finish to Walls
+SEC-C1-c1-7020,Pull Access Control Cables
+SEC-C1-c1-7120,Install Secondary Containment for Video Network
+ELE-C1-c3-7000,Terminations - FA /SEC/GPL/BAS
+ELE-C1-c4-7600,Terminations - Main Equipment & Panels
+SEC-C1-c2-7230,Install Secondary Containment for Access Control
+CON-ZD-7270,MV
+ARC-AD-L2-8080,Firestop High Level Openings
+ARC-AD-L2-4840,Install Frames and Install Doors & Ironmongery incl. Lokers
+ARC-AD-L2-4850,Apply 2nd Coat of Paint to Walls & Sand
+ARC-C1-c2-6360,Firestopping Service Openings
+ELE-C3-c3-7720,Install Earthing and Bonding to Containment
+ARC-C3-c4-7480,Install Panel Support Structures
+ARC-C3-c4-7490,Install Primary Containment for FA /SEC/GPL/BAS
+ELE-C3-c4-8270,Install Earth Bars
+MEC-C3-c4-6840,Install HL Fire Dampers
+ELE-C3-c4-8450,Containment - Primary FA /SEC/GPL/BAS
+ARC-C4-c1-6890,Install Flashings to White Walls
+ARC-C4-c1-6900,Install Mesh Walls
+ARC-C4-c1-6930,Modular HACs - 1st Fix - assembly on ground
+ARC-C4-c1-6970,Firestopping Top Whitewalls
+ELE-C4-c3-9030,Install HL VESDA Pipework
+ARC-C4-c2-7250,Install White Walls
+ARC-C4-c2-7260,Install Column Encasements
+GEN-C4-c4-4930,Install HL VESDA Pipework
+ELE-C4-c4-9460,Install HL VESDA Pipework
+ARC-C4-c2-7420,Install Ceiling Grid & Fit Ceiling Tiles
+ARC-C4-c2-7520,Install Ceiling Grid & Panels
+GEN-C4-c3-4920,Install Ceiling Hangers - Sub Grid & Drop Rods
+ARC-C4-c3-7780,Install Ceiling Hangers - Sub Grid & Drop Rods
+ARC-C4-c4-8220,Install Flashings to White Walls - Battery Room
+ARC-C4-c4-8210,Install Eurobond Ceiling
+MEC-C4-c4-7390,Test HL Sprinkler Pipework (Above Ceiling)
+ME-C5-c1-4790,Install HL Sprinkler Pipework Inc Test
+ARC-C5-c1-7440,Install Flashings to White Walls - Switchroom
+ARC-C5-c1-7430,Install White Walls - Battery Room
+MEC-C5-c1-6850,Install HL Sprinkler Pipework (Above Ceiling)
+ARC-C5-c2-7620,Secondary Steelwork Supports
+ARC-C5-c2-7790,Install White Walls - Switchroom
+ARC-C5-c2-7890,Secondary Steelwork Supports
+MEC-C5-c2-7230,Install HL Soils & Waste Pipwork
+ARC-C5-c3-8150,Install Secondary Steel for Wall & Door Supports
+TELE-C1-c2-6890,Mount brackets
+ELE-C1-c2-6570,Terminations - FA /SEC/GPL/BAS
+ELE-C1-c2-6690,Terminations - FA /SEC/GPL/BAS
+ELE-C1-c3-7290,Cabling - Secondary - FA /SEC/GPL/BAS
+ELE-C1-c3-7280,Terminations - Main Equipment & Panels
+ELE-C1-c4-7770,Terminations - Main Equipment & Panels
+ARC-C1-c3-6780,Firestopping Service Openings
+ELE-C2-c2-7830,Containment - Primary LV Containment SW and Gen Yard
+MEC-C1-c4-6670,Install AC Pipework & Connections
+MEC-C1-c4-6680,Install Condenstate Drainage Pipework
+MEC-C1-c3-6500,Install Exhaust Duct 2nd Fix Fittings
+MEC-C1-c4-6750,Install Exhaust Duct Ducting
+ELE-C1-c4-7860,Install Earthing and Bonding to Containment
+TELE-C1-c4-6420,IDFs
+TELE-C1-c4-6430,EPMS
+TELE-C1-c4-6440,SLV/SCCR
+TELE-C1-c4-6450,MORs
+ELE-C3-c1-6300,VESDA Fit Out
+ELE-C3-c1-6370,Cabling - Secondary - FA /SEC/GPL/BAS
+ARC-C3-c1-6230,Firestopping Service Openings
+ELE-C3-c1-6520,Cabling - Earthing
+ELE-C3-c1-6560,Cabling - Secondary - FA /SEC/GPL/BAS
+MEC-C3-c1-6140,Install AC Units
+MEC-C3-c1-6220,Install Exhaust Duct Supports
+ELE-C3-c1-6760,Cabling - Earthing
+ELE-C3-c1-6770,Cabling - Secondary - FA /SEC/GPL/BAS
+ELE-C3-c2-6920,Containment - Secondary FA /SEC/GPL/BAS
+ELE-C3-c2-6960,Cabling - Earthing
+ELE-C3-c2-6970,Cabling - Main LV to Equipment/Boards
+ELE-C3-c2-7120,Cabling - Main LV to Equipment/Boards
+ELE-C3-c2-7140,Containment - Secondary FA /SEC/GPL/BAS
+ELE-C3-c2-7240,Containment - Secondary FA /SEC/GPL/BAS
+MEC-C3-c2-6380,Install Refrigeration Tray
+MEC-C3-c2-6390,Pipework Connections to AHUs
+ELE-C3-c2-7260,Cabling - Main LV to Equipment/Boards
+ELE-C3-c2-7270,VESDA Fit out
+MEC-C3-c2-6440,Install leak detection
+MEC-C3-c2-6460,Install NPW 2nd fix Pipework
+ARC-C3-c2-6820,Install Corridor & riser Walls
+ELE-C3-c2-7350,Containment - Secondary FA /SEC/GPL/BAS
+ELE-C3-c2-7360,Cabling - Main LV to Equipment/Boards
+ELE-C3-c3-7500,Containment - Primary FA /SEC/GPL/BAS
+MEC-C3-c4-6830,Install Condenstate Drainage Pipework
+ARC-C2-c2-6950,Modular HACs - 2nd Fix - Lift HACs & Install Support Column
+ARC-C2-c2-6980,Install Containment for LV Power in Central Corridor
+ELE-C2-c2-7510,Install LL VESDA Pipework
+MEC-C2-c2-6560,Install AC Pipework
+ELE-C2-c2-7930,Containment - Primary LV Mains
+MEC-C2-c3-6810,Install AC Units
+ARC-C2-c2-7230,Erect Generator Access Steel
+MEC-C2-c3-6880,Install HL Return Dampers
+ARC-C2-c4-8000,Modular HACs - 1st Fix - MEP connections & OAQC
+ELE-C2-c4-8860,Install Below Ceiling VESDA
+MEC-C2-c4-7050,Installation of UPS Chimey Ducting
+MEC-C2-c4-7060,Install Refrigeration Tray
+ARC-C2-c4-7670,Install Ceiling Grid & Fit Ceiling Tiles
+ELE-C2-c4-8870,Containment - Primary LV Main Equipment & Panels
+MEC-C2-c4-7120,Install NPW 1st Fix Pipework
+ARC-C2-c4-7680,Install Ceiling in Central Corridor
+ARC-C2-c4-7910,Form Openings in Ceiling Panels Dampers & Hatches
+ELE-C2-c4-9040,Containment - Primary for LV to AHUs
+MEC-C2-c4-7210,Install Mechanical Corridor Handrails
+ARC-C2-c4-7970,Install Containment Gantry Steel
+ARC-C2-c3-7600,Erect Generator Support Steel
+CON-ZB-6958,Road Surfacing
+CON-ZC-6988,LV Street Lighting
+CON-ZF-7340,LV Street Lighting
+CON-SB-7420,Road Surfacing
+ELE-AD-L2-8460,MEP Testing for MV/LV Cabling
+ELE-AD-L2-8500,"MEP Testing  for FA,GS,BMS, BAS"
+ARC-AD-L1-2400,Install LTHW Brackets.Install DHW/DCW Flow & Return to Restrooms
+ELE-C1-c3-7400,Terminations - FA /SEC/GPL/BAS
+ARC-C1-c1-5860,Install Doors & Ironmongery
+ARC-C1-c1-5870,Paint Floor Markings
+ARC-C1-c1-5880,Access Hatches
+ELE-C1-c4-8000,Terminations - Main Equipment & Panels
+ARC-C1-c3-6710,Install Doors & Ironmongery
+ELE-C1-c3-7150,VESDA Fit out
+MEC-C1-c1-5940,Install Transfer Fans
+MEC-C1-c1-5990,Lag Exhaust Duct Ducting
+ELE-C2-c2-7550,Installation of Tap Off Boxes
+ARC-AD-L1-4340,Skim and Inital Painting
+TELE-C1-c1-6720,Cable pulls
+TELE-C1-c1-6320,Cabling
+TELE-C1-c1-A6370,Cable pulls
+SEC-C1-c1-7070,Pull Video Network Cables
+SEC-C1-c1-7180,Install Secondary Containment for Alarms
+SEC-C1-c2-7180,Pull Access Control Cables
+SEC-C1-c2-7290,Install Secondary Containment for Video Network
+SEC-C1-c3-7410,Install Secondary Containment for Access Control
+ELE-C1-c4-7610,Terminations - FA /SEC/GPL/BAS
+ARC-C1-c1-4880,Install HAC Doors
+ARC-C1-c1-5070,Install Doors & Ironmongery
+ELE-C3-c1-6380,Terminations - Main Equipment & Panels
+ARC-AD-L1-1470,Skim and Inital Painting
+ELE-AD-L1-9400,"Installation of  Cabling for FA,GS,BMS, BAS (2/2)"
+ARC-C1-c3-6740,Firestopping Service Openings
+ELE-C3-c4-8330,Install Earthing and Bonding to Containment
+ARC-C2-c1-6720,Install Panel Support Structures
+ARC-C2-c1-6730,Install Primary Containment for FA /SEC/GPL/BAS
+ELE-C2-c1-7050,Install Earth Bars
+MEC-C2-c1-6320,Install HL Fire Dampers
+ELE-C2-c1-7230,Containment - Primary FA /SEC/GPL/BAS
+ARC-C4-c1-6910,Install Ceiling Grid & Fit Ceiling Tiles
+ARC-C4-c1-6920,Install Ceiling in Central Corridor
+ARC-C4-c1-7650,Modular HACs - 1st Fix - MEP connections & OAQC
+MEC-C4-c1-6530,Installation of UPS Chimey Ducting
+MEC-C4-c1-6540,Install Refrigeration Tray
+ELE-C4-c1-7650,Containment - Primary LV Main Equipment & Panels
+MEC-C4-c1-6600,Install NPW 1st Fix Pipework
+ARC-C4-c1-7150,Form Openings in Ceiling Panels Dampers & Hatches
+ELE-C4-c1-7820,Containment - Primary for LV to AHUs
+MEC-C4-c1-6690,Install Mechanical Corridor Handrails
+ARC-C4-c2-7270,Install Flashings to White Walls
+ARC-C4-c2-7280,Install Mesh Walls
+ARC-C4-c2-7310,Modular HACs - 1st Fix - assembly on ground
+ARC-C4-c2-7350,Firestopping Top Whitewalls
+ELE-C4-c1-7640,Install Below Ceiling VESDA
+ELE-C4-c4-9640,Install HL VESDA Pipework
+ARC-C4-c3-7630,Install White Walls
+ARC-C4-c3-7640,Install Column Encasements
+ARC-C4-c3-7800,Install Ceiling Grid & Fit Ceiling Tiles
+ARC-C4-c3-7900,Install Ceiling Grid & Panels
+GEN-C4-c4-4940,Install Ceiling Hangers - Sub Grid & Drop Rods
+ARC-C4-c4-8160,Install Ceiling Hangers - Sub Grid & Drop Rods
+GEN-C5-c1-4890,Install HL VESDA Pipework
+ELE-C5-c1-8240,Install HL VESDA Pipework
+ARC-C5-c1-7460,Install Flashings to White Walls - Battery Room
+ARC-C5-c1-7450,Install Eurobond Ceiling
+MEC-C5-c1-6870,Test HL Sprinkler Pipework (Above Ceiling)
+ME-C5-c2-4800,Install HL Sprinkler Pipework Inc Test
+ARC-C5-c2-7820,Install Flashings to White Walls - Switchroom
+ARC-C5-c2-7810,Install White Walls - Battery Room
+MEC-C5-c2-7110,Install HL Sprinkler Pipework (Above Ceiling)
+ARC-C5-c3-8000,Secondary Steelwork Supports
+ARC-C5-c3-8170,Install White Walls - Switchroom
+ARC-C5-c3-8270,Secondary Steelwork Supports
+MEC-C5-c3-7490,Install HL Soils & Waste Pipwork
+ARC-C5-c4-8530,Install Secondary Steel for Wall & Door Supports
+ARC-C5-c3-8390,Roof Lining
+TELE-C1-c3-6890,Mount brackets
+MEC-C1-c2-6210,Install Transfer Fans
+ARC-C1-c2-6410,Install Doors & Ironmongery
+ARC-C1-c2-6420,Paint Floor Markings
+ARC-C1-c2-6430,Access Hatches
+ARC-C1-c4-7160,Firestopping Service Openings
+ELE-C2-c3-8440,Containment - Primary LV Containment SW and Gen Yard
+ELE-C1-c3-7180,Terminations - FA /SEC/GPL/BAS
+ELE-C1-c3-7300,Terminations - FA /SEC/GPL/BAS
+MEC-C1-c4-6760,Install Exhaust Duct 2nd Fix Fittings
+MEC-C1-c2-6250,Lag Exhaust Duct Ducting
+ELE-C1-c4-7890,Terminations - Main Equipment & Panels
+ELE-C1-c4-7900,Cabling - Secondary - FA /SEC/GPL/BAS
+ARC-AD-L1-1670,Pressure Test High Level Ductwork
+ELE-C3-c1-6550,Terminations - Main Equipment & Panels
+MEC-C3-c1-6150,Install AC Pipework & Connections
+MEC-C3-c1-6160,Install Condenstate Drainage Pipework
+ELE-C3-c1-6640,Install Earthing and Bonding to Containment
+MEC-C3-c1-6230,Install Exhaust Duct Ducting
+TELE-C3-c1-6430,EPMS
+TELE-C3-c1-6440,SLV/SCCR
+TELE-C3-c1-6450,MORs
+ELE-C3-c2-6910,VESDA Fit Out
+ELE-C3-c2-6980,Cabling - Secondary - FA /SEC/GPL/BAS
+ARC-C3-c2-6610,Firestopping Service Openings
+ELE-C3-c2-7130,Cabling - Earthing
+ELE-C3-c2-7170,Cabling - Secondary - FA /SEC/GPL/BAS
+MEC-C3-c2-6400,Install AC Units
+MEC-C3-c2-6480,Install Exhaust Duct Supports
+ELE-C3-c2-7370,Cabling - Earthing
+ELE-C3-c2-7380,Cabling - Secondary - FA /SEC/GPL/BAS
+ELE-C3-c3-7530,Containment - Secondary FA /SEC/GPL/BAS
+ELE-C3-c3-7570,Cabling - Earthing
+ELE-C3-c3-7580,Cabling - Main LV to Equipment/Boards
+ELE-C3-c3-7730,Cabling - Main LV to Equipment/Boards
+ELE-C3-c3-7750,Containment - Secondary FA /SEC/GPL/BAS
+ELE-C3-c3-7850,Containment - Secondary FA /SEC/GPL/BAS
+MEC-C3-c3-6640,Install Refrigeration Tray
+MEC-C3-c3-6650,Pipework Connections to AHUs
+ELE-C3-c3-7870,Cabling - Main LV to Equipment/Boards
+ELE-C3-c3-7880,VESDA Fit out
+MEC-C3-c3-6700,Install leak detection
+MEC-C3-c3-6720,Install NPW 2nd fix Pipework
+ARC-C3-c3-7200,Install Corridor & riser Walls
+ELE-C3-c3-7960,Containment - Secondary FA /SEC/GPL/BAS
+ELE-C3-c3-7970,Cabling - Main LV to Equipment/Boards
+ELE-C3-c4-8110,Containment - Primary FA /SEC/GPL/BAS
+MEC-C2-c1-6310,Install Condenstate Drainage Pipework
+ARC-C2-c3-7330,Modular HACs - 2nd Fix - Lift HACs & Install Support Column
+ARC-C2-c3-7360,Install Containment for LV Power in Central Corridor
+ELE-C2-c3-8120,Install LL VESDA Pipework
+MEC-C2-c3-6820,Install AC Pipework
+ELE-C2-c3-8540,Containment - Primary LV Mains
+ARC-C2-c3-7610,Erect Generator Access Steel
+MEC-C2-c4-7070,Install AC Units
+MEC-C2-c4-7140,Install HL Return Dampers
+ARC-C4-c1-7210,Install Containment Gantry Steel
+ARC-C2-c4-7980,Erect Generator Support Steel
+CON-ZD-7250,District Heating (1/2)
+CON-ZD-7350,Waste Heat Recovery pipes (2/2)
+ARC-AD-L2-8270,Complete DHW/DCW Conections to Restroom Fixtures
+ELE-AD-L1-2240,Temination of MV/LVCabling (1/2)
+ARC-AD-L1-2410,Install Condensate Drains (AC)
+TELE-C1-c2-6460,Cabling
+TELE-C1-c2-6520,Cable pulls
+TELE-C1-c2-6790,Cable pulls
+ARC-AD-L1-2390,Install LTHW Flow & Return (1st Fix)
+ELE-C1-c1-5550,MEP Testing / QA / Labelling / Pre L3 Checks
+ELE-C1-c1-5920,MEP Testing / QA / Labelling / Pre L3 Checks
+ARC-C1-c2-6200,Install HAC Doors
+ARC-C1-c2-6240,Install Doors & Ironmongery
+ARC-C1-c4-7090,Install Doors & Ironmongery
+ELE-C1-c4-7760,VESDA Fit out
+ELE-C1-c4-8010,Terminations - FA /SEC/GPL/BAS
+MEC-C1-c1-6000,MEP Testing / QA / Pre L3 Checks
+ELE-C3-c1-6780,Terminations - Main Equipment & Panels
+ELE-C2-c3-8160,Installation of Tap Off Boxes
+CON-CDS-3120,Fit-Out
+SEC-C1-c1-7130,Pull Alarms Cables
+SEC-C1-c2-7240,Pull Video Network Cables
+SEC-C1-c2-7350,Install Secondary Containment for Alarms
+ELE-C1-c1-5090,MEP Testing / QA / Labelling / Pre L3 Checks
+SEC-C1-c3-7360,Pull Access Control Cables
+SEC-C1-c3-7470,Install Secondary Containment for Video Network
+SEC-C1-c4-7590,Install Secondary Containment for Access Control
+ELE-C3-c1-6390,Terminations - FA /SEC/GPL/BAS
+ELE-C3-c2-6990,Terminations - Main Equipment & Panels
+ARC-AD-L1-2280,Secure Store I Elec - Rack Installation
+ARC-AD-L1-8560,Secure Store II Elec - Rack Installation
+ARC-AD-L1-8660,High Value Store Elec - Rack Installation
+ARC-AD-L1-8760,FCR Elec - Rack Installation
+ARC-AD-L1-8860,MMR1 Elec -  Rack Installation
+ARC-AD-L1-8960,MMR2 Elec -  Rack Installation
+ARC-AD-L1-9060,FOC Elec - Rack Installation
+ARC-AD-L1-9160,SER Elec - Rack Installation
+ARC-AD-L1-9260,IDF Elec - Rack Installation
+ARC-AD-L1-9360,SOC Elec - Rack Installation
+TELE-C1-c1-6730,Dressing
+TELE-C1-c1-6770,Cable pulls
+TELE-C1-c2-6590,Cabling
+ARC-C1-c4-7120,Firestopping Service Openings
+ARC-C2-c2-7100,Install Panel Support Structures
+ARC-C2-c2-7110,Install Primary Containment for FA /SEC/GPL/BAS
+ELE-C2-c2-7660,Install Earth Bars
+MEC-C2-c2-6580,Install HL Fire Dampers
+ELE-C2-c2-7840,Containment - Primary FA /SEC/GPL/BAS
+MEC-C4-c1-6550,Install AC Units
+MEC-C4-c1-6620,Install HL Return Dampers
+ARC-C4-c2-7290,Install Ceiling Grid & Fit Ceiling Tiles
+ARC-C4-c2-7300,Install Ceiling in Central Corridor
+ARC-C4-c2-8010,Modular HACs - 1st Fix - MEP connections & OAQC
+MEC-C4-c2-6790,Installation of UPS Chimey Ducting
+MEC-C4-c2-6800,Install Refrigeration Tray
+ELE-C4-c2-8260,Containment - Primary LV Main Equipment & Panels
+ELE-C4-c2-8250,Install Below Ceiling VESDA
+MEC-C4-c2-6860,Install NPW 1st Fix Pipework
+ARC-C4-c2-7530,Form Openings in Ceiling Panels Dampers & Hatches
+ELE-C4-c2-8430,Containment - Primary for LV to AHUs
+MEC-C4-c2-6950,Install Mechanical Corridor Handrails
+ARC-C4-c3-7650,Install Flashings to White Walls
+ARC-C4-c3-7660,Install Mesh Walls
+ARC-C4-c3-7690,Modular HACs - 1st Fix - assembly on ground
+ARC-C4-c3-7730,Firestopping Top Whitewalls
+ARC-C4-c4-8010,Install White Walls
+ARC-C4-c4-8020,Install Column Encasements
+ARC-C4-c4-8180,Install Ceiling Grid & Fit Ceiling Tiles
+ARC-C4-c4-8280,Install Ceiling Grid & Panels
+GEN-C5-c1-4900,Install Ceiling Hangers - Sub Grid & Drop Rods
+ARC-C5-c1-7400,Install Ceiling Hangers - Sub Grid & Drop Rods
+ELE-C5-c1-8420,Install HL VESDA Pipework
+GEN-C5-c2-4910,Install HL VESDA Pipework
+ELE-C5-c2-8850,Install HL VESDA Pipework
+ARC-C5-c2-7840,Install Flashings to White Walls - Battery Room
+ARC-C5-c2-7830,Install Eurobond Ceiling
+MEC-C5-c2-7130,Test HL Sprinkler Pipework (Above Ceiling)
+ME-C5-c3-4810,Install HL Sprinkler Pipework Inc Test
+ARC-C5-c3-8200,Install Flashings to White Walls - Switchroom
+ARC-C5-c3-8190,Install White Walls - Battery Room
+MEC-C5-c3-7370,Install HL Sprinkler Pipework (Above Ceiling)
+ARC-C5-c4-8380,Secondary Steelwork Supports
+ARC-C5-c4-8550,Install White Walls - Switchroom
+ARC-C5-c4-8650,Secondary Steelwork Supports
+MEC-C5-c4-7750,Install HL Soils & Waste Pipwork
+ARC-C5-c3-8400,Roof Lining
+ARC-AD-L1-4350,Tile Walls in WC's 2x
+ARC-AD-EX-2230,Lift Installation
+TELE-C1-c1-6830,Mount Fibre runner
+TELE-C1-c1-6330,Dressing
+ELE-C1-c2-6580,MEP Testing / QA / Labelling / Pre L3 Checks
+ELE-C1-c2-6700,MEP Testing / QA / Labelling / Pre L3 Checks
+ARC-C1-c3-6790,Install Doors & Ironmongery
+ARC-C1-c3-6800,Paint Floor Markings
+ARC-C1-c3-6810,Access Hatches
+MEC-C1-c3-6470,Install Transfer Fans
+MEC-C1-c3-6510,Lag Exhaust Duct Ducting
+MEC-C1-c2-6260,MEP Testing / QA / Pre L3 Checks
+ELE-C1-c4-7910,Terminations - FA /SEC/GPL/BAS
+TELE-C1-c4-6890,Mount brackets
+ARC-C3-c1-6330,Install Doors & Ironmongery
+ELE-C3-c1-6540,VESDA Fit out
+ELE-C2-c4-9050,Containment - Primary LV Containment SW and Gen Yard
+ELE-C3-c1-6670,Terminations - Main Equipment & Panels
+ARC-C3-c1-6400,Firestopping Service Openings
+ELE-C3-c1-6680,Cabling - Secondary - FA /SEC/GPL/BAS
+MEC-C3-c1-6240,Install Exhaust Duct 2nd Fix Fittings
+SEC-C3-c1-6930,Install Secondary Containment for Access Control
+ELE-C3-c2-7160,Terminations - Main Equipment & Panels
+MEC-C3-c2-6410,Install AC Pipework & Connections
+MEC-C3-c2-6420,Install Condenstate Drainage Pipework
+ELE-C3-c2-7250,Install Earthing and Bonding to Containment
+MEC-C3-c2-6490,Install Exhaust Duct Ducting
+TELE-C3-c2-6420,EPMS
+TELE-C3-c2-6430,SLV/SCCR
+TELE-C3-c2-6440,MORs
+ELE-C3-c3-7520,VESDA Fit Out
+ELE-C3-c3-7590,Cabling - Secondary - FA /SEC/GPL/BAS
+ARC-C3-c3-6990,Firestopping Service Openings
+ELE-C3-c3-7740,Cabling - Earthing
+ELE-C3-c3-7780,Cabling - Secondary - FA /SEC/GPL/BAS
+MEC-C3-c3-6660,Install AC Units
+MEC-C3-c3-6740,Install Exhaust Duct Supports
+ELE-C3-c3-7980,Cabling - Earthing
+ELE-C3-c3-7990,Cabling - Secondary - FA /SEC/GPL/BAS
+ELE-C3-c4-8140,Containment - Secondary FA /SEC/GPL/BAS
+ELE-C3-c4-8180,Cabling - Earthing
+ELE-C3-c4-8190,Cabling - Main LV to Equipment/Boards
+ELE-C3-c4-8340,Cabling - Main LV to Equipment/Boards
+ELE-C3-c4-8360,Containment - Secondary FA /SEC/GPL/BAS
+ELE-C3-c4-8460,Containment - Secondary FA /SEC/GPL/BAS
+MEC-C3-c4-6900,Install Refrigeration Tray
+MEC-C3-c4-6910,Pipework Connections to AHUs
+ELE-C3-c4-8480,Cabling - Main LV to Equipment/Boards
+ELE-C3-c4-8490,VESDA Fit out
+MEC-C3-c4-6960,Install leak detection
+MEC-C3-c4-6980,Install NPW 2nd fix Pipework
+ARC-C3-c4-7580,Install Corridor & riser Walls
+ELE-C3-c4-8570,Containment - Secondary FA /SEC/GPL/BAS
+ELE-C3-c4-8580,Cabling - Main LV to Equipment/Boards
+ELE-C2-c1-6890,Containment - Primary FA /SEC/GPL/BAS
+ELE-C2-c1-7110,Install Earthing and Bonding to Containment
+MEC-C2-c2-6570,Install Condenstate Drainage Pipework
+ARC-C2-c4-7990,Erect Generator Access Steel
+ARC-C2-c4-7710,Modular HACs - 2nd Fix - Lift HACs & Install Support Column
+ARC-C2-c4-7740,Install Containment for LV Power in Central Corridor
+ELE-C2-c4-8730,Install LL VESDA Pipework
+MEC-C2-c4-7080,Install AC Pipework
+ELE-C2-c4-9150,Containment - Primary LV Mains
+ARC-C4-c2-7590,Install Containment Gantry Steel
+ARC-C4-c1-7220,Erect Generator Support Steel
+CON-ZC-6998,Road Surfacing
+CON-ZF-7350,Road Surfacing
+ARC-AD-L2-8240,Install Pipe Drops (2nd Fix)
+TELE-C1-c3-6460,Cabling
+TELE-C1-c3-6520,Cable pulls
+TELE-C1-c3-6790,Cable pulls
+ELE-C1-c1-6200,MEP Testing / QA / Labelling / Pre L3 Checks
+ELE-C1-c2-6400,MEP Testing / QA / Labelling / Pre L3 Checks
+ARC-C1-c3-6580,Install HAC Doors
+ARC-C1-c3-6620,Install Doors & Ironmongery
+ELE-C1-c4-7790,Terminations - FA /SEC/GPL/BAS
+ELE-C3-c1-6790,Terminations - FA /SEC/GPL/BAS
+ELE-C3-c2-7390,Terminations - Main Equipment & Panels
+ELE-C2-c4-8770,Installation of Tap Off Boxes
+TELE-C1-c1-6430,Cabling
+SEC-C1-c2-7300,Pull Alarms Cables
+SEC-C1-c3-7420,Pull Video Network Cables
+SEC-C1-c3-7530,Install Secondary Containment for Alarms
+SEC-C1-c4-7540,Pull Access Control Cables
+SEC-C1-c4-7650,Install Secondary Containment for Video Network
+ELE-C3-c2-7000,Terminations - FA /SEC/GPL/BAS
+ELE-C3-c3-7600,Terminations - Main Equipment & Panels
+TELE-C1-c2-6800,Dressing
+TELE-C1-c2-6840,Cable pulls
+ARC-AD-L2-4870,Floor Finishes
+ELE-AD-L1-2490,Secure Store I Elec - Terminations & Testing
+ELE-AD-L1-8580,Secure Store II Elec - Terminations & Testing
+ELE-AD-L1-8680,High Value Store Elec - Terminations & Testing
+ELE-AD-L1-8780,FCR Elec - Terminations & Testing
+ELE-AD-L1-8880,MMR1 Elec -  Terminations & Testing
+ELE-AD-L1-8980,MMR2 Elec -  Terminations & Testing
+ELE-AD-L1-9080,FOC Elec -Terminations & Testing
+ELE-AD-L1-9170,SER Elec -Terminations & Testing
+ELE-AD-L1-9270,IDF Elec -Terminations & Testing
+ELE-AD-L1-9370,SOC Elec -Terminations & Testing
+TELE-C1-c1-6740,Terminations
+TELE-C1-c1-6340,Splice
+TELE-C1-c2-6470,Dressing
+TELE-C1-c3-6590,Cabling
+ARC-C3-c1-6360,Firestopping Service Openings
+ELE-C4-c1-7830,Containment - Primary LV Containment SW and Gen Yard
+ARC-C2-c3-7480,Install Panel Support Structures
+ARC-C2-c3-7490,Install Primary Containment for FA /SEC/GPL/BAS
+ELE-C2-c3-8270,Install Earth Bars
+MEC-C2-c3-6840,Install HL Fire Dampers
+ELE-C2-c3-8450,Containment - Primary FA /SEC/GPL/BAS
+ARC-C4-c1-6950,Modular HACs - 2nd Fix - Lift HACs & Install Support Column
+ARC-C4-c1-6980,Install Containment for LV Power in Central Corridor
+MEC-C4-c1-6560,Install AC Pipework
+MEC-C4-c2-6810,Install AC Units
+ELE-C4-c1-7510,Install LL VESDA Pipework
+MEC-C4-c2-6880,Install HL Return Dampers
+ELE-C4-c3-8860,Install Below Ceiling VESDA
+ARC-C4-c3-7670,Install Ceiling Grid & Fit Ceiling Tiles
+ARC-C4-c3-7680,Install Ceiling in Central Corridor
+ARC-C4-c3-8390,Modular HACs - 1st Fix - MEP connections & OAQC
+MEC-C4-c3-7050,Installation of UPS Chimey Ducting
+MEC-C4-c3-7060,Install Refrigeration Tray
+ELE-C4-c3-8870,Containment - Primary LV Main Equipment & Panels
+MEC-C4-c3-7120,Install NPW 1st Fix Pipework
+ARC-C4-c3-7910,Form Openings in Ceiling Panels Dampers & Hatches
+ELE-C4-c3-9040,Containment - Primary for LV to AHUs
+MEC-C4-c3-7210,Install Mechanical Corridor Handrails
+ARC-C4-c4-8030,Install Flashings to White Walls
+ARC-C4-c4-8040,Install Mesh Walls
+ARC-C4-c4-8070,Modular HACs - 1st Fix - assembly on ground
+ARC-C4-c4-8110,Firestopping Top Whitewalls
+ARC-C5-c1-7250,Install White Walls
+ARC-C5-c1-7260,Install Column Encasements
+ARC-C5-c1-7420,Install Ceiling Grid & Fit Ceiling Tiles
+ARC-C5-c1-7520,Install Ceiling Grid & Panels
+GEN-C5-c2-4920,Install Ceiling Hangers - Sub Grid & Drop Rods
+ARC-C5-c2-7780,Install Ceiling Hangers - Sub Grid & Drop Rods
+ELE-C5-c2-9030,Install HL VESDA Pipework
+GEN-C5-c3-4930,Install HL VESDA Pipework
+ELE-C5-c3-9460,Install HL VESDA Pipework
+ARC-C5-c3-8220,Install Flashings to White Walls - Battery Room
+ARC-C5-c3-8210,Install Eurobond Ceiling
+MEC-C5-c3-7390,Test HL Sprinkler Pipework (Above Ceiling)
+ME-C5-c4-4820,Install HL Sprinkler Pipework Inc Test
+ARC-C5-c4-8580,Install Flashings to White Walls - Switchroom
+ARC-C5-c4-8570,Install White Walls - Battery Room
+MEC-C5-c4-7630,Install HL Sprinkler Pipework (Above Ceiling)
+TELE-C1-c2-6900,Mount Fibre runner
+MEC-C1-c4-6730,Install Transfer Fans
+ELE-C1-c2-6810,MEP Testing / QA / Labelling / Pre L3 Checks
+ELE-C1-c3-7190,MEP Testing / QA / Labelling / Pre L3 Checks
+ELE-C1-c3-7310,MEP Testing / QA / Labelling / Pre L3 Checks
+ARC-C1-c4-7170,Install Doors & Ironmongery
+ARC-C1-c4-7180,Paint Floor Markings
+ARC-C1-c4-7190,Access Hatches
+MEC-C1-c4-6770,Lag Exhaust Duct Ducting
+MEC-C1-c3-6520,MEP Testing / QA / Pre L3 Checks
+ELE-C3-c1-6570,Terminations - FA /SEC/GPL/BAS
+ELE-C3-c1-6690,Terminations - FA /SEC/GPL/BAS
+TELE-C3-c1-6890,Mount brackets
+SEC-C3-c1-6880,Pull Access Control Cables
+SEC-C3-c1-6990,Install Secondary Containment for Video Network
+ARC-C3-c2-6710,Install Doors & Ironmongery
+ELE-C3-c2-7150,VESDA Fit out
+ELE-C3-c2-7280,Terminations - Main Equipment & Panels
+ARC-C3-c2-6780,Firestopping Service Openings
+ELE-C3-c2-7290,Cabling - Secondary - FA /SEC/GPL/BAS
+MEC-C3-c2-6500,Install Exhaust Duct 2nd Fix Fittings
+SEC-C3-c2-7110,Install Secondary Containment for Access Control
+ELE-C3-c3-7770,Terminations - Main Equipment & Panels
+MEC-C3-c3-6670,Install AC Pipework & Connections
+MEC-C3-c3-6680,Install Condenstate Drainage Pipework
+ELE-C3-c3-7860,Install Earthing and Bonding to Containment
+MEC-C3-c3-6750,Install Exhaust Duct Ducting
+TELE-C3-c3-6420,EPMS
+TELE-C3-c3-6430,SLV/SCCR
+TELE-C3-c3-6440,MORs
+ELE-C3-c4-8130,VESDA Fit Out
+ELE-C3-c4-8200,Cabling - Secondary - FA /SEC/GPL/BAS
+ARC-C3-c4-7370,Firestopping Service Openings
+ELE-C3-c4-8350,Cabling - Earthing
+ELE-C3-c4-8390,Cabling - Secondary - FA /SEC/GPL/BAS
+MEC-C3-c4-6920,Install AC Units
+MEC-C3-c4-7000,Install Exhaust Duct Supports
+ELE-C3-c4-8590,Cabling - Earthing
+ELE-C3-c4-8600,Cabling - Secondary - FA /SEC/GPL/BAS
+ELE-C2-c1-6920,Containment - Secondary FA /SEC/GPL/BAS
+ELE-C2-c1-7120,Cabling - Main LV to Equipment/Boards
+ELE-C2-c1-7140,Containment - Secondary FA /SEC/GPL/BAS
+ELE-C2-c1-7240,Containment - Secondary FA /SEC/GPL/BAS
+MEC-C2-c1-6380,Install Refrigeration Tray
+MEC-C2-c1-6390,Pipework Connections to AHUs
+ELE-C2-c1-7260,Cabling - Main LV to Equipment/Boards
+ELE-C2-c1-7270,VESDA Fit out
+MEC-C2-c1-6440,Install leak detection
+MEC-C2-c1-6460,Install NPW 2nd fix Pipework
+ARC-C2-c1-6820,Install Corridor & riser Walls
+ELE-C2-c1-7350,Containment - Secondary FA /SEC/GPL/BAS
+ELE-C2-c1-7360,Cabling - Main LV to Equipment/Boards
+ELE-C2-c2-7500,Containment - Primary FA /SEC/GPL/BAS
+ELE-C2-c2-7720,Install Earthing and Bonding to Containment
+MEC-C2-c3-6830,Install Condenstate Drainage Pipework
+ARC-C4-c1-7230,Erect Generator Access Steel
+ELE-C4-c1-7550,Installation of Tap Off Boxes
+ELE-C4-c1-7930,Containment - Primary LV Mains
+ARC-C4-c3-7970,Install Containment Gantry Steel
+ARC-C4-c2-7600,Erect Generator Support Steel
+ELE-WTP-1600,Connection Water services extending to plantroom
+ELE-WTP-1620,Connection of Electrical supplies
+ELE-AD-L1-9410,"Cabling Terminations  for FA,GS,BMS, BAS (1/2)"
+TELE-C1-c1-6750,Testing
+SEC-C1-c1-7030,Terminate Access Control Cables @ Panel
+SEC-C1-c1-7040,Terminate Access Control Cables in Field
+SEC-C1-c1-7050,Install Access Control Devices
+ELE-C1-c3-7010,MEP Testing / QA / Labelling / Pre L3 Checks
+ARC-C1-c4-6960,Install HAC Doors
+TELE-C1-c4-6460,Cabling
+TELE-C1-c4-6520,Cable pulls
+TELE-C1-c4-6790,Cable pulls
+ELE-C3-c2-7400,Terminations - FA /SEC/GPL/BAS
+ELE-C3-c3-8000,Terminations - Main Equipment & Panels
+ELE-C2-c1-6960,Cabling - Earthing
+ELE-C2-c1-6970,Cabling - Main LV to Equipment/Boards
+ARC-C1-c4-7000,Install Doors & Ironmongery
+ARC-AD-L2-4860,Close Ceilings
+TELE-C1-c1-6350,Testing
+TELE-C1-c1-A6380,Dressing
+SEC-C1-c3-7480,Pull Alarms Cables
+SEC-C1-c4-7600,Pull Video Network Cables
+SEC-C1-c4-7710,Install Secondary Containment for Alarms
+ELE-C3-c3-7610,Terminations - FA /SEC/GPL/BAS
+ELE-C3-c4-8210,Terminations - Main Equipment & Panels
+TELE-C1-c2-6810,Terminations
+TELE-C1-c2-6480,Splice
+TELE-C1-c3-6800,Dressing
+TELE-C1-c3-6840,Cable pulls
+ELE-AD-L1-9390,Temination of MV/LVCabling (2/2)
+TELE-C1-c1-6760,Labeling
+TELE-C1-c1-6360,Labeling
+TELE-C1-c3-6470,Dressing
+TELE-C1-c4-6590,Cabling
+ELE-C4-c2-8440,Containment - Primary LV Containment SW and Gen Yard
+ARC-C3-c2-6740,Firestopping Service Openings
+ELE-C2-c3-8330,Install Earthing and Bonding to Containment
+ARC-C2-c4-7860,Install Panel Support Structures
+ARC-C2-c4-7870,Install Primary Containment for FA /SEC/GPL/BAS
+ELE-C2-c4-8880,Install Earth Bars
+MEC-C2-c4-7100,Install HL Fire Dampers
+ELE-C2-c4-9060,Containment - Primary FA /SEC/GPL/BAS
+ARC-C4-c2-7330,Modular HACs - 2nd Fix - Lift HACs & Install Support Column
+ARC-C4-c2-7360,Install Containment for LV Power in Central Corridor
+MEC-C4-c2-6820,Install AC Pipework
+ELE-C4-c2-8120,Install LL VESDA Pipework
+MEC-C4-c3-7070,Install AC Units
+MEC-C4-c3-7140,Install HL Return Dampers
+ARC-C4-c4-8050,Install Ceiling Grid & Fit Ceiling Tiles
+ARC-C4-c4-8060,Install Ceiling in Central Corridor
+ARC-C4-c4-8770,Modular HACs - 1st Fix - MEP connections & OAQC
+ELE-C4-c4-9470,Install Below Ceiling VESDA
+MEC-C4-c4-7310,Installation of UPS Chimey Ducting
+MEC-C4-c4-7320,Install Refrigeration Tray
+ARC-C5-c1-7270,Install Flashings to White Walls
+ELE-C4-c4-9480,Containment - Primary LV Main Equipment & Panels
+MEC-C4-c4-7380,Install NPW 1st Fix Pipework
+ARC-C4-c4-8290,Form Openings in Ceiling Panels Dampers & Hatches
+ELE-C4-c4-9650,Containment - Primary for LV to AHUs
+MEC-C4-c4-7470,Install Mechanical Corridor Handrails
+ARC-C5-c1-7280,Install Mesh Walls
+ARC-C5-c1-7310,Modular HACs - 1st Fix - assembly on ground
+ARC-C5-c1-7350,Firestopping Top Whitewalls
+ARC-C5-c2-7630,Install White Walls
+ARC-C5-c2-7640,Install Column Encasements
+ARC-C5-c2-7800,Install Ceiling Grid & Fit Ceiling Tiles
+ARC-C5-c2-7900,Install Ceiling Grid & Panels
+GEN-C5-c3-4940,Install Ceiling Hangers - Sub Grid & Drop Rods
+ARC-C5-c3-8160,Install Ceiling Hangers - Sub Grid & Drop Rods
+ELE-C5-c3-9640,Install HL VESDA Pipework
+GEN-C5-c4-4950,Install HL VESDA Pipework
+ELE-C5-c4-10070,Install HL VESDA Pipework
+ARC-C5-c4-8600,Install Flashings to White Walls - Battery Room
+ARC-C5-c4-8590,Install Eurobond Ceiling
+MEC-C5-c4-7650,Test HL Sprinkler Pipework (Above Ceiling)
+ARC-AD-L2-8060,Apply 1st Coat Paint to all Walls & Sand
+ARC-AD-L1-2370,Secure Store I CSA - Decoration/Final Painting
+ARC-AD-L1-8570,Secure Store II CSA - Decoration/Final Painting
+ARC-AD-L1-8670,High Value Store CSA - Decoration/Final Painting
+ARC-AD-L1-8770,FCR - CSA -Decoration/Final Painting
+ARC-AD-L1-8870,MMR1CSA- Decoration/Final Painting
+ARC-AD-L1-8970,MMR2 CSA  Decoration/Final Painting
+ARC-AD-L1-2660,Install DHW and DCW drainage pipework
+TELE-C1-c1-6420,Install Switches
+TELE-C1-c1-6490,Cabling
+TELE-C1-c2-6820,Testing
+TELE-C1-c3-6900,Mount Fibre runner
+ELE-C1-c3-7420,MEP Testing / QA / Labelling / Pre L3 Checks
+ELE-C1-c4-7920,MEP Testing / QA / Labelling / Pre L3 Checks
+MEC-C1-c4-6780,MEP Testing / QA / Pre L3 Checks
+ARC-AD-L1-4360,Sanitaryware WC's 2x
+ARC-C3-c1-6410,Install Doors & Ironmongery
+ARC-C3-c1-6420,Paint Floor Markings
+ARC-C3-c1-6430,Access Hatches
+MEC-C3-c1-6210,Install Transfer Fans
+MEC-C3-c1-6250,Lag Exhaust Duct Ducting
+TELE-C3-c1-6460,Cabling
+TELE-C3-c1-6520,Cable pulls
+TELE-C3-c1-6790,Cable pulls
+SEC-C3-c1-6940,Pull Video Network Cables
+SEC-C3-c1-7050,Install Secondary Containment for Alarms
+ELE-C3-c2-7180,Terminations - FA /SEC/GPL/BAS
+ELE-C3-c2-7300,Terminations - FA /SEC/GPL/BAS
+TELE-C3-c2-6770,Mount brackets
+SEC-C3-c2-7060,Pull Access Control Cables
+SEC-C3-c2-7170,Install Secondary Containment for Video Network
+ARC-C3-c3-7090,Install Doors & Ironmongery
+ELE-C3-c3-7760,VESDA Fit out
+ELE-C3-c3-7890,Terminations - Main Equipment & Panels
+ARC-C3-c3-7160,Firestopping Service Openings
+ELE-C3-c3-7900,Cabling - Secondary - FA /SEC/GPL/BAS
+MEC-C3-c3-6760,Install Exhaust Duct 2nd Fix Fittings
+SEC-C3-c3-7290,Install Secondary Containment for Access Control
+ELE-C3-c4-8380,Terminations - Main Equipment & Panels
+MEC-C3-c4-6930,Install AC Pipework & Connections
+MEC-C3-c4-6940,Install Condenstate Drainage Pipework
+ELE-C3-c4-8470,Install Earthing and Bonding to Containment
+MEC-C3-c4-7010,Install Exhaust Duct Ducting
+TELE-C3-c4-6420,EPMS
+TELE-C3-c4-6430,SLV/SCCR
+TELE-C3-c4-6440,MORs
+ELE-C2-c1-6910,VESDA Fit Out
+ELE-C2-c1-6980,Cabling - Secondary - FA /SEC/GPL/BAS
+ELE-C2-c1-7130,Cabling - Earthing
+ELE-C2-c1-7170,Cabling - Secondary - FA /SEC/GPL/BAS
+MEC-C2-c1-6400,Install AC Units
+MEC-C2-c1-6480,Install Exhaust Duct Supports
+ELE-C2-c1-7370,Cabling - Earthing
+ELE-C2-c1-7380,Cabling - Secondary - FA /SEC/GPL/BAS
+ELE-C2-c2-7530,Containment - Secondary FA /SEC/GPL/BAS
+ELE-C2-c2-7730,Cabling - Main LV to Equipment/Boards
+ELE-C2-c2-7750,Containment - Secondary FA /SEC/GPL/BAS
+ELE-C2-c2-7850,Containment - Secondary FA /SEC/GPL/BAS
+MEC-C2-c2-6640,Install Refrigeration Tray
+MEC-C2-c2-6650,Pipework Connections to AHUs
+ELE-C2-c2-7870,Cabling - Main LV to Equipment/Boards
+ELE-C2-c2-7880,VESDA Fit out
+MEC-C2-c2-6700,Install leak detection
+MEC-C2-c2-6720,Install NPW 2nd fix Pipework
+ARC-C2-c2-7200,Install Corridor & riser Walls
+ELE-C2-c2-7960,Containment - Secondary FA /SEC/GPL/BAS
+ELE-C2-c2-7970,Cabling - Main LV to Equipment/Boards
+ELE-C2-c3-8110,Containment - Primary FA /SEC/GPL/BAS
+MEC-C2-c4-7090,Install Condenstate Drainage Pipework
+ARC-C4-c2-7610,Erect Generator Access Steel
+ELE-C4-c2-8160,Installation of Tap Off Boxes
+ELE-C4-c2-8540,Containment - Primary LV Mains
+ARC-C4-c4-8350,Install Containment Gantry Steel
+ARC-C4-c3-7980,Erect Generator Support Steel
+ELE-WTP-6260,MEP testing
+ARC-AD-L1-2590,Apply 1st Coat Paint to all Walls & Sand
+ARC-AD-L1-4370,Apply 1st Coat Paint to all Walls & Sand
+ARC-AD-L1-4380,Install Hangers for the Ceiling System
+ARC-AD-L1-2600,QA Walkdown
+TELE-C1-c1-6370,Patching
+SEC-C1-c1-7080,Terminate Video Network Cables @ Panel
+SEC-C1-c1-7090,Terminate Video Network Cables in Field
+SEC-C1-c2-7190,Terminate Access Control Cables @ Panel
+SEC-C1-c1-7100,Install Video Network Devices
+SEC-C1-c2-7200,Terminate Access Control Cables in Field
+TELE-C1-c2-6490,Testing
+TELE-C1-c2-6530,Dressing
+SEC-C1-c2-7210,Install Access Control Devices
+ELE-C1-c4-7620,MEP Testing / QA / Labelling / Pre L3 Checks
+ELE-C1-c4-7800,MEP Testing / QA / Labelling / Pre L3 Checks
+ARC-C3-c1-6200,Install HAC Doors
+ARC-C3-c1-6240,Install Doors & Ironmongery
+ELE-C3-c3-8010,Terminations - FA /SEC/GPL/BAS
+ELE-C3-c4-8610,Terminations - Main Equipment & Panels
+ARC-C2-c1-6610,Firestopping Service Openings
+ELE-C2-c2-7570,Cabling - Earthing
+ELE-C2-c2-7580,Cabling - Main LV to Equipment/Boards
+ARC-AD-L1-2610,Tie in to AHU
+ARC-AD-L1-1640,Install Hangers for the Ceiling System
+TELE-C1-c1-A6390,Terminations
+SEC-C1-c4-7660,Pull Alarms Cables
+ELE-C3-c4-8220,Terminations - FA /SEC/GPL/BAS
+TELE-C1-c2-6500,Labeling
+TELE-C1-c3-6810,Terminations
+TELE-C1-c2-6570,Install Switches
+TELE-C1-c2-6830,Labeling
+TELE-C1-c3-6480,Splice
+TELE-C1-c4-6800,Dressing
+TELE-C1-c4-6840,Cable pulls
+ELE-C2-c1-6990,Terminations - Main Equipment & Panels
+ARC-C4-c1-7100,Install Panel Support Structures
+ARC-C4-c1-7110,Install Primary Containment for FA /SEC/GPL/BAS
+ELE-C4-c1-7660,Install Earth Bars
+MEC-C4-c1-6580,Install HL Fire Dampers
+TELE-C1-c1-6780,Dressing
+TELE-C1-c2-6600,Dressing
+TELE-C1-c2-6650,Cabling
+TELE-C1-c4-6470,Dressing
+ELE-C4-c3-9050,Containment - Primary LV Containment SW and Gen Yard
+ARC-C3-c3-7120,Firestopping Service Openings
+ELE-C2-c4-8940,Install Earthing and Bonding to Containment
+MEC-C4-c1-6570,Install Condenstate Drainage Pipework
+ELE-C4-c1-7840,Containment - Primary FA /SEC/GPL/BAS
+ARC-C4-c3-7710,Modular HACs - 2nd Fix - Lift HACs & Install Support Column
+ARC-C4-c3-7740,Install Containment for LV Power in Central Corridor
+ELE-C4-c3-8730,Install LL VESDA Pipework
+MEC-C4-c3-7080,Install AC Pipework
+MEC-C4-c4-7330,Install AC Units
+MEC-C4-c4-7400,Install HL Return Dampers
+ARC-C5-c1-7290,Install Ceiling Grid & Fit Ceiling Tiles
+ARC-C5-c1-7300,Install Ceiling in Central Corridor
+ARC-C5-c1-7620,Modular HACs - 1st Fix - MEP connections & OAQC
+ELE-C5-c1-8250,Install Below Ceiling VESDA
+MEC-C5-c1-6790,Installation of UPS Chimey Ducting
+MEC-C5-c1-6800,Install Refrigeration Tray
+ARC-C5-c2-7650,Install Flashings to White Walls
+ELE-C5-c1-8260,Containment - Primary LV Main Equipment & Panels
+MEC-C5-c1-6860,Install NPW 1st Fix Pipework
+ARC-C5-c1-7530,Form Openings in Ceiling Panels Dampers & Hatches
+ELE-C5-c1-8430,Containment - Primary for LV to AHUs
+MEC-C5-c1-6950,Install Mechanical Corridor Handrails
+ARC-C5-c2-7660,Install Mesh Walls
+ARC-C5-c2-7690,Modular HACs - 1st Fix - assembly on ground
+ARC-C5-c2-7730,Firestopping Top Whitewalls
+ARC-C5-c3-8010,Install White Walls
+ARC-C5-c3-8020,Install Column Encasements
+ARC-C5-c3-8180,Install Ceiling Grid & Fit Ceiling Tiles
+ARC-C5-c3-8280,Install Ceiling Grid & Panels
+GEN-C5-c4-4960,Install Ceiling Hangers - Sub Grid & Drop Rods
+ARC-C5-c4-8540,Install Ceiling Hangers - Sub Grid & Drop Rods
+ELE-C5-c4-10250,Install HL VESDA Pipework
+TELE-C1-c1-6840,Level and adjust
+TELE-C1-c1-A6400,Testing
+TELE-C1-c2-6510,Patching
+TELE-C1-c3-6820,Testing
+ELE-C1-c4-8030,MEP Testing / QA / Labelling / Pre L3 Checks
+TELE-C1-c4-6900,Mount Fibre runner
+ELE-C3-c1-6580,MEP Testing / QA / Labelling / Pre L3 Checks - (1/2)
+ELE-C3-c1-6700,MEP Testing / QA / Labelling / Pre L3 Checks - (1/2)
+MEC-C3-c1-6260,MEP Testing / QA / Pre L3 Checks
+SEC-C3-c1-7000,Pull Alarms Cables
+ARC-C3-c2-6790,Install Doors & Ironmongery
+ARC-C3-c2-6800,Paint Floor Markings
+ARC-C3-c2-6810,Access Hatches
+MEC-C3-c2-6470,Install Transfer Fans
+MEC-C3-c2-6510,Lag Exhaust Duct Ducting
+TELE-C3-c2-6450,Cabling
+TELE-C3-c2-6510,Cable pulls
+TELE-C3-c2-6670,Cable pulls
+SEC-C3-c2-7120,Pull Video Network Cables
+SEC-C3-c2-7230,Install Secondary Containment for Alarms
+ELE-C3-c3-7790,Terminations - FA /SEC/GPL/BAS
+ELE-C3-c3-7910,Terminations - FA /SEC/GPL/BAS
+TELE-C3-c3-6770,Mount brackets
+SEC-C3-c3-7240,Pull Access Control Cables
+SEC-C3-c3-7350,Install Secondary Containment for Video Network
+ARC-C3-c4-7470,Install Doors & Ironmongery
+ELE-C3-c4-8370,VESDA Fit out
+ELE-C3-c4-8500,Terminations - Main Equipment & Panels
+ARC-C3-c4-7540,Firestopping Service Openings
+ELE-C3-c4-8510,Cabling - Secondary - FA /SEC/GPL/BAS
+MEC-C3-c4-7020,Install Exhaust Duct 2nd Fix Fittings
+SEC-C3-c4-7470,Install Secondary Containment for Access Control
+ELE-C2-c1-7160,Terminations - Main Equipment & Panels
+MEC-C2-c1-6410,Install AC Pipework & Connections
+MEC-C2-c1-6420,Install Condenstate Drainage Pipework
+ELE-C2-c1-7250,Install Earthing and Bonding to Containment
+MEC-C2-c1-6490,Install Exhaust Duct Ducting
+TELE-C2-c1-6420,EPMS
+TELE-C2-c1-6430,SLV/SCCR
+TELE-C2-c1-6440,MORs
+ELE-C2-c2-7520,VESDA Fit Out
+ELE-C2-c2-7590,Cabling - Secondary - FA /SEC/GPL/BAS
+ELE-C2-c2-7740,Cabling - Earthing
+ELE-C2-c2-7780,Cabling - Secondary - FA /SEC/GPL/BAS
+MEC-C2-c2-6660,Install AC Units
+MEC-C2-c2-6740,Install Exhaust Duct Supports
+ELE-C2-c2-7980,Cabling - Earthing
+ELE-C2-c2-7990,Cabling - Secondary - FA /SEC/GPL/BAS
+ELE-C2-c3-8140,Containment - Secondary FA /SEC/GPL/BAS
+ELE-C2-c3-8340,Cabling - Main LV to Equipment/Boards
+ELE-C2-c3-8360,Containment - Secondary FA /SEC/GPL/BAS
+ELE-C2-c3-8460,Containment - Secondary FA /SEC/GPL/BAS
+MEC-C2-c3-6900,Install Refrigeration Tray
+MEC-C2-c3-6910,Pipework Connections to AHUs
+ELE-C2-c3-8480,Cabling - Main LV to Equipment/Boards
+ELE-C2-c3-8490,VESDA Fit out
+MEC-C2-c3-6960,Install leak detection
+MEC-C2-c3-6980,Install NPW 2nd fix Pipework
+ARC-C2-c3-7580,Install Corridor & riser Walls
+ELE-C2-c3-8570,Containment - Secondary FA /SEC/GPL/BAS
+ELE-C2-c3-8580,Cabling - Main LV to Equipment/Boards
+ELE-C2-c4-8720,Containment - Primary FA /SEC/GPL/BAS
+ARC-C4-c3-7990,Erect Generator Access Steel
+ELE-C4-c3-8770,Installation of Tap Off Boxes
+ELE-C4-c3-9150,Containment - Primary LV Mains
+ARC-C5-c1-7590,Install Containment Gantry Steel
+ARC-C4-c4-8360,Erect Generator Support Steel
+ARC-AD-L2-8250,Terminations / Fittings
+SEC-C1-c1-7160,Install Alarms Devices
+SEC-C1-c1-7140,Terminate Alarms Cables @ Panel
+SEC-C1-c1-7150,Terminate Alarms Cables in Field
+TELE-C1-c2-6540,Terminations
+SEC-C1-c2-7250,Terminate Video Network Cables @ Panel
+SEC-C1-c2-7260,Terminate Video Network Cables in Field
+SEC-C1-c3-7370,Terminate Access Control Cables @ Panel
+SEC-C1-c2-7270,Install Video Network Devices
+SEC-C1-c3-7380,Terminate Access Control Cables in Field
+TELE-C1-c3-6490,Testing
+TELE-C1-c3-6530,Dressing
+SEC-C1-c3-7390,Install Access Control Devices
+ARC-AD-L1-2650,Insulation & Labeling
+ELE-C3-c1-6400,MEP Testing / QA / Labelling / Pre L3 Checks - (1/2)
+ARC-C3-c2-6580,Install HAC Doors
+ARC-C3-c2-6620,Install Doors & Ironmongery
+ELE-C3-c4-8620,Terminations - FA /SEC/GPL/BAS
+ELE-C2-c1-7390,Terminations - Main Equipment & Panels
+ARC-C2-c2-6990,Firestopping Service Openings
+ELE-C2-c3-8180,Cabling - Earthing
+ELE-C2-c3-8190,Cabling - Main LV to Equipment/Boards
+ARC-AD-L1-2670,Test & Balancing AC units
+TELE-C1-c1-6440,Dressing
+TELE-C3-c1-6800,Dressing
+TELE-C3-c1-6840,Cable pulls
+ELE-C2-c1-7000,Terminations - FA /SEC/GPL/BAS
+ELE-AD-L1-1800,"Cabling Terminations  for FA,GS,BMS, BAS (2/2)"
+TELE-C1-c2-6610,Splice
+TELE-C1-c2-6850,Dressing
+TELE-C1-c3-6500,Labeling
+TELE-C1-c3-6570,Install Switches
+TELE-C1-c3-6830,Labeling
+TELE-C1-c4-6480,Splice
+TELE-C1-c4-6810,Terminations
+TELE-C3-c1-6470,Dressing
+ELE-C2-c2-7600,Terminations - Main Equipment & Panels
+ELE-C4-c1-7720,Install Earthing and Bonding to Containment
+ARC-C4-c2-7480,Install Panel Support Structures
+ARC-C4-c2-7490,Install Primary Containment for FA /SEC/GPL/BAS
+ELE-C4-c2-8270,Install Earth Bars
+MEC-C4-c2-6840,Install HL Fire Dampers
+ARC-AD-EX-2530,Lift Commissioning
+TELE-C1-c1-A6410,Labeling
+TELE-C1-c2-6550,Testing
+TELE-C1-c1-6790,Terminations
+TELE-C1-c3-6600,Dressing
+TELE-C1-c3-6650,Cabling
+ELE-C4-c4-9660,Containment - Primary LV Containment SW and Gen Yard
+ARC-C3-c4-7500,Firestopping Service Openings
+ELE-C4-c1-7500,Containment - Primary FA /SEC/GPL/BAS
+MEC-C4-c2-6830,Install Condenstate Drainage Pipework
+ELE-C4-c2-8450,Containment - Primary FA /SEC/GPL/BAS
+ELE-C4-c4-9340,Install LL VESDA Pipework
+ARC-C4-c4-8090,Modular HACs - 2nd Fix - Lift HACs & Install Support Column
+ARC-C4-c4-8120,Install Containment for LV Power in Central Corridor
+MEC-C4-c4-7340,Install AC Pipework
+MEC-C5-c1-6810,Install AC Units
+MEC-C5-c1-6880,Install HL Return Dampers
+ARC-C5-c2-7670,Install Ceiling Grid & Fit Ceiling Tiles
+ARC-C5-c2-7680,Install Ceiling in Central Corridor
+ARC-C5-c2-8000,Modular HACs - 1st Fix - MEP connections & OAQC
+ELE-C5-c2-8860,Install Below Ceiling VESDA
+MEC-C5-c2-7050,Installation of UPS Chimey Ducting
+MEC-C5-c2-7060,Install Refrigeration Tray
+ARC-C5-c3-8030,Install Flashings to White Walls
+ELE-C5-c2-8870,Containment - Primary LV Main Equipment & Panels
+MEC-C5-c2-7120,Install NPW 1st Fix Pipework
+ARC-C5-c2-7910,Form Openings in Ceiling Panels Dampers & Hatches
+ELE-C5-c2-9040,Containment - Primary for LV to AHUs
+MEC-C5-c2-7210,Install Mechanical Corridor Handrails
+ARC-C5-c3-8040,Install Mesh Walls
+ARC-C5-c3-8070,Modular HACs - 1st Fix - assembly on ground
+ARC-C5-c3-8110,Firestopping Top Whitewalls
+ARC-C5-c4-8390,Install White Walls
+ARC-C5-c4-8400,Install Column Encasements
+ARC-C5-c4-8560,Install Ceiling Grid & Fit Ceiling Tiles
+ARC-C5-c4-8660,Install Ceiling Grid & Panels
+ARC-AD-L2-8090,Install Frames and Install Doors & Ironmongery incl. Lokers
+ARC-AD-L2-8100,Apply 2nd Coat of Paint to Walls & Sand
+ARC-AD-L2-8130,Install Framing & Glass for Internal Glazing System
+TELE-C1-c1-6500,Dressing
+TELE-C1-c1-6600,Cabling
+TELE-C1-c1-6660,Cabling
+TELE-C1-c2-6910,Level and adjust
+TELE-C1-c3-6510,Patching
+TELE-C1-c4-6820,Testing
+ELE-C3-c1-6810,MEP Testing / QA / Labelling / Pre L3 Checks - (1/2)
+TELE-C3-c1-6900,Mount Fibre runner
+ELE-C3-c2-7190,MEP Testing / QA / Labelling / Pre L3 Checks - (1/2)
+ELE-C3-c2-7310,MEP Testing / QA / Labelling / Pre L3 Checks - (1/2)
+MEC-C3-c2-6520,MEP Testing / QA / Pre L3 Checks
+SEC-C3-c2-7180,Pull Alarms Cables
+ARC-C3-c3-7170,Install Doors & Ironmongery
+ARC-C3-c3-7180,Paint Floor Markings
+ARC-C3-c3-7190,Access Hatches
+MEC-C3-c3-6730,Install Transfer Fans
+MEC-C3-c3-6770,Lag Exhaust Duct Ducting
+TELE-C3-c3-6450,Cabling
+TELE-C3-c3-6510,Cable pulls
+TELE-C3-c3-6670,Cable pulls
+SEC-C3-c3-7300,Pull Video Network Cables
+SEC-C3-c3-7410,Install Secondary Containment for Alarms
+ELE-C3-c4-8400,Terminations - FA /SEC/GPL/BAS
+ELE-C3-c4-8520,Terminations - FA /SEC/GPL/BAS
+TELE-C3-c4-6770,Mount brackets
+SEC-C3-c4-7420,Pull Access Control Cables
+SEC-C3-c4-7530,Install Secondary Containment for Video Network
+ARC-C2-c1-6710,Install Doors & Ironmongery
+ELE-C2-c1-7150,VESDA Fit out
+ELE-C2-c1-7280,Terminations - Main Equipment & Panels
+ARC-C2-c1-6780,Firestopping Service Openings
+ELE-C2-c1-7290,Cabling - Secondary - FA /SEC/GPL/BAS
+MEC-C2-c1-6500,Install Exhaust Duct 2nd Fix Fittings
+SEC-C2-c1-6930,Install Secondary Containment for Access Control
+ELE-C2-c2-7770,Terminations - Main Equipment & Panels
+MEC-C2-c2-6670,Install AC Pipework & Connections
+MEC-C2-c2-6680,Install Condenstate Drainage Pipework
+ELE-C2-c2-7860,Install Earthing and Bonding to Containment
+MEC-C2-c2-6750,Install Exhaust Duct Ducting
+TELE-C2-c2-6420,EPMS
+TELE-C2-c2-6430,SLV/SCCR
+TELE-C2-c2-6440,MORs
+ELE-C2-c3-8130,VESDA Fit Out
+ELE-C2-c3-8200,Cabling - Secondary - FA /SEC/GPL/BAS
+ELE-C2-c3-8350,Cabling - Earthing
+ELE-C2-c3-8390,Cabling - Secondary - FA /SEC/GPL/BAS
+MEC-C2-c3-6920,Install AC Units
+MEC-C2-c3-7000,Install Exhaust Duct Supports
+ELE-C2-c3-8590,Cabling - Earthing
+ELE-C2-c3-8600,Cabling - Secondary - FA /SEC/GPL/BAS
+ELE-C2-c4-8750,Containment - Secondary FA /SEC/GPL/BAS
+ELE-C2-c4-8950,Cabling - Main LV to Equipment/Boards
+ELE-C2-c4-8970,Containment - Secondary FA /SEC/GPL/BAS
+ELE-C2-c4-9070,Containment - Secondary FA /SEC/GPL/BAS
+MEC-C2-c4-7160,Install Refrigeration Tray
+MEC-C2-c4-7170,Pipework Connections to AHUs
+ELE-C2-c4-9090,Cabling - Main LV to Equipment/Boards
+ELE-C2-c4-9100,VESDA Fit out
+MEC-C2-c4-7220,Install leak detection
+MEC-C2-c4-7240,Install NPW 2nd fix Pipework
+ARC-C2-c4-7960,Install Corridor & riser Walls
+ELE-C2-c4-9180,Containment - Secondary FA /SEC/GPL/BAS
+ELE-C2-c4-9190,Cabling - Main LV to Equipment/Boards
+ARC-C4-c4-8370,Erect Generator Access Steel
+ELE-C4-c4-9380,Installation of Tap Off Boxes
+ELE-C4-c4-9760,Containment - Primary LV Mains
+ARC-C5-c2-7970,Install Containment Gantry Steel
+ARC-C5-c1-7600,Erect Generator Support Steel
+CON-ZD-7360,District Heating (2/2)
+ARC-AD-L1-2690,Install Frames and Install Doors & Ironmongery incl. Lokers
+ARC-AD-L1-2700,Apply 2nd Coat of Paint to Walls & Sand
+ARC-AD-L1-2710,Install Framing & Glass for Internal Glazing System
+ARC-AD-L1-4400,Install Frames and Install Doors & Ironmongery incl. Lokers
+ARC-AD-L1-4410,Apply 2nd Coat of Paint to Walls & Sand
+ELE-AD-L1-2250,Testing for MV/LV Cabling
+TELE-C1-c1-6450,Splice
+SEC-C1-c2-7330,Install Alarms Devices
+SEC-C1-c2-7310,Terminate Alarms Cables @ Panel
+SEC-C1-c2-7320,Terminate Alarms Cables in Field
+TELE-C1-c3-6540,Terminations
+SEC-C1-c3-7430,Terminate Video Network Cables @ Panel
+SEC-C1-c3-7440,Terminate Video Network Cables in Field
+SEC-C1-c3-7450,Install Video Network Devices
+TELE-C1-c4-6490,Testing
+TELE-C1-c4-6530,Dressing
+SEC-C1-c4-7550,Terminate Access Control Cables @ Panel
+SEC-C1-c4-7560,Terminate Access Control Cables in Field
+SEC-C1-c4-7570,Install Access Control Devices
+ELE-C3-c2-7010,MEP Testing / QA / Labelling / Pre L3 Checks - (1/2)
+ARC-C3-c3-6960,Install HAC Doors
+ARC-C3-c3-7000,Install Doors & Ironmongery
+ELE-C2-c1-7400,Terminations - FA /SEC/GPL/BAS
+ELE-C2-c2-8000,Terminations - Main Equipment & Panels
+ARC-C2-c3-7370,Firestopping Service Openings
+ELE-C2-c4-8790,Cabling - Earthing
+ELE-C2-c4-8800,Cabling - Main LV to Equipment/Boards
+TELE-C3-c1-6480,Splice
+TELE-C3-c1-6810,Terminations
+TELE-C3-c2-6680,Dressing
+TELE-C3-c2-6720,Cable pulls
+ELE-C2-c2-7610,Terminations - FA /SEC/GPL/BAS
+TELE-C1-c1-6425,Patching
+TELE-C1-c1-6800,Testing
+TELE-C1-c2-6560,Labeling
+TELE-C1-c3-6610,Splice
+TELE-C1-c3-6850,Dressing
+TELE-C1-c2-6860,Terminations
+TELE-C1-c4-6500,Labeling
+TELE-C1-c4-6830,Labeling
+TELE-C3-c2-6460,Dressing
+ELE-C2-c3-8210,Terminations - Main Equipment & Panels
+ELE-C4-c2-8330,Install Earthing and Bonding to Containment
+ARC-C4-c3-7860,Install Panel Support Structures
+ARC-C4-c3-7870,Install Primary Containment for FA /SEC/GPL/BAS
+ELE-C4-c3-8880,Install Earth Bars
+MEC-C4-c3-7100,Install HL Fire Dampers
+TELE-C1-c2-6660,Dressing
+TELE-C1-c2-6690,Cabling
+TELE-C1-c2-6740,Cabling
+TELE-C1-c3-6550,Testing
+TELE-C1-c4-6600,Dressing
+TELE-C1-c4-6650,Cabling
+TELE-C3-c1-6820,Testing
+SEC-C3-c1-6890,Terminate Access Control Cables @ Panel
+SEC-C3-c1-6900,Terminate Access Control Cables in Field
+SEC-C3-c1-6910,Install Access Control Devices
+ELE-C5-c1-8440,Containment - Primary LV Containment SW and Gen Yard
+ARC-C2-c1-6740,Firestopping Service Openings
+ELE-C4-c1-7530,Containment - Secondary FA /SEC/GPL/BAS
+ELE-C4-c2-8110,Containment - Primary FA /SEC/GPL/BAS
+MEC-C4-c3-7090,Install Condenstate Drainage Pipework
+ELE-C4-c3-9060,Containment - Primary FA /SEC/GPL/BAS
+ARC-C5-c1-7330,Modular HACs - 2nd Fix - Lift HACs & Install Support Column
+ARC-C5-c1-7360,Install Containment for LV Power in Central Corridor
+ELE-C5-c1-8120,Install LL VESDA Pipework
+MEC-C5-c1-6820,Install AC Pipework
+MEC-C5-c2-7070,Install AC Units
+MEC-C5-c2-7140,Install HL Return Dampers
+ARC-C5-c3-8050,Install Ceiling Grid & Fit Ceiling Tiles
+ARC-C5-c3-8060,Install Ceiling in Central Corridor
+ARC-C5-c3-8410,Modular HACs - 1st Fix - MEP connections & OAQC
+ELE-C5-c3-9470,Install Below Ceiling VESDA
+MEC-C5-c3-7310,Installation of UPS Chimey Ducting
+MEC-C5-c3-7320,Install Refrigeration Tray
+ARC-C5-c4-8410,Install Flashings to White Walls
+ELE-C5-c3-9480,Containment - Primary LV Main Equipment & Panels
+MEC-C5-c3-7380,Install NPW 1st Fix Pipework
+ARC-C5-c3-8290,Form Openings in Ceiling Panels Dampers & Hatches
+ELE-C5-c3-9650,Containment - Primary for LV to AHUs
+MEC-C5-c3-7470,Install Mechanical Corridor Handrails
+ARC-C5-c4-8420,Install Mesh Walls
+ARC-C5-c4-8450,Modular HACs - 1st Fix - assembly on ground
+ARC-C5-c4-8490,Firestopping Top Whitewalls
+TELE-C1-c1-6510,Splice
+TELE-C1-c1-6670,Dressing
+TELE-C1-c3-6910,Level and adjust
+TELE-C1-c4-6510,Patching
+ELE-C3-c1-6920,MEP Testing / QA / Labelling / Pre L3 Checks - (2/2)
+TELE-C3-c1-6490,Testing
+TELE-C3-c1-6530,Dressing
+ELE-C3-c2-7420,MEP Testing / QA / Labelling / Pre L3 Checks - (1/2)
+TELE-C3-c2-6780,Mount Fibre runner
+ELE-C3-c3-7800,MEP Testing / QA / Labelling / Pre L3 Checks - (1/2)
+ELE-C3-c3-7920,MEP Testing / QA / Labelling / Pre L3 Checks - (1/2)
+MEC-C3-c3-6780,MEP Testing / QA / Pre L3 Checks
+SEC-C3-c3-7360,Pull Alarms Cables
+ARC-C3-c4-7550,Install Doors & Ironmongery
+ARC-C3-c4-7560,Paint Floor Markings
+ARC-C3-c4-7570,Access Hatches
+MEC-C3-c4-6990,Install Transfer Fans
+MEC-C3-c4-7030,Lag Exhaust Duct Ducting
+TELE-C3-c4-6450,Cabling
+TELE-C3-c4-6510,Cable pulls
+TELE-C3-c4-6670,Cable pulls
+SEC-C3-c4-7480,Pull Video Network Cables
+SEC-C3-c4-7590,Install Secondary Containment for Alarms
+ELE-C2-c1-7180,Terminations - FA /SEC/GPL/BAS
+ELE-C2-c1-7300,Terminations - FA /SEC/GPL/BAS
+TELE-C2-c1-6770,Mount brackets
+SEC-C2-c1-6880,Pull Access Control Cables
+SEC-C2-c1-6990,Install Secondary Containment for Video Network
+ARC-C2-c2-7090,Install Doors & Ironmongery
+ELE-C2-c2-7760,VESDA Fit out
+ELE-C2-c2-7890,Terminations - Main Equipment & Panels
+ARC-C2-c2-7160,Firestopping Service Openings
+ELE-C2-c2-7900,Cabling - Secondary - FA /SEC/GPL/BAS
+MEC-C2-c2-6760,Install Exhaust Duct 2nd Fix Fittings
+SEC-C2-c2-7110,Install Secondary Containment for Access Control
+ELE-C2-c3-8380,Terminations - Main Equipment & Panels
+MEC-C2-c3-6930,Install AC Pipework & Connections
+MEC-C2-c3-6940,Install Condenstate Drainage Pipework
+ELE-C2-c3-8470,Install Earthing and Bonding to Containment
+MEC-C2-c3-7010,Install Exhaust Duct Ducting
+TELE-C2-c3-6420,EPMS
+TELE-C2-c3-6430,SLV/SCCR
+TELE-C2-c3-6440,MORs
+ELE-C2-c4-8740,VESDA Fit Out
+ELE-C2-c4-8810,Cabling - Secondary - FA /SEC/GPL/BAS
+ELE-C2-c4-8960,Cabling - Earthing
+ELE-C2-c4-9000,Cabling - Secondary - FA /SEC/GPL/BAS
+MEC-C2-c4-7180,Install AC Units
+MEC-C2-c4-7260,Install Exhaust Duct Supports
+ELE-C2-c4-9200,Cabling - Earthing
+ELE-C2-c4-9210,Cabling - Secondary - FA /SEC/GPL/BAS
+ELE-C4-c1-7730,Cabling - Main LV to Equipment/Boards
+ELE-C4-c1-7750,Containment - Secondary FA /SEC/GPL/BAS
+ELE-C4-c1-7850,Containment - Secondary FA /SEC/GPL/BAS
+MEC-C4-c1-6640,Install Refrigeration Tray
+MEC-C4-c1-6650,Pipework Connections to AHUs
+ELE-C4-c1-7870,Cabling - Main LV to Equipment/Boards
+MEC-C4-c1-6700,Install leak detection
+MEC-C4-c1-6720,Install NPW 2nd fix Pipework
+ARC-C4-c1-7200,Install Corridor & riser Walls
+ARC-C5-c1-7610,Erect Generator Access Steel
+ELE-C4-c1-7960,Containment - Secondary FA /SEC/GPL/BAS
+ELE-C4-c1-7970,Cabling - Main LV to Equipment/Boards
+ELE-C4-c1-7880,VESDA Fit out
+ELE-C5-c1-8160,Installation of Tap Off Boxes
+ELE-C5-c1-8540,Containment - Primary LV Mains
+ARC-C5-c3-8350,Install Containment Gantry Steel
+ARC-C5-c2-7980,Erect Generator Support Steel
+ARC-AD-L1-4390,Firestop High Level Openings
+ARC-AD-L2-4930,Install Vanity Units and Furniture
+ARC-AD-L2-4940,Apply the Final Coat of Painting
+TELE-C1-c1-6810,Labeling
+SEC-C1-c3-7490,Terminate Alarms Cables @ Panel
+SEC-C1-c3-7500,Terminate Alarms Cables in Field
+SEC-C1-c3-7510,Install Alarms Devices
+TELE-C1-c4-6540,Terminations
+SEC-C1-c4-7610,Terminate Video Network Cables @ Panel
+SEC-C1-c4-7620,Terminate Video Network Cables in Field
+SEC-C1-c4-7630,Install Video Network Devices
+ELE-C3-c1-6910,MEP Testing / QA / Labelling / Pre L3 Checks - (2/2)
+ELE-C3-c1-6930,MEP Testing / QA / Labelling / Pre L3 Checks - (2/2)
+ELE-C3-c3-7620,MEP Testing / QA / Labelling / Pre L3 Checks - (1/2)
+ARC-C3-c4-7340,Install HAC Doors
+ARC-C3-c4-7380,Install Doors & Ironmongery
+ELE-C2-c2-8010,Terminations - FA /SEC/GPL/BAS
+ELE-C2-c3-8610,Terminations - Main Equipment & Panels
+ARC-C2-c4-7750,Firestopping Service Openings
+ELE-C4-c1-7570,Cabling - Earthing
+ELE-C4-c1-7580,Cabling - Main LV to Equipment/Boards
+ARC-AD-L1-1690,Firestop High Level Openings
+ARC-AD-L1-2930,Complete DHW/DCW Conections to Restroom Fixtures (Part 1/2)
+TELE-C1-c2-6580,Patching
+TELE-C1-c2-6870,Testing
+TELE-C3-c1-6500,Labeling
+TELE-C3-c1-6570,Install Switches
+TELE-C3-c1-6830,Labeling
+TELE-C3-c2-6470,Splice
+TELE-C3-c2-6690,Terminations
+TELE-C3-c3-6680,Dressing
+TELE-C3-c3-6720,Cable pulls
+ELE-C2-c3-8220,Terminations - FA /SEC/GPL/BAS
+TELE-C1-c1-6520,Testing
+TELE-C1-c1-6680,Splice
+TELE-C1-c2-6620,Testing
+TELE-C1-c3-6560,Labeling
+TELE-C1-c3-6860,Terminations
+TELE-C1-c4-6610,Splice
+TELE-C1-c4-6850,Dressing
+TELE-C3-c1-6650,Cabling
+TELE-C3-c3-6460,Dressing
+ELE-C2-c4-8820,Terminations - Main Equipment & Panels
+ELE-C4-c3-8940,Install Earthing and Bonding to Containment
+ARC-C4-c4-8240,Install Panel Support Structures
+ARC-C4-c4-8250,Install Primary Containment for FA /SEC/GPL/BAS
+ELE-C4-c4-9490,Install Earth Bars
+MEC-C4-c4-7360,Install HL Fire Dampers
+TELE-C1-c1-6860,WiFi Install
+TELE-C1-c1-6870,Phone install
+TELE-C1-c2-6670,Splice
+TELE-C1-c2-6750,Dressing
+TELE-C1-c3-6660,Dressing
+TELE-C1-c3-6690,Cabling
+TELE-C1-c3-6740,Cabling
+TELE-C1-c4-6550,Testing
+TELE-C3-c1-6510,Patching
+SEC-C3-c1-6950,Terminate Video Network Cables @ Panel
+SEC-C3-c1-6960,Terminate Video Network Cables in Field
+SEC-C3-c1-6970,Install Video Network Devices
+TELE-C3-c2-6700,Testing
+SEC-C3-c2-7070,Terminate Access Control Cables @ Panel
+SEC-C3-c2-7080,Terminate Access Control Cables in Field
+SEC-C3-c2-7090,Install Access Control Devices
+ELE-C5-c2-9050,Containment - Primary LV Containment SW and Gen Yard
+ARC-C2-c2-7120,Firestopping Service Openings
+ELE-C4-c1-7590,Cabling - Secondary - FA /SEC/GPL/BAS
+ELE-C4-c2-8140,Containment - Secondary FA /SEC/GPL/BAS
+ELE-C4-c3-8720,Containment - Primary FA /SEC/GPL/BAS
+ELE-C4-c1-7520,VESDA Fit Out
+MEC-C4-c4-7350,Install Condenstate Drainage Pipework
+ELE-C4-c4-9670,Containment - Primary FA /SEC/GPL/BAS
+ARC-C5-c2-7710,Modular HACs - 2nd Fix - Lift HACs & Install Support Column
+ARC-C5-c2-7740,Install Containment for LV Power in Central Corridor
+ELE-C5-c2-8730,Install LL VESDA Pipework
+MEC-C5-c2-7080,Install AC Pipework
+MEC-C5-c3-7330,Install AC Units
+MEC-C5-c3-7400,Install HL Return Dampers
+ARC-C5-c4-8430,Install Ceiling Grid & Fit Ceiling Tiles
+ARC-C5-c4-8440,Install Ceiling in Central Corridor
+ARC-C5-c4-8760,Modular HACs - 1st Fix - MEP connections & OAQC
+ELE-C5-c4-10080,Install Below Ceiling VESDA
+MEC-C5-c4-7570,Installation of UPS Chimey Ducting
+MEC-C5-c4-7580,Install Refrigeration Tray
+ELE-C5-c4-10090,Containment - Primary LV Main Equipment & Panels
+MEC-C5-c4-7640,Install NPW 1st Fix Pipework
+ARC-C5-c4-8670,Form Openings in Ceiling Panels Dampers & Hatches
+ELE-C5-c4-10260,Containment - Primary for LV to AHUs
+MEC-C5-c4-7730,Install Mechanical Corridor Handrails
+TELE-C1-c1-6690,Testing
+TELE-C1-c2-6880,Labeling
+TELE-C1-c4-6910,Level and adjust
+ELE-C3-c1-6940,MEP Testing / QA / Labelling / Pre L3 Checks - (2/2)
+TELE-C3-c1-6540,Terminations
+ELE-C3-c2-7530,MEP Testing / QA / Labelling / Pre L3 Checks - (2/2)
+ELE-C3-c2-7540,MEP Testing / QA / Labelling / Pre L3 Checks - (2/2)
+TELE-C3-c2-6480,Testing
+TELE-C3-c2-6520,Dressing
+ELE-C3-c3-8030,MEP Testing / QA / Labelling / Pre L3 Checks - (1/2)
+TELE-C3-c3-6780,Mount Fibre runner
+ELE-C3-c4-8410,MEP Testing / QA / Labelling / Pre L3 Checks - (1/2)
+ELE-C3-c4-8530,MEP Testing / QA / Labelling / Pre L3 Checks - (1/2)
+MEC-C3-c4-7040,MEP Testing / QA / Pre L3 Checks
+SEC-C3-c4-7540,Pull Alarms Cables
+ARC-C2-c1-6790,Install Doors & Ironmongery
+ARC-C2-c1-6800,Paint Floor Markings
+ARC-C2-c1-6810,Access Hatches
+MEC-C2-c1-6470,Install Transfer Fans
+MEC-C2-c1-6510,Lag Exhaust Duct Ducting
+TELE-C2-c1-6450,Cabling
+TELE-C2-c1-6510,Cable pulls
+TELE-C2-c1-6670,Cable pulls
+SEC-C2-c1-6940,Pull Video Network Cables
+SEC-C2-c1-7050,Install Secondary Containment for Alarms
+ELE-C2-c2-7790,Terminations - FA /SEC/GPL/BAS
+ELE-C2-c2-7910,Terminations - FA /SEC/GPL/BAS
+TELE-C2-c2-6770,Mount brackets
+SEC-C2-c2-7060,Pull Access Control Cables
+SEC-C2-c27170,Install Secondary Containment for Video Network
+ARC-C2-c3-7470,Install Doors & Ironmongery
+ELE-C2-c3-8370,VESDA Fit out
+ELE-C2-c3-8500,Terminations - Main Equipment & Panels
+ARC-C2-c3-7540,Firestopping Service Openings
+ELE-C2-c3-8510,Cabling - Secondary - FA /SEC/GPL/BAS
+MEC-C2-c3-7020,Install Exhaust Duct 2nd Fix Fittings
+SEC-C2-c1-7290,Install Secondary Containment for Access Control
+ELE-C2-c4-8990,Terminations - Main Equipment & Panels
+MEC-C2-c4-7190,Install AC Pipework & Connections
+MEC-C2-c4-7200,Install Condenstate Drainage Pipework
+ELE-C2-c4-9080,Install Earthing and Bonding to Containment
+MEC-C2-c4-7270,Install Exhaust Duct Ducting
+TELE-C2-c4-6420,EPMS
+TELE-C2-c4-6430,SLV/SCCR
+TELE-C2-c4-6440,MORs
+ELE-C4-c1-7740,Cabling - Earthing
+ELE-C4-c1-7780,Cabling - Secondary - FA /SEC/GPL/BAS
+MEC-C4-c1-6660,Install AC Units
+MEC-C4-c1-6740,Install Exhaust Duct Supports
+ARC-C5-c2-7990,Erect Generator Access Steel
+ELE-C4-c1-7980,Cabling - Earthing
+ELE-C4-c1-7990,Cabling - Secondary - FA /SEC/GPL/BAS
+ELE-C4-c2-8340,Cabling - Main LV to Equipment/Boards
+ELE-C4-c2-8360,Containment - Secondary FA /SEC/GPL/BAS
+ELE-C4-c2-8460,Containment - Secondary FA /SEC/GPL/BAS
+MEC-C4-c2-6900,Install Refrigeration Tray
+MEC-C4-c2-6910,Pipework Connections to AHUs
+ELE-C4-c2-8480,Cabling - Main LV to Equipment/Boards
+MEC-C4-c2-6960,Install leak detection
+MEC-C4-c2-6980,Install NPW 2nd fix Pipework
+ARC-C4-c2-7580,Install Corridor & riser Walls
+ELE-C4-c2-8570,Containment - Secondary FA /SEC/GPL/BAS
+ELE-C4-c2-8580,Cabling - Main LV to Equipment/Boards
+ELE-C4-c2-8490,VESDA Fit out
+ELE-C5-c2-8770,Installation of Tap Off Boxes
+ELE-C5-c2-9150,Containment - Primary LV Mains
+ARC-C5-c4-8730,Install Containment Gantry Steel
+ARC-C5-c3-8360,Erect Generator Support Steel
+ELE-AD-L1-2450,"MEP Testing  for FA,GS,BMS, BAS"
+TELE-C1-c1-6460,Testing
+TELE-C1-c1-7020,Labeling
+TELE-C1-c2-6630,Labeling
+TELE-C1-c2-6640,Patching
+ARC-AD-L1-2920,Install Pipe Drops (2nd Fix)
+SEC-C1-c4-7670,Terminate Alarms Cables @ Panel
+SEC-C1-c4-7680,Terminate Alarms Cables in Field
+SEC-C1-c4-7690,Install Alarms Devices
+ELE-C3-c2-7520,MEP Testing / QA / Labelling / Pre L3 Checks - (2/2)
+ELE-C3-c4-8230,MEP Testing / QA / Labelling / Pre L3 Checks - (1/2)
+ELE-C2-c3-8620,Terminations - FA /SEC/GPL/BAS
+ELE-C2-c4-9220,Terminations - Main Equipment & Panels
+ARC-C4-c1-6990,Firestopping Service Openings
+ELE-C4-c2-8180,Cabling - Earthing
+ELE-C4-c2-8190,Cabling - Main LV to Equipment/Boards
+TELE-C1-c1-6700,Labeling
+TELE-C1-c2-6680,Testing
+TELE-C1-c2-6760,Splice
+TELE-C1-c3-6580,Patching
+TELE-C1-c3-6870,Testing
+TELE-C3-c1-6850,Dressing
+TELE-C3-c2-6490,Labeling
+TELE-C3-c2-6560,Install Switches
+TELE-C3-c2-6710,Labeling
+TELE-C3-c3-6470,Splice
+TELE-C3-c3-6690,Terminations
+TELE-C3-c4-6680,Dressing
+TELE-C3-c4-6720,Cable pulls
+ARC-C2-c1-6580,Install HAC Doors
+ARC-C2-c1-6620,Install Doors & Ironmongery
+ELE-C2-c4-8830,Terminations - FA /SEC/GPL/BAS
+CON-ZA-6929,Landscaping
+CON-ZC-7008,Landscaping
+CON-ZF-7360,Landscaping
+TELE-C1-c2-6930,WiFi Install
+TELE-C1-c2-6940,Phone install
+TELE-C1-c3-6620,Testing
+TELE-C1-c4-6560,Labeling
+TELE-C1-c4-6860,Terminations
+TELE-C3-c1-6550,Testing
+TELE-C3-c2-6580,Cabling
+TELE-C3-c4-6460,Dressing
+ELE-C4-c1-7600,Terminations - Main Equipment & Panels
+ELE-C4-c4-9550,Install Earthing and Bonding to Containment
+ARC-C5-c1-7480,Install Panel Support Structures
+ARC-C5-c1-7490,Install Primary Containment for FA /SEC/GPL/BAS
+ELE-C5-c1-8270,Install Earth Bars
+MEC-C5-c1-6840,Install HL Fire Dampers
+TELE-C1-c1-6470,Labeling
+TELE-C1-c1-6480,Patching
+TELE-C1-c2-6770,Testing
+TELE-C1-c3-6670,Splice
+TELE-C1-c3-6750,Dressing
+TELE-C1-c4-6660,Dressing
+TELE-C1-c4-6690,Cabling
+TELE-C1-c4-6740,Cabling
+SEC-C3-c1-7010,Terminate Alarms Cables @ Panel
+SEC-C3-c1-7020,Terminate Alarms Cables in Field
+SEC-C3-c1-7030,Install Alarms Devices
+TELE-C3-c2-6500,Patching
+SEC-C3-c2-7130,Terminate Video Network Cables @ Panel
+SEC-C3-c2-7140,Terminate Video Network Cables in Field
+SEC-C3-c2-7150,Install Video Network Devices
+ELE-C5-c3-9660,Containment - Primary LV Containment SW and Gen Yard
+TELE-C3-c3-6700,Testing
+SEC-C3-c3-7250,Terminate Access Control Cables @ Panel
+SEC-C3-c3-7260,Terminate Access Control Cables in Field
+SEC-C3-c3-7270,Install Access Control Devices
+ARC-C2-c3-7500,Firestopping Service Openings
+TELE-C4-c1-6420,EPMS
+TELE-C4-c1-6430,SLV/SCCR
+TELE-C4-c1-6440,MORs
+ELE-C4-c2-8200,Cabling - Secondary - FA /SEC/GPL/BAS
+ELE-C4-c3-8750,Containment - Secondary FA /SEC/GPL/BAS
+ELE-C4-c2-8130,VESDA Fit Out
+ELE-C4-c4-9330,Containment - Primary FA /SEC/GPL/BAS
+MEC-C5-c1-6830,Install Condenstate Drainage Pipework
+ELE-C5-c1-8450,Containment - Primary FA /SEC/GPL/BAS
+ARC-C5-c3-8090,Modular HACs - 2nd Fix - Lift HACs & Install Support Column
+ARC-C5-c3-8120,Install Containment for LV Power in Central Corridor
+ELE-C5-c3-9340,Install LL VESDA Pipework
+MEC-C5-c3-7340,Install AC Pipework
+MEC-C5-c4-7590,Install AC Units
+MEC-C5-c4-7660,Install HL Return Dampers
+ARC-AD-L2-8110,Close Ceilings (PART 1/2)
+TELE-C1-c1-7030,Patching
+TELE-C1-c1-6610,Dressing
+TELE-C1-c2-7070,Labeling
+TELE-C1-c3-6880,Labeling
+TELE-C3-c1-6910,Level and adjust
+ELE-C3-c2-7550,MEP Testing / QA / Labelling / Pre L3 Checks - (2/2)
+TELE-C3-c2-6530,Terminations
+ELE-C3-c3-8140,MEP Testing / QA / Labelling / Pre L3 Checks - (2/2)
+ELE-C3-c3-8150,MEP Testing / QA / Labelling / Pre L3 Checks - (2/2)
+TELE-C3-c3-6480,Testing
+TELE-C3-c3-6520,Dressing
+ELE-C3-c4-8640,MEP Testing / QA / Labelling / Pre L3 Checks - (1/2)
+TELE-C3-c4-6780,Mount Fibre runner
+ELE-C2-c1-7190,MEP Testing / QA / Labelling / Pre L3 Checks - (1/2)
+ELE-C2-c1-7310,MEP Testing / QA / Labelling / Pre L3 Checks - (1/2)
+MEC-C2-c1-6520,MEP Testing / QA / Pre L3 Checks
+SEC-C2-c1-7000,Pull Alarms Cables
+ARC-C2-c2-7170,Install Doors & Ironmongery
+ARC-C2-c2-7180,Paint Floor Markings
+ARC-C2-c2-7190,Access Hatches
+MEC-C2-c2-6730,Install Transfer Fans
+MEC-C2-c2-6770,Lag Exhaust Duct Ducting
+TELE-C2-c2-6450,Cabling
+TELE-C2-c2-6510,Cable pulls
+TELE-C2-c2-6670,Cable pulls
+SEC-C2-c27120,Pull Video Network Cables
+SEC-C2-c1-7230,Install Secondary Containment for Alarms
+ELE-C2-c3-8400,Terminations - FA /SEC/GPL/BAS
+ELE-C2-c3-8520,Terminations - FA /SEC/GPL/BAS
+TELE-C2-c3-6770,Mount brackets
+SEC-C2-c1-7240,Pull Access Control Cables
+SEC-C2-c1-7350,Install Secondary Containment for Video Network
+ARC-C2-c4-7850,Install Doors & Ironmongery
+ELE-C2-c4-8980,VESDA Fit out
+ELE-C2-c4-9110,Terminations - Main Equipment & Panels
+ARC-C2-c4-7920,Firestopping Service Openings
+ELE-C2-c4-9120,Cabling - Secondary - FA /SEC/GPL/BAS
+MEC-C2-c4-7280,Install Exhaust Duct 2nd Fix Fittings
+SEC-C2-c1-7470,Install Secondary Containment for Access Control
+ELE-C4-c1-7770,Terminations - Main Equipment & Panels
+MEC-C4-c1-6670,Install AC Pipework & Connections
+MEC-C4-c1-6680,Install Condenstate Drainage Pipework
+ELE-C4-c1-7860,Install Earthing and Bonding to Containment
+MEC-C4-c1-6750,Install Exhaust Duct Ducting
+ELE-C4-c2-8350,Cabling - Earthing
+ELE-C4-c2-8390,Cabling - Secondary - FA /SEC/GPL/BAS
+ARC-C5-c3-8370,Erect Generator Access Steel
+MEC-C4-c2-6920,Install AC Units
+MEC-C4-c2-7000,Install Exhaust Duct Supports
+ELE-C4-c2-8590,Cabling - Earthing
+ELE-C4-c2-8600,Cabling - Secondary - FA /SEC/GPL/BAS
+ELE-C4-c3-8950,Cabling - Main LV to Equipment/Boards
+ELE-C4-c3-8970,Containment - Secondary FA /SEC/GPL/BAS
+ELE-C4-c3-9070,Containment - Secondary FA /SEC/GPL/BAS
+MEC-C4-c3-7160,Install Refrigeration Tray
+MEC-C4-c3-7170,Pipework Connections to AHUs
+ELE-C4-c3-9090,Cabling - Main LV to Equipment/Boards
+ELE-C4-c3-9100,VESDA Fit out
+MEC-C4-c3-7220,Install leak detection
+MEC-C4-c3-7240,Install NPW 2nd fix Pipework
+ARC-C4-c3-7960,Install Corridor & riser Walls
+ELE-C4-c3-9180,Containment - Secondary FA /SEC/GPL/BAS
+ELE-C4-c3-9190,Cabling - Main LV to Equipment/Boards
+ELE-C5-c3-9380,Installation of Tap Off Boxes
+ELE-C5-c3-9760,Containment - Primary LV Mains
+ARC-C5-c4-8740,Erect Generator Support Steel
+ARC-AD-L1-2980,Floor Finishes
+ARC-AD-L1-4430,Floor Finishes
+TELE-C1-c2-6780,Labeling
+TELE-C1-c3-6630,Labeling
+TELE-C1-c3-6640,Patching
+ELE-C3-c3-8130,MEP Testing / QA / Labelling / Pre L3 Checks - (2/2)
+ELE-C2-c4-9230,Terminations - FA /SEC/GPL/BAS
+ELE-C4-c1-7610,Terminations - FA /SEC/GPL/BAS
+ELE-C4-c1-8000,Terminations - Main Equipment & Panels
+ARC-C4-c2-7370,Firestopping Service Openings
+ELE-C4-c3-8790,Cabling - Earthing
+ELE-C4-c3-8800,Cabling - Main LV to Equipment/Boards
+TELE-C1-c3-6680,Testing
+TELE-C1-c3-6760,Splice
+TELE-C1-c4-6870,Testing
+TELE-C3-c1-6560,Labeling
+TELE-C3-c1-6860,Terminations
+TELE-C3-c2-6730,Dressing
+TELE-C3-c3-6490,Labeling
+TELE-C3-c3-6560,Install Switches
+TELE-C3-c3-6710,Labeling
+TELE-C3-c4-6470,Splice
+TELE-C3-c4-6690,Terminations
+ELE-C2-c1-7010,MEP Testing / QA / Labelling / Pre L3 Checks - (1/2)
+TELE-C2-c1-6680,Dressing
+TELE-C2-c1-6720,Cable pulls
+ARC-C2-c2-6960,Install HAC Doors
+ARC-C2-c2-7000,Install Doors & Ironmongery
+CON-ZD-7201,Road Build Up
+CON-ZD-7280,Foul Water
+TELE-C1-c3-6930,WiFi Install
+TELE-C1-c3-6940,Phone install
+TELE-C1-c4-6620,Testing
+TELE-C3-c1-6660,Dressing
+TELE-C3-c1-6740,Cabling
+TELE-C3-c2-6540,Testing
+TELE-C3-c3-6580,Cabling
+TELE-C2-c1-6460,Dressing
+ELE-C4-c2-8210,Terminations - Main Equipment & Panels
+ARC-C5-c2-7860,Install Panel Support Structures
+ARC-C5-c2-7870,Install Primary Containment for FA /SEC/GPL/BAS
+ELE-C5-c2-8880,Install Earth Bars
+MEC-C5-c2-7100,Install HL Fire Dampers
+ARC-AD-L1-3020,Close Ceilings (PART 1/2)
+ARC-AD-L1-4420,Close Ceilings
+TELE-C1-c1-6620,Splice
+TELE-C1-c2-7080,Patching
+TELE-C1-c2-6700,Dressing
+TELE-C1-c3-6770,Testing
+TELE-C1-c4-6670,Splice
+TELE-C1-c4-6750,Dressing
+SEC-C3-c2-7190,Terminate Alarms Cables @ Panel
+SEC-C3-c2-7200,Terminate Alarms Cables in Field
+SEC-C3-c2-7210,Install Alarms Devices
+ELE-C5-c4-10270,Containment - Primary LV Containment SW and Gen Yard
+TELE-C3-c3-6500,Patching
+SEC-C3-c3-7310,Terminate Video Network Cables @ Panel
+SEC-C3-c3-7320,Terminate Video Network Cables in Field
+SEC-C3-c3-7330,Install Video Network Devices
+TELE-C3-c4-6700,Testing
+SEC-C3-c4-7430,Terminate Access Control Cables @ Panel
+SEC-C3-c4-7440,Terminate Access Control Cables in Field
+SEC-C3-c4-7450,Install Access Control Devices
+ARC-C2-c4-7880,Firestopping Service Openings
+TELE-C4-c2-6420,EPMS
+TELE-C4-c2-6430,SLV/SCCR
+TELE-C4-c2-6440,MORs
+ELE-C4-c3-8810,Cabling - Secondary - FA /SEC/GPL/BAS
+ELE-C4-c3-8740,VESDA Fit Out
+ELE-C4-c4-9360,Containment - Secondary FA /SEC/GPL/BAS
+ELE-C5-c1-8110,Containment - Primary FA /SEC/GPL/BAS
+ELE-C5-c1-8330,Install Earthing and Bonding to Containment
+MEC-C5-c2-7090,Install Condenstate Drainage Pipework
+ELE-C5-c2-9060,Containment - Primary FA /SEC/GPL/BAS
+ARC-C5-c4-8470,Modular HACs - 2nd Fix - Lift HACs & Install Support Column
+ARC-C5-c4-8500,Install Containment for LV Power in Central Corridor
+ELE-C5-c4-9950,Install LL VESDA Pipework
+MEC-C5-c4-7600,Install AC Pipework
+ARC-AD-L2-8120,Floor Finishes
+TELE-C1-c1-6630,Testing
+TELE-C1-c3-7070,Labeling
+TELE-C1-c4-6570,Install Switches
+TELE-C1-c4-6880,Labeling
+TELE-C3-c2-6790,Level and adjust
+ELE-C3-c3-8160,MEP Testing / QA / Labelling / Pre L3 Checks - (2/2)
+TELE-C3-c3-6530,Terminations
+ELE-C3-c4-8750,MEP Testing / QA / Labelling / Pre L3 Checks - (2/2)
+ELE-C3-c4-8760,MEP Testing / QA / Labelling / Pre L3 Checks - (2/2)
+TELE-C3-c4-6480,Testing
+TELE-C3-c4-6520,Dressing
+ELE-C2-c1-7420,MEP Testing / QA / Labelling / Pre L3 Checks - (1/2)
+TELE-C2-c1-6780,Mount Fibre runner
+ELE-C2-c2-7800,MEP Testing / QA / Labelling / Pre L3 Checks - (1/2)
+ELE-C2-c2-7920,MEP Testing / QA / Labelling / Pre L3 Checks - (1/2)
+MEC-C2-c2-6780,MEP Testing / QA / Pre L3 Checks
+SEC-C2-c1-7180,Pull Alarms Cables
+ARC-C2-c3-7550,Install Doors & Ironmongery
+ARC-C2-c3-7560,Paint Floor Markings
+ARC-C2-c3-7570,Access Hatches
+MEC-C2-c3-6990,Install Transfer Fans
+MEC-C2-c3-7030,Lag Exhaust Duct Ducting
+TELE-C2-c3-6450,Cabling
+TELE-C2-c3-6510,Cable pulls
+TELE-C2-c3-6670,Cable pulls
+SEC-C2-c1-7300,Pull Video Network Cables
+SEC-C2-c1-7410,Install Secondary Containment for Alarms
+ELE-C2-c4-9010,Terminations - FA /SEC/GPL/BAS
+ELE-C2-c4-9130,Terminations - FA /SEC/GPL/BAS
+TELE-C2-c4-6770,Mount brackets
+SEC-C2-c1-7420,Pull Access Control Cables
+SEC-C2-c1-7530,Install Secondary Containment for Video Network
+ARC-C4-c1-7090,Install Doors & Ironmongery
+ELE-C4-c1-7890,Terminations - Main Equipment & Panels
+ARC-C4-c1-7160,Firestopping Service Openings
+ELE-C4-c1-7900,Cabling - Secondary - FA /SEC/GPL/BAS
+MEC-C4-c1-6760,Install Exhaust Duct 2nd Fix Fittings
+SEC-C4-c1-7630,Install Secondary Containment for Access Control
+ELE-C4-c2-8380,Terminations - Main Equipment & Panels
+MEC-C4-c2-6930,Install AC Pipework & Connections
+MEC-C4-c2-6940,Install Condenstate Drainage Pipework
+ELE-C4-c2-8470,Install Earthing and Bonding to Containment
+MEC-C4-c2-7010,Install Exhaust Duct Ducting
+ARC-C5-c4-8750,Erect Generator Access Steel
+ELE-C4-c3-8960,Cabling - Earthing
+ELE-C4-c3-9000,Cabling - Secondary - FA /SEC/GPL/BAS
+MEC-C4-c3-7180,Install AC Units
+MEC-C4-c3-7260,Install Exhaust Duct Supports
+ELE-C4-c3-9200,Cabling - Earthing
+ELE-C4-c3-9210,Cabling - Secondary - FA /SEC/GPL/BAS
+ELE-C4-c1-7760,VESDA Fit out
+ELE-C4-c4-9710,VESDA Fit out
+ELE-C4-c4-9560,Cabling - Main LV to Equipment/Boards
+ELE-C4-c4-9580,Containment - Secondary FA /SEC/GPL/BAS
+ELE-C4-c4-9680,Containment - Secondary FA /SEC/GPL/BAS
+MEC-C4-c4-7420,Install Refrigeration Tray
+MEC-C4-c4-7430,Pipework Connections to AHUs
+ELE-C4-c4-9700,Cabling - Main LV to Equipment/Boards
+MEC-C4-c4-7480,Install leak detection
+MEC-C4-c4-7500,Install NPW 2nd fix Pipework
+ARC-C4-c4-8340,Install Corridor & riser Walls
+ELE-C4-c4-9790,Containment - Secondary FA /SEC/GPL/BAS
+ELE-C4-c4-9800,Cabling - Main LV to Equipment/Boards
+ELE-C5-c4-9990,Installation of Tap Off Boxes
+ELE-C5-c4-10370,Containment - Primary LV Mains
+CON-ZB-6968,Landscaping
+CON-SB-7430,Landscaping
+CON-ZD-7290,LV
+ARC-AD-L2-4950,QA / Snagging / Walkdowns
+TELE-C1-c1-6640,Labeling
+TELE-C1-c3-6780,Labeling
+TELE-C1-c4-6630,Labeling
+TELE-C1-c4-6640,Patching
+TELE-C3-c1-6580,Patching
+TELE-C3-c1-6870,Testing
+ELE-C3-c4-8740,MEP Testing / QA / Labelling / Pre L3 Checks - (2/2)
+ELE-C4-c1-8010,Terminations - FA /SEC/GPL/BAS
+ELE-C4-c2-8220,Terminations - FA /SEC/GPL/BAS
+ELE-C4-c2-8610,Terminations - Main Equipment & Panels
+ARC-C4-c3-7750,Firestopping Service Openings
+ELE-C4-c4-9400,Cabling - Earthing
+ELE-C4-c4-9410,Cabling - Main LV to Equipment/Boards
+ARC-AD-L1-9430,Complete DHW/DCW Conections to Restroom Fixtures  (Part 2/2)
+TELE-C1-c4-6680,Testing
+TELE-C1-c4-6760,Splice
+TELE-C3-c2-6550,Labeling
+TELE-C3-c2-6740,Terminations
+TELE-C3-c3-6730,Dressing
+TELE-C3-c4-6490,Labeling
+TELE-C3-c4-6560,Install Switches
+TELE-C3-c4-6710,Labeling
+TELE-C2-c1-6470,Splice
+TELE-C2-c1-6690,Terminations
+ELE-C2-c2-7620,MEP Testing / QA / Labelling / Pre L3 Checks - (1/2)
+TELE-C2-c2-6680,Dressing
+TELE-C2-c2-6720,Cable pulls
+ARC-C2-c3-7340,Install HAC Doors
+ARC-C2-c3-7380,Install Doors & Ironmongery
+TELE-C1-c2-6710,Splice
+TELE-C1-c4-6930,WiFi Install
+TELE-C1-c4-6940,Phone install
+TELE-C3-c1-6670,Splice
+TELE-C3-c1-6750,Dressing
+TELE-C3-c2-6590,Dressing
+TELE-C3-c2-6620,Cabling
+TELE-C3-c3-6540,Testing
+TELE-C3-c4-6580,Cabling
+TELE-C2-c2-6460,Dressing
+ELE-C4-c3-8820,Terminations - Main Equipment & Panels
+ARC-C5-c3-8240,Install Panel Support Structures
+ARC-C5-c3-8250,Install Primary Containment for FA /SEC/GPL/BAS
+ELE-C5-c3-9490,Install Earth Bars
+MEC-C5-c3-7360,Install HL Fire Dampers
+TELE-C1-c1-6850,Final Check Clean down
+TELE-C1-c2-6720,Testing
+TELE-C1-c3-7080,Patching
+TELE-C1-c3-6700,Dressing
+TELE-C1-c4-6770,Testing
+TELE-C3-c1-6880,Labeling
+SEC-C3-c3-7370,Terminate Alarms Cables @ Panel
+SEC-C3-c3-7380,Terminate Alarms Cables in Field
+SEC-C3-c3-7390,Install Alarms Devices
+TELE-C3-c4-6500,Patching
+SEC-C3-c4-7490,Terminate Video Network Cables @ Panel
+SEC-C3-c4-7500,Terminate Video Network Cables in Field
+SEC-C3-c4-7510,Install Video Network Devices
+TELE-C2-c1-6700,Testing
+SEC-C2-c1-6890,Terminate Access Control Cables @ Panel
+SEC-C2-c1-6900,Terminate Access Control Cables in Field
+SEC-C2-c1-6910,Install Access Control Devices
+ARC-C4-c1-7120,Firestopping Service Openings
+TELE-C4-c1-6770,Mount brackets
+TELE-C4-c3-6420,EPMS
+TELE-C4-c3-6430,SLV/SCCR
+TELE-C4-c3-6440,MORs
+ELE-C4-c4-9420,Cabling - Secondary - FA /SEC/GPL/BAS
+ELE-C4-c4-9350,VESDA Fit Out
+ELE-C5-c1-8140,Containment - Secondary FA /SEC/GPL/BAS
+ELE-C5-c2-8720,Containment - Primary FA /SEC/GPL/BAS
+ELE-C5-c2-8940,Install Earthing and Bonding to Containment
+MEC-C5-c3-7350,Install Condenstate Drainage Pipework
+ELE-C5-c3-9670,Containment - Primary FA /SEC/GPL/BAS
+GEN-L1-2790,WTL prep works in  USS Substation
+TELE-C1-c2-6730,Labeling
+TELE-C1-c4-6580,Patching
+TELE-C1-c4-7060,Labeling
+TELE-C3-c3-6790,Level and adjust
+ELE-C3-c4-8770,MEP Testing / QA / Labelling / Pre L3 Checks - (2/2)
+TELE-C3-c4-6530,Terminations
+ELE-C2-c1-7540,MEP Testing / QA / Labelling / Pre L3 Checks - (2/2)
+TELE-C2-c1-6480,Testing
+TELE-C2-c1-6520,Dressing
+ELE-C2-c2-8030,MEP Testing / QA / Labelling / Pre L3 Checks - (1/2)
+TELE-C2-c2-6780,Mount Fibre runner
+ELE-C2-c3-8410,MEP Testing / QA / Labelling / Pre L3 Checks - (1/2)
+ELE-C2-c3-8530,MEP Testing / QA / Labelling / Pre L3 Checks - (1/2)
+MEC-C2-c3-7040,MEP Testing / QA / Pre L3 Checks
+SEC-C2-c1-7360,Pull Alarms Cables
+ARC-C2-c4-7930,Install Doors & Ironmongery
+ARC-C2-c4-7940,Paint Floor Markings
+ARC-C2-c4-7950,Access Hatches
+MEC-C2-c4-7250,Install Transfer Fans
+MEC-C2-c4-7290,Lag Exhaust Duct Ducting
+TELE-C2-c4-6450,Cabling
+TELE-C2-c4-6510,Cable pulls
+TELE-C2-c4-6670,Cable pulls
+SEC-C2-c1-7480,Pull Video Network Cables
+SEC-C2-c1-7590,Install Secondary Containment for Alarms
+ELE-C4-c1-7790,Terminations - FA /SEC/GPL/BAS
+ELE-C4-c1-7910,Terminations - FA /SEC/GPL/BAS
+SEC-C4-c1-7580,Pull Access Control Cables
+SEC-C4-c1-7690,Install Secondary Containment for Video Network
+ARC-C4-c2-7470,Install Doors & Ironmongery
+ELE-C4-c2-8500,Terminations - Main Equipment & Panels
+ARC-C4-c2-7540,Firestopping Service Openings
+ELE-C4-c2-8510,Cabling - Secondary - FA /SEC/GPL/BAS
+MEC-C4-c2-7020,Install Exhaust Duct 2nd Fix Fittings
+SEC-C4-c2-7810,Install Secondary Containment for Access Control
+ELE-C4-c3-8990,Terminations - Main Equipment & Panels
+MEC-C4-c3-7190,Install AC Pipework & Connections
+MEC-C4-c3-7200,Install Condenstate Drainage Pipework
+ELE-C4-c3-9080,Install Earthing and Bonding to Containment
+MEC-C4-c3-7270,Install Exhaust Duct Ducting
+ELE-C4-c4-9570,Cabling - Earthing
+ELE-C4-c2-8370,VESDA Fit out
+ELE-C4-c4-9610,Cabling - Secondary - FA /SEC/GPL/BAS
+MEC-C4-c4-7440,Install AC Units
+MEC-C4-c4-7520,Install Exhaust Duct Supports
+ELE-C4-c4-9810,Cabling - Earthing
+ELE-C4-c4-9820,Cabling - Secondary - FA /SEC/GPL/BAS
+ELE-C5-c1-8180,Cabling - Earthing
+ELE-C5-c1-8190,Cabling - Main LV to Equipment/Boards
+ELE-C5-c1-8340,Cabling - Main LV to Equipment/Boards
+ELE-C5-c1-8360,Containment - Secondary FA /SEC/GPL/BAS
+ELE-C5-c1-8460,Containment - Secondary FA /SEC/GPL/BAS
+MEC-C5-c1-6900,Install Refrigeration Tray
+MEC-C5-c1-6910,Pipework Connections to AHUs
+ELE-C5-c1-8480,Cabling - Main LV to Equipment/Boards
+ELE-C5-c1-8490,VESDA Fit out
+MEC-C5-c1-6960,Install leak detection
+MEC-C5-c1-6980,Install NPW 2nd fix Pipework
+ARC-C5-c1-7580,Install Corridor & riser Walls
+ELE-C5-c1-8570,Containment - Secondary FA /SEC/GPL/BAS
+ELE-C5-c1-8580,Cabling - Main LV to Equipment/Boards
+ARC-AD-L1-3090,Terminations / Fittings
+TELE-C1-c4-6780,Labeling
+TELE-C3-c1-6680,Testing
+TELE-C3-c1-6760,Splice
+TELE-C3-c2-6570,Patching
+TELE-C3-c2-6750,Testing
+ELE-C2-c1-7560,MEP Testing / QA / Labelling / Pre L3 Checks - (2/2)
+ELE-C4-c2-8620,Terminations - FA /SEC/GPL/BAS
+ELE-C4-c3-8830,Terminations - FA /SEC/GPL/BAS
+ELE-C4-c3-9220,Terminations - Main Equipment & Panels
+ARC-C4-c4-8130,Firestopping Service Openings
+TELE-C3-c1-6930,WiFi Install
+TELE-C3-c1-6940,Phone install
+TELE-C3-c3-6550,Labeling
+TELE-C3-c3-6740,Terminations
+TELE-C3-c4-6730,Dressing
+ELE-C2-c1-7520,MEP Testing / QA / Labelling / Pre L3 Checks - (2/2)
+TELE-C2-c1-6490,Labeling
+TELE-C2-c1-6560,Install Switches
+TELE-C2-c1-6710,Labeling
+TELE-C2-c2-6470,Splice
+TELE-C2-c2-6690,Terminations
+ELE-C2-c3-8230,MEP Testing / QA / Labelling / Pre L3 Checks - (1/2)
+TELE-C2-c3-6680,Dressing
+TELE-C2-c3-6720,Cable pulls
+ARC-C2-c4-7720,Install HAC Doors
+ARC-C2-c4-7760,Install Doors & Ironmongery
+CON-ZD-7212,LV Street Lighting
+TELE-C1-c2-6920,Final Check Clean down
+TELE-C1-c3-6710,Splice
+TELE-C3-c1-6770,Testing
+TELE-C3-c2-6600,Splice
+TELE-C3-c2-6630,Dressing
+TELE-C3-c3-6590,Dressing
+TELE-C3-c3-6620,Cabling
+TELE-C3-c4-6540,Testing
+TELE-C2-c1-6580,Cabling
+TELE-C2-c3-6460,Dressing
+ELE-C4-c4-9430,Terminations - Main Equipment & Panels
+ELE-C5-c3-9550,Install Earthing and Bonding to Containment
+ARC-C5-c4-8620,Install Panel Support Structures
+ARC-C5-c4-8630,Install Primary Containment for FA /SEC/GPL/BAS
+ELE-C5-c4-10100,Install Earth Bars
+MEC-C5-c4-7620,Install HL Fire Dampers
+TELE-C1-c3-6720,Testing
+TELE-C1-c4-7070,Patching
+TELE-C1-c4-6700,Dressing
+TELE-C3-c1-7060,Labeling
+TELE-C3-c2-6760,Labeling
+SEC-C3-c4-7550,Terminate Alarms Cables @ Panel
+SEC-C3-c4-7560,Terminate Alarms Cables in Field
+SEC-C3-c4-7570,Install Alarms Devices
+TELE-C2-c1-6500,Patching
+SEC-C2-c1-6950,Terminate Video Network Cables @ Panel
+SEC-C2-c1-6960,Terminate Video Network Cables in Field
+SEC-C2-c1-6970,Install Video Network Devices
+TELE-C2-c2-6700,Testing
+SEC-C2-c2-7070,Terminate Access Control Cables @ Panel
+SEC-C2-c2-7080,Terminate Access Control Cables in Field
+SEC-C2-c2-7090,Install Access Control Devices
+ARC-C4-c2-7500,Firestopping Service Openings
+TELE-C4-c2-6770,Mount brackets
+TELE-C4-c4-6420,EPMS
+TELE-C4-c4-6430,SLV/SCCR
+TELE-C4-c4-6440,MORs
+ELE-C5-c1-8130,VESDA Fit Out
+ELE-C5-c1-8200,Cabling - Secondary - FA /SEC/GPL/BAS
+ELE-C5-c2-8750,Containment - Secondary FA /SEC/GPL/BAS
+ELE-C5-c3-9330,Containment - Primary FA /SEC/GPL/BAS
+MEC-C5-c4-7610,Install Condenstate Drainage Pipework
+ELE-C5-c4-10280,Containment - Primary FA /SEC/GPL/BAS
+ARC-AD-L2-8010,FF&E
+ARC-AD-L2-8190,Close Ceilings (PART 2/2)
+TELE-C1-c3-6730,Labeling
+TELE-C3-c1-6780,Labeling
+TELE-C3-c4-6790,Level and adjust
+ELE-C2-c1-7580,MEP Testing / QA / Labelling / Pre L3 Checks - (2/2)
+TELE-C2-c1-6530,Terminations
+ELE-C2-c2-8150,MEP Testing / QA / Labelling / Pre L3 Checks - (2/2)
+ELE-C2-c2-8170,MEP Testing / QA / Labelling / Pre L3 Checks - (2/2)
+TELE-C2-c2-6480,Testing
+TELE-C2-c2-6520,Dressing
+ELE-C2-c3-8640,MEP Testing / QA / Labelling / Pre L3 Checks - (1/2)
+TELE-C2-c3-6780,Mount Fibre runner
+ELE-C2-c4-9020,MEP Testing / QA / Labelling / Pre L3 Checks - (1/2)
+ELE-C2-c4-9140,MEP Testing / QA / Labelling / Pre L3 Checks - (1/2)
+MEC-C2-c4-7300,MEP Testing / QA / Pre L3 Checks
+SEC-C2-c1-7540,Pull Alarms Cables
+ARC-C4-c1-7170,Install Doors & Ironmongery
+ARC-C4-c1-7180,Paint Floor Markings
+ARC-C4-c1-7190,Access Hatches
+MEC-C4-c1-6730,Install Transfer Fans
+MEC-C4-c1-6770,Lag Exhaust Duct Ducting
+TELE-C4-c1-6450,Cabling
+TELE-C4-c1-6510,Cable pulls
+TELE-C4-c1-6670,Cable pulls
+SEC-C4-c1-7640,Pull Video Network Cables
+SEC-C4-c1-7750,Install Secondary Containment for Alarms
+ELE-C4-c2-8400,Terminations - FA /SEC/GPL/BAS
+ELE-C4-c2-8520,Terminations - FA /SEC/GPL/BAS
+SEC-C4-c2-7760,Pull Access Control Cables
+SEC-C4-c2-7870,Install Secondary Containment for Video Network
+ARC-C4-c3-7850,Install Doors & Ironmongery
+ELE-C4-c3-9110,Terminations - Main Equipment & Panels
+ARC-C4-c3-7920,Firestopping Service Openings
+ELE-C4-c3-9120,Cabling - Secondary - FA /SEC/GPL/BAS
+MEC-C4-c3-7280,Install Exhaust Duct 2nd Fix Fittings
+SEC-C4-c3-7990,Install Secondary Containment for Access Control
+ELE-C4-c4-9600,Terminations - Main Equipment & Panels
+ELE-C4-c3-8980,VESDA Fit out
+MEC-C4-c4-7450,Install AC Pipework & Connections
+MEC-C4-c4-7460,Install Condenstate Drainage Pipework
+ELE-C4-c4-9690,Install Earthing and Bonding to Containment
+MEC-C4-c4-7530,Install Exhaust Duct Ducting
+ARC-C5-c1-7370,Firestopping Service Openings
+ELE-C5-c1-8350,Cabling - Earthing
+ELE-C5-c1-8390,Cabling - Secondary - FA /SEC/GPL/BAS
+MEC-C5-c1-6920,Install AC Units
+MEC-C5-c1-7000,Install Exhaust Duct Supports
+ELE-C5-c1-8590,Cabling - Earthing
+ELE-C5-c1-8600,Cabling - Secondary - FA /SEC/GPL/BAS
+ELE-C5-c2-8950,Cabling - Main LV to Equipment/Boards
+ELE-C5-c2-8970,Containment - Secondary FA /SEC/GPL/BAS
+ELE-C5-c2-9070,Containment - Secondary FA /SEC/GPL/BAS
+MEC-C5-c2-7160,Install Refrigeration Tray
+MEC-C5-c2-7170,Pipework Connections to AHUs
+ELE-C5-c2-9090,Cabling - Main LV to Equipment/Boards
+ELE-C5-c2-9100,VESDA Fit out
+MEC-C5-c2-7220,Install leak detection
+MEC-C5-c2-7240,Install NPW 2nd fix Pipework
+ARC-C5-c2-7960,Install Corridor & riser Walls
+ELE-C5-c2-9180,Containment - Secondary FA /SEC/GPL/BAS
+ELE-C5-c2-9190,Cabling - Main LV to Equipment/Boards
+TELE-C3-c2-6610,Testing
+TELE-C3-c2-6640,Splice
+TELE-C3-c3-6570,Patching
+TELE-C3-c3-6750,Testing
+ELE-C4-c3-9230,Terminations - FA /SEC/GPL/BAS
+ELE-C4-c4-9440,Terminations - FA /SEC/GPL/BAS
+ELE-C4-c4-9830,Terminations - Main Equipment & Panels
+ELE-C5-c2-8790,Cabling - Earthing
+ELE-C5-c2-8800,Cabling - Main LV to Equipment/Boards
+TELE-C3-c2-6810,WiFi Install
+TELE-C3-c2-6820,Phone install
+TELE-C3-c4-6550,Labeling
+TELE-C3-c4-6740,Terminations
+TELE-C2-c1-6570,Patching
+TELE-C2-c1-6730,Dressing
+ELE-C2-c2-8130,MEP Testing / QA / Labelling / Pre L3 Checks - (2/2)
+TELE-C2-c2-6490,Labeling
+TELE-C2-c2-6560,Install Switches
+TELE-C2-c2-6710,Labeling
+TELE-C2-c3-6470,Splice
+TELE-C2-c3-6690,Terminations
+ELE-C2-c4-8840,MEP Testing / QA / Labelling / Pre L3 Checks - (1/2)
+TELE-C2-c4-6680,Dressing
+TELE-C2-c4-6720,Cable pulls
+ARC-C4-c1-6960,Install HAC Doors
+ARC-C4-c1-7000,Install Doors & Ironmongery
+ELE-C5-c1-8210,Terminations - Main Equipment & Panels
+TELE-C1-c3-6920,Final Check Clean down
+TELE-C1-c4-6710,Splice
+TELE-C3-c1-7070,Patching
+TELE-C3-c2-6650,Testing
+TELE-C3-c3-6600,Splice
+TELE-C3-c3-6630,Dressing
+TELE-C3-c4-6590,Dressing
+TELE-C3-c4-6620,Cabling
+TELE-C2-c1-6540,Testing
+TELE-C2-c2-6580,Cabling
+TELE-C2-c4-6460,Dressing
+ELE-C5-c4-10160,Install Earthing and Bonding to Containment
+TELE-C1-c4-6720,Testing
+TELE-C3-c2-6920,Labeling
+TELE-C3-c3-6760,Labeling
+SEC-C2-c1-7010,Terminate Alarms Cables @ Panel
+SEC-C2-c1-7020,Terminate Alarms Cables in Field
+SEC-C2-c1-7030,Install Alarms Devices
+TELE-C2-c2-6500,Patching
+SEC-C2-c27130,Terminate Video Network Cables @ Panel
+SEC-C2-c27140,Terminate Video Network Cables in Field
+SEC-C2-c1-7150,Install Video Network Devices
+TELE-C2-c3-6700,Testing
+SEC-C2-c1-7250,Terminate Access Control Cables @ Panel
+SEC-C2-c1-7260,Terminate Access Control Cables in Field
+SEC-C2-c1-7270,Install Access Control Devices
+ARC-C4-c3-7880,Firestopping Service Openings
+TELE-C4-c3-6770,Mount brackets
+TELE-C5-c1-6420,EPMS
+TELE-C5-c1-6430,SLV/SCCR
+TELE-C5-c1-6440,MORs
+ELE-C5-c2-8740,VESDA Fit Out
+ELE-C5-c2-8810,Cabling - Secondary - FA /SEC/GPL/BAS
+ELE-C5-c3-9360,Containment - Secondary FA /SEC/GPL/BAS
+ELE-C5-c4-9940,Containment - Primary FA /SEC/GPL/BAS
+TELE-C1-c4-6730,Labeling
+TELE-C3-c2-6660,Labeling
+TELE-C2-c1-6790,Level and adjust
+ELE-C2-c2-8190,MEP Testing / QA / Labelling / Pre L3 Checks - (2/2)
+TELE-C2-c2-6530,Terminations
+ELE-C2-c3-8760,MEP Testing / QA / Labelling / Pre L3 Checks - (2/2)
+ELE-C2-c3-8780,MEP Testing / QA / Labelling / Pre L3 Checks - (2/2)
+TELE-C2-c3-6480,Testing
+TELE-C2-c3-6520,Dressing
+ELE-C2-c4-9250,MEP Testing / QA / Labelling / Pre L3 Checks - (1/2)
+TELE-C2-c4-6780,Mount Fibre runner
+ELE-C4-c1-7800,MEP Testing / QA / Labelling / Pre L3 Checks
+ELE-C4-c1-7920,MEP Testing / QA / Labelling / Pre L3 Checks
+MEC-C4-c1-6780,MEP Testing / QA / Pre L3 Checks
+SEC-C4-c1-7700,Pull Alarms Cables
+ARC-C4-c2-7550,Install Doors & Ironmongery
+ARC-C4-c2-7560,Paint Floor Markings
+ARC-C4-c2-7570,Access Hatches
+MEC-C4-c2-6990,Install Transfer Fans
+MEC-C4-c2-7030,Lag Exhaust Duct Ducting
+TELE-C4-c2-6450,Cabling
+TELE-C4-c2-6510,Cable pulls
+TELE-C4-c2-6670,Cable pulls
+SEC-C4-c2-7820,Pull Video Network Cables
+SEC-C4-c2-7930,Install Secondary Containment for Alarms
+ELE-C4-c3-9010,Terminations - FA /SEC/GPL/BAS
+ELE-C4-c3-9130,Terminations - FA /SEC/GPL/BAS
+SEC-C4-c3-7940,Pull Access Control Cables
+SEC-C4-c3-8050,Install Secondary Containment for Video Network
+ARC-C4-c4-8230,Install Doors & Ironmongery
+ELE-C4-c4-9590,VESDA Fit out
+ELE-C4-c4-9720,Terminations - Main Equipment & Panels
+ARC-C4-c4-8300,Firestopping Service Openings
+ELE-C4-c4-9730,Cabling - Secondary - FA /SEC/GPL/BAS
+MEC-C4-c4-7540,Install Exhaust Duct 2nd Fix Fittings
+SEC-C4-c4-8170,Install Secondary Containment for Access Control
+ELE-C5-c1-8380,Terminations - Main Equipment & Panels
+MEC-C5-c1-6930,Install AC Pipework & Connections
+MEC-C5-c1-6940,Install Condenstate Drainage Pipework
+ELE-C5-c1-8470,Install Earthing and Bonding to Containment
+MEC-C5-c1-7010,Install Exhaust Duct Ducting
+ELE-C5-c2-8960,Cabling - Earthing
+ELE-C5-c2-9000,Cabling - Secondary - FA /SEC/GPL/BAS
+MEC-C5-c2-7180,Install AC Units
+MEC-C5-c2-7260,Install Exhaust Duct Supports
+ELE-C5-c2-9200,Cabling - Earthing
+ELE-C5-c2-9210,Cabling - Secondary - FA /SEC/GPL/BAS
+ELE-C5-c3-9560,Cabling - Main LV to Equipment/Boards
+ELE-C5-c3-9580,Containment - Secondary FA /SEC/GPL/BAS
+ELE-C5-c3-9680,Containment - Secondary FA /SEC/GPL/BAS
+MEC-C5-c3-7420,Install Refrigeration Tray
+MEC-C5-c3-7430,Pipework Connections to AHUs
+ELE-C5-c3-9700,Cabling - Main LV to Equipment/Boards
+ELE-C5-c3-9710,VESDA Fit out
+MEC-C5-c3-7480,Install leak detection
+MEC-C5-c3-7500,Install NPW 2nd fix Pipework
+ARC-C5-c3-8340,Install Corridor & riser Walls
+ELE-C5-c3-9790,Containment - Secondary FA /SEC/GPL/BAS
+ELE-C5-c3-9800,Cabling - Main LV to Equipment/Boards
+ARC-AD-L1-3120,Doors and Furniture
+ARC-AD-L1-4460,Apply the Final Coat of Painting
+TELE-C3-c3-6610,Testing
+TELE-C3-c3-6640,Splice
+TELE-C3-c4-6570,Patching
+TELE-C3-c4-6750,Testing
+ELE-C4-c4-9840,Terminations - FA /SEC/GPL/BAS
+ELE-C5-c1-8220,Terminations - FA /SEC/GPL/BAS
+ELE-C5-c1-8610,Terminations - Main Equipment & Panels
+ARC-C5-c2-7750,Firestopping Service Openings
+ELE-C5-c3-9400,Cabling - Earthing
+ELE-C5-c3-9410,Cabling - Main LV to Equipment/Boards
+TELE-C3-c1-6920,Final Check Clean down
+TELE-C3-c3-6810,WiFi Install
+TELE-C3-c3-6820,Phone install
+TELE-C2-c1-6550,Labeling
+TELE-C2-c1-6740,Terminations
+TELE-C2-c2-6570,Patching
+TELE-C2-c2-6730,Dressing
+ELE-C2-c3-8740,MEP Testing / QA / Labelling / Pre L3 Checks - (2/2)
+TELE-C2-c3-6490,Labeling
+TELE-C2-c3-6560,Install Switches
+TELE-C2-c3-6710,Labeling
+TELE-C2-c4-6470,Splice
+TELE-C2-c4-6690,Terminations
+ELE-C4-c1-7620,MEP Testing / QA / Labelling / Pre L3 Checks
+TELE-C4-c1-6680,Dressing
+TELE-C4-c1-6720,Cable pulls
+ARC-C4-c2-7340,Install HAC Doors
+ARC-C4-c2-7380,Install Doors & Ironmongery
+CON-ZD-7228,Road Surfacing
+ARC-AD-L1-3130,Close Ceilings (PART 2/2)
+ARC-AD-L1-4500,Install Vanity Units and Furniture
+TELE-C1-c4-6920,Final Check Clean down
+TELE-C3-c2-6930,Patching
+TELE-C3-c3-6650,Testing
+TELE-C3-c4-6600,Splice
+TELE-C3-c4-6630,Dressing
+TELE-C2-c1-6590,Dressing
+TELE-C2-c1-6620,Cabling
+TELE-C2-c2-6540,Testing
+TELE-C2-c3-6580,Cabling
+TELE-C4-c1-6460,Dressing
+ELE-C5-c2-8820,Terminations - Main Equipment & Panels
+TELE-C3-c3-6920,Labeling
+TELE-C3-c4-6760,Labeling
+SEC-C2-c1-7190,Terminate Alarms Cables @ Panel
+SEC-C2-c1-7200,Terminate Alarms Cables in Field
+SEC-C2-c1-7210,Install Alarms Devices
+TELE-C2-c3-6500,Patching
+SEC-C2-c1-7310,Terminate Video Network Cables @ Panel
+SEC-C2-c1-7320,Terminate Video Network Cables in Field
+SEC-C2-c1-7330,Install Video Network Devices
+TELE-C2-c4-6700,Testing
+SEC-C2-c1-7430,Terminate Access Control Cables @ Panel
+SEC-C2-c1-7440,Terminate Access Control Cables in Field
+SEC-C2-c1-7450,Install Access Control Devices
+TELE-C4-c1-6780,Mount Fibre runner
+ARC-C4-c4-8260,Firestopping Service Openings
+TELE-C4-c4-6770,Mount brackets
+TELE-C5-c2-6420,EPMS
+TELE-C5-c2-6430,SLV/SCCR
+TELE-C5-c2-6440,MORs
+ELE-C5-c3-9350,VESDA Fit Out
+ELE-C5-c3-9420,Cabling - Secondary - FA /SEC/GPL/BAS
+ELE-C5-c4-9970,Containment - Secondary FA /SEC/GPL/BAS
+TELE-C3-c3-6660,Labeling
+TELE-C2-c2-6790,Level and adjust
+ELE-C2-c3-8800,MEP Testing / QA / Labelling / Pre L3 Checks - (2/2)
+TELE-C2-c3-6530,Terminations
+ELE-C2-c4-9370,MEP Testing / QA / Labelling / Pre L3 Checks - (2/2)
+ELE-C2-c4-9390,MEP Testing / QA / Labelling / Pre L3 Checks - (2/2)
+TELE-C2-c4-6480,Testing
+TELE-C2-c4-6520,Dressing
+ELE-C4-c1-8030,MEP Testing / QA / Labelling / Pre L3 Checks
+ELE-C4-c2-8410,MEP Testing / QA / Labelling / Pre L3 Checks - (1/3)
+ELE-C4-c2-8530,MEP Testing / QA / Labelling / Pre L3 Checks
+MEC-C4-c2-7040,MEP Testing / QA / Pre L3 Checks
+SEC-C4-c2-7880,Pull Alarms Cables
+ARC-C4-c3-7930,Install Doors & Ironmongery
+ARC-C4-c3-7940,Paint Floor Markings
+ARC-C4-c3-7950,Access Hatches
+MEC-C4-c3-7250,Install Transfer Fans
+MEC-C4-c3-7290,Lag Exhaust Duct Ducting
+TELE-C4-c3-6450,Cabling
+TELE-C4-c3-6510,Cable pulls
+TELE-C4-c3-6670,Cable pulls
+SEC-C4-c3-8000,Pull Video Network Cables
+SEC-C4-c3-8110,Install Secondary Containment for Alarms
+ELE-C4-c4-9620,Terminations - FA /SEC/GPL/BAS
+ELE-C4-c4-9740,Terminations - FA /SEC/GPL/BAS
+SEC-C4-c4-8120,Pull Access Control Cables
+SEC-C4-c4-8230,Install Secondary Containment for Video Network
+ARC-C5-c1-7470,Install Doors & Ironmongery
+ELE-C5-c1-8370,VESDA Fit out
+ELE-C5-c1-8500,Terminations - Main Equipment & Panels
+ARC-C5-c1-7540,Firestopping Service Openings
+ELE-C5-c1-8510,Cabling - Secondary - FA /SEC/GPL/BAS
+MEC-C5-c1-7020,Install Exhaust Duct 2nd Fix Fittings
+SEC-C5-c1-7630,Install Secondary Containment for Access Control
+ELE-C5-c2-8990,Terminations - Main Equipment & Panels
+MEC-C5-c2-7190,Install AC Pipework & Connections
+MEC-C5-c2-7200,Install Condenstate Drainage Pipework
+ELE-C5-c2-9080,Install Earthing and Bonding to Containment
+MEC-C5-c2-7270,Install Exhaust Duct Ducting
+ELE-C5-c3-9570,Cabling - Earthing
+ELE-C5-c3-9610,Cabling - Secondary - FA /SEC/GPL/BAS
+MEC-C5-c3-7440,Install AC Units
+MEC-C5-c3-7520,Install Exhaust Duct Supports
+ELE-C5-c3-9810,Cabling - Earthing
+ELE-C5-c3-9820,Cabling - Secondary - FA /SEC/GPL/BAS
+ELE-C5-c4-10170,Cabling - Main LV to Equipment/Boards
+ELE-C5-c4-10190,Containment - Secondary FA /SEC/GPL/BAS
+ELE-C5-c4-10290,Containment - Secondary FA /SEC/GPL/BAS
+MEC-C5-c4-7680,Install Refrigeration Tray
+MEC-C5-c4-7690,Pipework Connections to AHUs
+ELE-C5-c4-10310,Cabling - Main LV to Equipment/Boards
+ELE-C5-c4-10320,VESDA Fit out
+MEC-C5-c4-7740,Install leak detection
+MEC-C5-c4-7760,Install NPW 2nd fix Pipework
+ARC-C5-c4-8720,Install Corridor & riser Walls
+ELE-C5-c4-10400,Containment - Secondary FA /SEC/GPL/BAS
+ELE-C5-c4-10410,Cabling - Main LV to Equipment/Boards
+TELE-C3-c4-6610,Testing
+TELE-C3-c4-6640,Splice
+TELE-C2-c1-6750,Testing
+ELE-C5-c1-8620,Terminations - FA /SEC/GPL/BAS
+ELE-C5-c2-8830,Terminations - FA /SEC/GPL/BAS
+ELE-C5-c2-9220,Terminations - Main Equipment & Panels
+ARC-C5-c3-8130,Firestopping Service Openings
+ELE-C5-c4-10010,Cabling - Earthing
+ELE-C5-c4-10020,Cabling - Main LV to Equipment/Boards
+TELE-C3-c2-6800,Final Check Clean down
+TELE-C3-c4-6810,WiFi Install
+TELE-C3-c4-6820,Phone install
+TELE-C2-c2-6550,Labeling
+TELE-C2-c2-6740,Terminations
+TELE-C2-c3-6570,Patching
+TELE-C2-c3-6730,Dressing
+ELE-C2-c4-9350,MEP Testing / QA / Labelling / Pre L3 Checks - (2/2)
+TELE-C2-c4-6490,Labeling
+TELE-C2-c4-6560,Install Switches
+TELE-C2-c4-6710,Labeling
+TELE-C4-c1-6470,Splice
+TELE-C4-c1-6690,Terminations
+ELE-C4-c2-8230,MEP Testing / QA / Labelling / Pre L3 Checks
+TELE-C4-c2-6680,Dressing
+TELE-C4-c2-6720,Cable pulls
+ARC-C4-c3-7720,Install HAC Doors
+ARC-C4-c3-7760,Install Doors & Ironmongery
+TELE-C3-c3-6930,Patching
+TELE-C3-c4-6650,Testing
+TELE-C2-c1-6600,Splice
+TELE-C2-c1-6630,Dressing
+TELE-C2-c2-6590,Dressing
+TELE-C2-c2-6620,Cabling
+TELE-C2-c3-6540,Testing
+TELE-C2-c4-6580,Cabling
+TELE-C4-c2-6460,Dressing
+ELE-C5-c3-9430,Terminations - Main Equipment & Panels
+TELE-C3-c4-6920,Labeling
+TELE-C2-c1-6760,Labeling
+SEC-C2-c1-7370,Terminate Alarms Cables @ Panel
+SEC-C2-c1-7380,Terminate Alarms Cables in Field
+SEC-C2-c1-7390,Install Alarms Devices
+TELE-C2-c4-6500,Patching
+SEC-C2-c1-7490,Terminate Video Network Cables @ Panel
+SEC-C2-c1-7500,Terminate Video Network Cables in Field
+SEC-C2-c1-7510,Install Video Network Devices
+TELE-C4-c1-6700,Testing
+SEC-C4-c1-7590,Terminate Access Control Cables @ Panel
+SEC-C4-c1-7600,Terminate Access Control Cables in Field
+SEC-C4-c1-7610,Install Access Control Devices
+TELE-C4-c2-6780,Mount Fibre runner
+ARC-C5-c1-7500,Firestopping Service Openings
+TELE-C5-c1-6770,Mount brackets
+TELE-C5-c3-6420,EPMS
+TELE-C5-c3-6430,SLV/SCCR
+TELE-C5-c3-6440,MORs
+ELE-C5-c4-9960,VESDA Fit Out
+ELE-C5-c4-10030,Cabling - Secondary - FA /SEC/GPL/BAS
+ARC-AD-L2-8150,Apply the Final Coat of Painting
+TELE-C3-c4-6660,Labeling
+TELE-C2-c3-6790,Level and adjust
+ELE-C2-c4-9410,MEP Testing / QA / Labelling / Pre L3 Checks - (2/2)
+TELE-C2-c4-6530,Terminations
+TELE-C4-c1-6480,Testing
+TELE-C4-c1-6520,Dressing
+ELE-C4-c2-8640,MEP Testing / QA / Labelling / Pre L3 Checks
+ELE-C4-c3-9020,MEP Testing / QA / Labelling / Pre L3 Checks
+ELE-C4-c3-9140,MEP Testing / QA / Labelling / Pre L3 Checks
+MEC-C4-c3-7300,MEP Testing / QA / Pre L3 Checks
+SEC-C4-c3-8060,Pull Alarms Cables
+ARC-C4-c4-8310,Install Doors & Ironmongery
+ARC-C4-c4-8320,Paint Floor Markings
+ARC-C4-c4-8330,Access Hatches
+MEC-C4-c4-7510,Install Transfer Fans
+MEC-C4-c4-7550,Lag Exhaust Duct Ducting
+TELE-C4-c4-6450,Cabling
+TELE-C4-c4-6510,Cable pulls
+TELE-C4-c4-6670,Cable pulls
+SEC-C4-c4-8180,Pull Video Network Cables
+SEC-C4-c4-8290,Install Secondary Containment for Alarms
+ELE-C5-c1-8400,Terminations - FA /SEC/GPL/BAS
+ELE-C5-c1-8520,Terminations - FA /SEC/GPL/BAS
+SEC-C5-c1-7580,Pull Access Control Cables
+SEC-C5-c1-7690,Install Secondary Containment for Video Network
+ARC-C5-c2-7850,Install Doors & Ironmongery
+ELE-C5-c2-8980,VESDA Fit out
+ELE-C5-c2-9110,Terminations - Main Equipment & Panels
+ARC-C5-c2-7920,Firestopping Service Openings
+ELE-C5-c2-9120,Cabling - Secondary - FA /SEC/GPL/BAS
+MEC-C5-c2-7280,Install Exhaust Duct 2nd Fix Fittings
+SEC-C5-c2-7810,Install Secondary Containment for Access Control
+ELE-C5-c3-9600,Terminations - Main Equipment & Panels
+MEC-C5-c3-7450,Install AC Pipework & Connections
+MEC-C5-c3-7460,Install Condenstate Drainage Pipework
+ELE-C5-c3-9690,Install Earthing and Bonding to Containment
+MEC-C5-c3-7530,Install Exhaust Duct Ducting
+ELE-C5-c4-10180,Cabling - Earthing
+ELE-C5-c4-10220,Cabling - Secondary - FA /SEC/GPL/BAS
+MEC-C5-c4-7700,Install AC Units
+MEC-C5-c4-7780,Install Exhaust Duct Supports
+ELE-C5-c4-10420,Cabling - Earthing
+ELE-C5-c4-10430,Cabling - Secondary - FA /SEC/GPL/BAS
+TELE-C2-c1-6610,Testing
+TELE-C2-c1-6640,Splice
+TELE-C2-c2-6750,Testing
+ELE-C5-c2-9230,Terminations - FA /SEC/GPL/BAS
+ELE-C5-c3-9440,Terminations - FA /SEC/GPL/BAS
+ELE-C5-c3-9830,Terminations - Main Equipment & Panels
+ARC-C5-c4-8510,Firestopping Service Openings
+TELE-C3-c3-6800,Final Check Clean down
+TELE-C2-c1-6810,WiFi Install
+TELE-C2-c1-6820,Phone install
+TELE-C2-c3-6550,Labeling
+TELE-C2-c3-6740,Terminations
+TELE-C2-c4-6570,Patching
+TELE-C2-c4-6730,Dressing
+TELE-C4-c1-6490,Labeling
+TELE-C4-c1-6560,Install Switches
+TELE-C4-c1-6710,Labeling
+TELE-C4-c2-6470,Splice
+TELE-C4-c2-6690,Terminations
+ELE-C4-c3-8840,MEP Testing / QA / Labelling / Pre L3 Checks
+TELE-C4-c3-6680,Dressing
+TELE-C4-c3-6720,Cable pulls
+ARC-C4-c4-8100,Install HAC Doors
+ARC-C4-c4-8140,Install Doors & Ironmongery
+CON-ZD-7237,Landscaping
+TELE-C3-c4-6930,Patching
+TELE-C2-c1-6650,Testing
+TELE-C2-c2-6600,Splice
+TELE-C2-c2-6630,Dressing
+TELE-C2-c3-6590,Dressing
+TELE-C2-c3-6620,Cabling
+TELE-C2-c4-6540,Testing
+TELE-C4-c1-6580,Cabling
+TELE-C4-c3-6460,Dressing
+ELE-C5-c4-10040,Terminations - Main Equipment & Panels
+TELE-C2-c1-6920,Labeling
+TELE-C2-c2-6760,Labeling
+SEC-C2-c1-7550,Terminate Alarms Cables @ Panel
+SEC-C2-c1-7560,Terminate Alarms Cables in Field
+SEC-C2-c1-7570,Install Alarms Devices
+TELE-C4-c1-6500,Patching
+SEC-C4-c1-7650,Terminate Video Network Cables @ Panel
+SEC-C4-c1-7660,Terminate Video Network Cables in Field
+SEC-C4-c1-7670,Install Video Network Devices
+TELE-C4-c2-6700,Testing
+SEC-C4-c2-7770,Terminate Access Control Cables @ Panel
+SEC-C4-c2-7780,Terminate Access Control Cables in Field
+SEC-C4-c2-7790,Install Access Control Devices
+TELE-C4-c3-6780,Mount Fibre runner
+ARC-C5-c2-7880,Firestopping Service Openings
+TELE-C5-c2-6770,Mount brackets
+TELE-C5-c4-6420,EPMS
+TELE-C5-c4-6430,SLV/SCCR
+TELE-C5-c4-6440,MORs
+TELE-C2-c1-6660,Labeling
+TELE-C2-c4-6790,Level and adjust
+TELE-C4-c1-6530,Terminations
+TELE-C4-c2-6480,Testing
+TELE-C4-c2-6520,Dressing
+ELE-C4-c3-9250,MEP Testing / QA / Labelling / Pre L3 Checks - (1/2)
+ELE-C4-c4-9630,MEP Testing / QA / Labelling / Pre L3 Checks
+ELE-C4-c4-9750,MEP Testing / QA / Labelling / Pre L3 Checks
+MEC-C4-c4-7560,MEP Testing / QA / Pre L3 Checks
+SEC-C4-c4-8240,Pull Alarms Cables
+ARC-C5-c1-7550,Install Doors & Ironmongery
+ARC-C5-c1-7560,Paint Floor Markings
+ARC-C5-c1-7570,Access Hatches
+MEC-C5-c1-6990,Install Transfer Fans
+MEC-C5-c1-7030,Lag Exhaust Duct Ducting
+TELE-C5-c1-6450,Cabling
+TELE-C5-c1-6510,Cable pulls
+TELE-C5-c1-6670,Cable pulls
+SEC-C5-c1-7640,Pull Video Network Cables
+SEC-C5-c1-7750,Install Secondary Containment for Alarms
+ELE-C5-c2-9010,Terminations - FA /SEC/GPL/BAS
+ELE-C5-c2-9130,Terminations - FA /SEC/GPL/BAS
+SEC-C5-c2-7760,Pull Access Control Cables
+SEC-C5-c2-7870,Install Secondary Containment for Video Network
+ARC-C5-c3-8230,Install Doors & Ironmongery
+ELE-C5-c3-9590,VESDA Fit out
+ELE-C5-c3-9720,Terminations - Main Equipment & Panels
+ARC-C5-c3-8300,Firestopping Service Openings
+ELE-C5-c3-9730,Cabling - Secondary - FA /SEC/GPL/BAS
+MEC-C5-c3-7540,Install Exhaust Duct 2nd Fix Fittings
+SEC-C5-c3-7990,Install Secondary Containment for Access Control
+ELE-C5-c4-10210,Terminations - Main Equipment & Panels
+MEC-C5-c4-7710,Install AC Pipework & Connections
+MEC-C5-c4-7720,Install Condenstate Drainage Pipework
+ELE-C5-c4-10300,Install Earthing and Bonding to Containment
+MEC-C5-c4-7790,Install Exhaust Duct Ducting
+ARC-AD-L1-3200,Apply the Final Coat of Painting
+ARC-AD-L1-4470,QA / Snagging / Walkdowns
+TELE-C2-c2-6610,Testing
+TELE-C2-c2-6640,Splice
+TELE-C2-c3-6750,Testing
+ARC-C5-c1-7340,Install HAC Doors
+ARC-C5-c1-7380,Install Doors & Ironmongery
+ELE-C5-c3-9840,Terminations - FA /SEC/GPL/BAS
+ELE-C5-c4-10050,Terminations - FA /SEC/GPL/BAS
+ELE-C5-c4-10440,Terminations - Main Equipment & Panels
+TELE-C3-c4-6800,Final Check Clean down
+TELE-C2-c2-6810,WiFi Install
+TELE-C2-c2-6820,Phone install
+TELE-C2-c4-6550,Labeling
+TELE-C2-c4-6740,Terminations
+TELE-C4-c1-6570,Patching
+TELE-C4-c1-6730,Dressing
+TELE-C4-c2-6490,Labeling
+TELE-C4-c2-6560,Install Switches
+TELE-C4-c2-6710,Labeling
+TELE-C4-c3-6470,Splice
+TELE-C4-c3-6690,Terminations
+ELE-C4-c4-9450,MEP Testing / QA / Labelling / Pre L3 Checks
+TELE-C4-c4-6680,Dressing
+TELE-C4-c4-6720,Cable pulls
+TELE-C2-c1-6930,Patching
+TELE-C2-c2-6650,Testing
+TELE-C2-c3-6600,Splice
+TELE-C2-c3-6630,Dressing
+TELE-C2-c4-6590,Dressing
+TELE-C2-c4-6620,Cabling
+TELE-C4-c1-6540,Testing
+TELE-C4-c2-6580,Cabling
+TELE-C4-c4-6460,Dressing
+TELE-C2-c2-6920,Labeling
+TELE-C2-c3-6760,Labeling
+TELE-C4-c1-6790,Level and adjust
+SEC-C4-c1-7710,Terminate Alarms Cables @ Panel
+SEC-C4-c1-7720,Terminate Alarms Cables in Field
+SEC-C4-c1-7730,Install Alarms Devices
+TELE-C4-c2-6500,Patching
+SEC-C4-c2-7830,Terminate Video Network Cables @ Panel
+SEC-C4-c2-7840,Terminate Video Network Cables in Field
+SEC-C4-c2-7850,Install Video Network Devices
+TELE-C4-c3-6700,Testing
+SEC-C4-c3-7950,Terminate Access Control Cables @ Panel
+SEC-C4-c3-7960,Terminate Access Control Cables in Field
+SEC-C4-c3-7970,Install Access Control Devices
+TELE-C4-c4-6780,Mount Fibre runner
+ARC-C5-c3-8260,Firestopping Service Openings
+TELE-C5-c3-6770,Mount brackets
+TELE-C2-c2-6660,Labeling
+TELE-C4-c2-6530,Terminations
+TELE-C4-c3-6480,Testing
+TELE-C4-c3-6520,Dressing
+ELE-C4-c4-9860,MEP Testing / QA / Labelling / Pre L3 Checks - (1/2)
+ELE-C5-c1-8410,MEP Testing / QA / Labelling / Pre L3 Checks
+ELE-C5-c1-8530,MEP Testing / QA / Labelling / Pre L3 Checks
+MEC-C5-c1-7040,MEP Testing / QA / Pre L3 Checks
+SEC-C5-c1-7700,Pull Alarms Cables
+ARC-C5-c2-7930,Install Doors & Ironmongery
+ARC-C5-c2-7940,Paint Floor Markings
+ARC-C5-c2-7950,Access Hatches
+MEC-C5-c2-7250,Install Transfer Fans
+MEC-C5-c2-7290,Lag Exhaust Duct Ducting
+TELE-C5-c2-6450,Cabling
+TELE-C5-c2-6510,Cable pulls
+TELE-C5-c2-6670,Cable pulls
+SEC-C5-c2-7820,Pull Video Network Cables
+SEC-C5-c2-7930,Install Secondary Containment for Alarms
+ELE-C5-c3-9620,Terminations - FA /SEC/GPL/BAS
+ELE-C5-c3-9740,Terminations - FA /SEC/GPL/BAS
+SEC-C5-c3-7940,Pull Access Control Cables
+SEC-C5-c3-8050,Install Secondary Containment for Video Network
+ARC-C5-c4-8610,Install Doors & Ironmongery
+ELE-C5-c4-10200,VESDA Fit out
+ELE-C5-c4-10330,Terminations - Main Equipment & Panels
+ARC-C5-c4-8680,Firestopping Service Openings
+ELE-C5-c4-10340,Cabling - Secondary - FA /SEC/GPL/BAS
+MEC-C5-c4-7800,Install Exhaust Duct 2nd Fix Fittings
+SEC-C5-c4-8170,Install Secondary Containment for Access Control
+TELE-C2-c3-6610,Testing
+TELE-C2-c3-6640,Splice
+TELE-C2-c4-6750,Testing
+ELE-C5-c1-8230,MEP Testing / QA / Labelling / Pre L3 Checks
+ELE-C5-c4-10450,Terminations - FA /SEC/GPL/BAS
+TELE-C2-c1-6800,Final Check Clean down
+TELE-C2-c3-6810,WiFi Install
+TELE-C2-c3-6820,Phone install
+TELE-C4-c1-6550,Labeling
+TELE-C4-c1-6740,Terminations
+TELE-C4-c2-6570,Patching
+TELE-C4-c2-6730,Dressing
+TELE-C4-c3-6490,Labeling
+TELE-C4-c3-6560,Install Switches
+TELE-C4-c3-6710,Labeling
+TELE-C4-c4-6470,Splice
+TELE-C4-c4-6690,Terminations
+TELE-C5-c1-6680,Dressing
+TELE-C5-c1-6720,Cable pulls
+ARC-C5-c2-7720,Install HAC Doors
+ARC-C5-c2-7760,Install Doors & Ironmongery
+TELE-C2-c2-6930,Patching
+TELE-C2-c3-6650,Testing
+TELE-C2-c4-6600,Splice
+TELE-C2-c4-6630,Dressing
+TELE-C4-c1-6590,Dressing
+TELE-C4-c1-6620,Cabling
+TELE-C4-c2-6540,Testing
+TELE-C4-c3-6580,Cabling
+TELE-C5-c1-6460,Dressing
+TELE-C2-c3-6920,Labeling
+TELE-C2-c4-6760,Labeling
+TELE-C4-c2-6790,Level and adjust
+SEC-C4-c2-7890,Terminate Alarms Cables @ Panel
+SEC-C4-c2-7900,Terminate Alarms Cables in Field
+SEC-C4-c2-7910,Install Alarms Devices
+TELE-C4-c3-6500,Patching
+SEC-C4-c3-8010,Terminate Video Network Cables @ Panel
+SEC-C4-c3-8020,Terminate Video Network Cables in Field
+SEC-C4-c3-8030,Install Video Network Devices
+TELE-C4-c4-6700,Testing
+SEC-C4-c4-8130,Terminate Access Control Cables @ Panel
+SEC-C4-c4-8140,Terminate Access Control Cables in Field
+SEC-C4-c4-8150,Install Access Control Devices
+TELE-C5-c1-6780,Mount Fibre runner
+ARC-C5-c4-8640,Firestopping Service Openings
+TELE-C5-c4-6770,Mount brackets
+ARC-AD-L2-8160,QA / Snagging / Walkdowns
+TELE-C2-c3-6660,Labeling
+TELE-C4-c3-6530,Terminations
+TELE-C4-c4-6480,Testing
+TELE-C4-c4-6520,Dressing
+ELE-C5-c1-8640,MEP Testing / QA / Labelling / Pre L3 Checks
+ELE-C5-c2-9020,MEP Testing / QA / Labelling / Pre L3 Checks
+ELE-C5-c2-9140,MEP Testing / QA / Labelling / Pre L3 Checks
+MEC-C5-c2-7300,MEP Testing / QA / Pre L3 Checks
+SEC-C5-c2-7880,Pull Alarms Cables
+ARC-C5-c3-8310,Install Doors & Ironmongery
+ARC-C5-c3-8320,Paint Floor Markings
+ARC-C5-c3-8330,Access Hatches
+MEC-C5-c3-7510,Install Transfer Fans
+MEC-C5-c3-7550,Lag Exhaust Duct Ducting
+TELE-C5-c3-6450,Cabling
+TELE-C5-c3-6510,Cable pulls
+TELE-C5-c3-6670,Cable pulls
+SEC-C5-c3-8000,Pull Video Network Cables
+SEC-C5-c3-8110,Install Secondary Containment for Alarms
+ELE-C5-c4-10230,Terminations - FA /SEC/GPL/BAS
+ELE-C5-c4-10350,Terminations - FA /SEC/GPL/BAS
+SEC-C5-c4-8120,Pull Access Control Cables
+SEC-C5-c4-8230,Install Secondary Containment for Video Network
+TELE-C2-c4-6610,Testing
+TELE-C2-c4-6640,Splice
+TELE-C4-c1-6750,Testing
+TELE-C2-c2-6800,Final Check Clean down
+TELE-C2-c4-6810,WiFi Install
+TELE-C2-c4-6820,Phone install
+TELE-C4-c2-6550,Labeling
+TELE-C4-c2-6740,Terminations
+TELE-C4-c3-6570,Patching
+TELE-C4-c3-6730,Dressing
+TELE-C4-c4-6490,Labeling
+TELE-C4-c4-6560,Install Switches
+TELE-C4-c4-6710,Labeling
+TELE-C5-c1-6470,Splice
+TELE-C5-c1-6690,Terminations
+ELE-C5-c2-8840,MEP Testing / QA / Labelling / Pre L3 Checks
+TELE-C5-c2-6680,Dressing
+TELE-C5-c2-6720,Cable pulls
+ARC-C5-c3-8100,Install HAC Doors
+ARC-C5-c3-8140,Install Doors & Ironmongery
+TELE-C2-c3-6930,Patching
+TELE-C2-c4-6650,Testing
+TELE-C4-c1-6600,Splice
+TELE-C4-c1-6630,Dressing
+TELE-C4-c2-6590,Dressing
+TELE-C4-c2-6620,Cabling
+TELE-C4-c3-6540,Testing
+TELE-C4-c4-6580,Cabling
+TELE-C5-c2-6460,Dressing
+TELE-C2-c4-6920,Labeling
+TELE-C4-c1-6760,Labeling
+TELE-C4-c3-6790,Level and adjust
+SEC-C4-c3-8070,Terminate Alarms Cables @ Panel
+SEC-C4-c3-8080,Terminate Alarms Cables in Field
+SEC-C4-c3-8090,Install Alarms Devices
+TELE-C4-c4-6500,Patching
+SEC-C4-c4-8190,Terminate Video Network Cables @ Panel
+SEC-C4-c4-8200,Terminate Video Network Cables in Field
+SEC-C4-c4-8210,Install Video Network Devices
+TELE-C5-c1-6700,Testing
+SEC-C5-c1-7590,Terminate Access Control Cables @ Panel
+SEC-C5-c1-7600,Terminate Access Control Cables in Field
+SEC-C5-c1-7610,Install Access Control Devices
+TELE-C5-c2-6780,Mount Fibre runner
+TELE-C2-c4-6660,Labeling
+TELE-C4-c4-6530,Terminations
+TELE-C5-c1-6480,Testing
+TELE-C5-c1-6520,Dressing
+ELE-C5-c2-9250,MEP Testing / QA / Labelling / Pre L3 Checks
+ELE-C5-c3-9630,MEP Testing / QA / Labelling / Pre L3 Checks
+ELE-C5-c3-9750,MEP Testing / QA / Labelling / Pre L3 Checks
+MEC-C5-c3-7560,MEP Testing / QA / Pre L3 Checks
+SEC-C5-c3-8060,Pull Alarms Cables
+ARC-C5-c4-8690,Install Doors & Ironmongery
+ARC-C5-c4-8700,Paint Floor Markings
+ARC-C5-c4-8710,Access Hatches
+MEC-C5-c4-7770,Install Transfer Fans
+MEC-C5-c4-7810,Lag Exhaust Duct Ducting
+TELE-C5-c4-6450,Cabling
+TELE-C5-c4-6510,Cable pulls
+TELE-C5-c4-6670,Cable pulls
+SEC-C5-c4-8180,Pull Video Network Cables
+SEC-C5-c4-8290,Install Secondary Containment for Alarms
+ARC-AD-L1-3210,QA / Snagging / Walkdowns
+TELE-C4-c1-6610,Testing
+TELE-C4-c1-6640,Splice
+TELE-C4-c2-6750,Testing
+TELE-C2-c3-6800,Final Check Clean down
+TELE-C4-c1-6810,WiFi Install
+TELE-C4-c1-6820,Phone install
+TELE-C4-c3-6550,Labeling
+TELE-C4-c3-6740,Terminations
+TELE-C4-c4-6570,Patching
+TELE-C4-c4-6730,Dressing
+TELE-C5-c1-6490,Labeling
+TELE-C5-c1-6560,Install Switches
+TELE-C5-c1-6710,Labeling
+TELE-C5-c2-6470,Splice
+TELE-C5-c2-6690,Terminations
+ELE-C5-c3-9450,MEP Testing / QA / Labelling / Pre L3 Checks
+TELE-C5-c3-6680,Dressing
+TELE-C5-c3-6720,Cable pulls
+ARC-C5-c4-8480,Install HAC Doors
+ARC-C5-c4-8520,Install Doors & Ironmongery
+TELE-C2-c4-6930,Patching
+TELE-C4-c1-6650,Testing
+TELE-C4-c2-6600,Splice
+TELE-C4-c2-6630,Dressing
+ELE-C4-c3-9350,MEP Testing / QA / Labelling / Pre L3 Checks - (2/2)
+TELE-C4-c3-6590,Dressing
+TELE-C4-c3-6620,Cabling
+TELE-C4-c4-6540,Testing
+TELE-C5-c1-6580,Cabling
+TELE-C5-c3-6460,Dressing
+TELE-C4-c1-6920,Labeling
+TELE-C4-c2-6760,Labeling
+TELE-C4-c4-6790,Level and adjust
+SEC-C4-c4-8250,Terminate Alarms Cables @ Panel
+SEC-C4-c4-8260,Terminate Alarms Cables in Field
+SEC-C4-c4-8270,Install Alarms Devices
+TELE-C5-c1-6500,Patching
+SEC-C5-c1-7650,Terminate Video Network Cables @ Panel
+SEC-C5-c1-7660,Terminate Video Network Cables in Field
+SEC-C5-c1-7670,Install Video Network Devices
+TELE-C5-c2-6700,Testing
+SEC-C5-c2-7770,Terminate Access Control Cables @ Panel
+SEC-C5-c2-7780,Terminate Access Control Cables in Field
+SEC-C5-c2-7790,Install Access Control Devices
+TELE-C5-c3-6780,Mount Fibre runner
+TELE-C4-c1-6660,Labeling
+TELE-C5-c1-6530,Terminations
+TELE-C5-c2-6480,Testing
+TELE-C5-c2-6520,Dressing
+ELE-C5-c3-9860,MEP Testing / QA / Labelling / Pre L3 Checks - (1/2)
+ELE-C5-c4-10240,MEP Testing / QA / Labelling / Pre L3 Checks
+ELE-C5-c4-10360,MEP Testing / QA / Labelling / Pre L3 Checks
+MEC-C5-c4-7820,MEP Testing / QA / Pre L3 Checks
+SEC-C5-c4-8240,Pull Alarms Cables
+TELE-C4-c2-6610,Testing
+TELE-C4-c2-6640,Splice
+TELE-C4-c3-6750,Testing
+ARC-AD-L1-9070,FOC CSA - Decoration/Final Painting
+ARC-AD-L1-9180,SER CSA - Decoration/Final Painting
+ARC-AD-L1-9280,IDF CSA - Decoration/Final Painting
+ARC-AD-L1-9380,SOC CSA - Decoration/Final Painting
+TELE-C2-c4-6800,Final Check Clean down
+TELE-C4-c2-6810,WiFi Install
+TELE-C4-c2-6820,Phone install
+TELE-C4-c4-6550,Labeling
+TELE-C4-c4-6740,Terminations
+TELE-C5-c1-6570,Patching
+TELE-C5-c1-6730,Dressing
+TELE-C5-c2-6490,Labeling
+TELE-C5-c2-6560,Install Switches
+TELE-C5-c2-6710,Labeling
+TELE-C5-c3-6470,Splice
+TELE-C5-c3-6690,Terminations
+ELE-C5-c4-10060,MEP Testing / QA / Labelling / Pre L3 Checks
+TELE-C5-c4-6680,Dressing
+TELE-C5-c4-6720,Cable pulls
+TELE-C4-c1-6930,Patching
+TELE-C4-c2-6650,Testing
+TELE-C4-c3-6600,Splice
+TELE-C4-c3-6630,Dressing
+ELE-C4-c4-9960,MEP Testing / QA / Labelling / Pre L3 Checks - (2/2)
+TELE-C4-c4-6590,Dressing
+TELE-C4-c4-6620,Cabling
+TELE-C5-c1-6540,Testing
+TELE-C5-c2-6580,Cabling
+TELE-C5-c4-6460,Dressing
+TELE-C4-c2-6920,Labeling
+TELE-C4-c3-6760,Labeling
+TELE-C5-c1-6790,Level and adjust
+SEC-C5-c1-7710,Terminate Alarms Cables @ Panel
+SEC-C5-c1-7720,Terminate Alarms Cables in Field
+SEC-C5-c1-7730,Install Alarms Devices
+TELE-C5-c2-6500,Patching
+SEC-C5-c2-7830,Terminate Video Network Cables @ Panel
+SEC-C5-c2-7840,Terminate Video Network Cables in Field
+SEC-C5-c2-7850,Install Video Network Devices
+TELE-C5-c3-6700,Testing
+SEC-C5-c3-7950,Terminate Access Control Cables @ Panel
+SEC-C5-c3-7960,Terminate Access Control Cables in Field
+SEC-C5-c3-7970,Install Access Control Devices
+TELE-C5-c4-6780,Mount Fibre runner
+TELE-C4-c2-6660,Labeling
+TELE-C5-c2-6530,Terminations
+TELE-C5-c3-6480,Testing
+TELE-C5-c3-6520,Dressing
+ELE-C5-c4-10470,MEP Testing / QA / Labelling / Pre L3 Checks - (1/2)
+TELE-C4-c3-6610,Testing
+TELE-C4-c3-6640,Splice
+TELE-C4-c4-6750,Testing
+TELE-C4-c1-6800,Final Check Clean down
+TELE-C4-c3-6810,WiFi Install
+TELE-C4-c3-6820,Phone install
+TELE-C5-c1-6550,Labeling
+TELE-C5-c1-6740,Terminations
+TELE-C5-c2-6570,Patching
+TELE-C5-c2-6730,Dressing
+TELE-C5-c3-6490,Labeling
+TELE-C5-c3-6560,Install Switches
+TELE-C5-c3-6710,Labeling
+TELE-C5-c4-6470,Splice
+TELE-C5-c4-6690,Terminations
+TELE-C4-c2-6930,Patching
+TELE-C4-c3-6650,Testing
+TELE-C4-c4-6600,Splice
+TELE-C4-c4-6630,Dressing
+TELE-C5-c1-6590,Dressing
+TELE-C5-c1-6620,Cabling
+TELE-C5-c2-6540,Testing
+TELE-C5-c3-6580,Cabling
+TELE-C4-c3-6920,Labeling
+TELE-C4-c4-6760,Labeling
+TELE-C5-c2-6790,Level and adjust
+SEC-C5-c2-7890,Terminate Alarms Cables @ Panel
+SEC-C5-c2-7900,Terminate Alarms Cables in Field
+SEC-C5-c2-7910,Install Alarms Devices
+TELE-C5-c3-6500,Patching
+SEC-C5-c3-8010,Terminate Video Network Cables @ Panel
+SEC-C5-c3-8020,Terminate Video Network Cables in Field
+SEC-C5-c3-8030,Install Video Network Devices
+TELE-C5-c4-6700,Testing
+SEC-C5-c4-8130,Terminate Access Control Cables @ Panel
+SEC-C5-c4-8140,Terminate Access Control Cables in Field
+SEC-C5-c4-8150,Install Access Control Devices
+TELE-C4-c3-6660,Labeling
+TELE-C5-c3-6530,Terminations
+TELE-C5-c4-6480,Testing
+TELE-C5-c4-6520,Dressing
+TELE-C4-c4-6610,Testing
+TELE-C4-c4-6640,Splice
+TELE-C5-c1-6750,Testing
+TELE-C4-c2-6800,Final Check Clean down
+TELE-C4-c4-6810,WiFi Install
+TELE-C4-c4-6820,Phone install
+TELE-C5-c2-6550,Labeling
+TELE-C5-c2-6740,Terminations
+TELE-C5-c3-6570,Patching
+TELE-C5-c3-6730,Dressing
+TELE-C5-c4-6490,Labeling
+TELE-C5-c4-6560,Install Switches
+TELE-C5-c4-6710,Labeling
+TELE-C4-c3-6930,Patching
+TELE-C4-c4-6650,Testing
+TELE-C5-c1-6600,Splice
+TELE-C5-c1-6630,Dressing
+TELE-C5-c2-6590,Dressing
+TELE-C5-c2-6620,Cabling
+TELE-C5-c3-6540,Testing
+TELE-C5-c4-6580,Cabling
+TELE-C4-c4-6920,Labeling
+TELE-C5-c1-6760,Labeling
+TELE-C5-c3-6790,Level and adjust
+SEC-C5-c3-8070,Terminate Alarms Cables @ Panel
+SEC-C5-c3-8080,Terminate Alarms Cables in Field
+SEC-C5-c3-8090,Install Alarms Devices
+TELE-C5-c4-6500,Patching
+SEC-C5-c4-8190,Terminate Video Network Cables @ Panel
+SEC-C5-c4-8200,Terminate Video Network Cables in Field
+SEC-C5-c4-8210,Install Video Network Devices
+TELE-C4-c4-6660,Labeling
+TELE-C5-c4-6530,Terminations
+TELE-C5-c1-6610,Testing
+TELE-C5-c1-6640,Splice
+TELE-C5-c2-6750,Testing
+TELE-C4-c3-6800,Final Check Clean down
+TELE-C5-c1-6810,WiFi Install
+TELE-C5-c1-6820,Phone install
+TELE-C5-c3-6550,Labeling
+TELE-C5-c3-6740,Terminations
+TELE-C5-c4-6570,Patching
+TELE-C5-c4-6730,Dressing
+TELE-C4-c4-6930,Patching
+TELE-C5-c1-6650,Testing
+TELE-C5-c2-6600,Splice
+TELE-C5-c2-6630,Dressing
+ELE-C5-c3-10050,MEP Testing / QA / Labelling / Pre L3 Checks - (2/2)
+TELE-C5-c3-6590,Dressing
+TELE-C5-c3-6620,Cabling
+TELE-C5-c4-6540,Testing
+TELE-C5-c1-6920,Labeling
+TELE-C5-c2-6760,Labeling
+TELE-C5-c4-6790,Level and adjust
+SEC-C5-c4-8250,Terminate Alarms Cables @ Panel
+SEC-C5-c4-8260,Terminate Alarms Cables in Field
+SEC-C5-c4-8270,Install Alarms Devices
+TELE-C5-c1-6660,Labeling
+TELE-C5-c2-6610,Testing
+TELE-C5-c2-6640,Splice
+TELE-C5-c3-6750,Testing
+TELE-C4-c4-6800,Final Check Clean down
+TELE-C5-c2-6810,WiFi Install
+TELE-C5-c2-6820,Phone install
+TELE-C5-c4-6550,Labeling
+TELE-C5-c4-6740,Terminations
+TELE-C5-c1-6930,Patching
+TELE-C5-c2-6650,Testing
+TELE-C5-c3-6600,Splice
+TELE-C5-c3-6630,Dressing
+ELE-C5-c4-10660,MEP Testing / QA / Labelling / Pre L3 Checks - (2/2)
+TELE-C5-c4-6590,Dressing
+TELE-C5-c4-6620,Cabling
+TELE-C5-c2-6920,Labeling
+TELE-C5-c3-6760,Labeling
+TELE-C5-c2-6660,Labeling
+TELE-C5-c3-6610,Testing
+TELE-C5-c3-6640,Splice
+TELE-C5-c4-6750,Testing
+TELE-C5-c1-6800,Final Check Clean down
+TELE-C5-c3-6810,WiFi Install
+TELE-C5-c3-6820,Phone install
+TELE-C5-c2-6930,Patching
+TELE-C5-c3-6650,Testing
+TELE-C5-c4-6600,Splice
+TELE-C5-c4-6630,Dressing
+TELE-C5-c3-6920,Labeling
+TELE-C5-c4-6760,Labeling
+TELE-C5-c3-6660,Labeling
+TELE-C5-c4-6610,Testing
+TELE-C5-c4-6640,Splice
+TELE-C5-c2-6800,Final Check Clean down
+TELE-C5-c4-6810,WiFi Install
+TELE-C5-c4-6820,Phone install
+TELE-C5-c3-6930,Patching
+TELE-C5-c4-6650,Testing
+TELE-C5-c4-6920,Labeling
+TELE-C5-c4-6660,Labeling
+TELE-C5-c3-6800,Final Check Clean down
+TELE-C5-c4-6930,Patching
+TELE-C5-c4-6800,Final Check Clean down

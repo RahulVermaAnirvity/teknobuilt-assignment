@@ -1,0 +1,247 @@
+[
+  {
+    "case": "skew_+4deg",
+    "source_page": 1,
+    "status": "needs_review",
+    "processing_ms": 14227,
+    "quality": {
+      "deskew_angle_deg": -4.0,
+      "rotation_applied_deg": 0,
+      "warnings": []
+    },
+    "pass": true,
+    "matched": 19,
+    "flagged": [
+      "observation_date",
+      "employee_number"
+    ],
+    "silent_wrong": [],
+    "total": 21
+  },
+  {
+    "case": "skew_-7deg",
+    "source_page": 2,
+    "status": "ok",
+    "processing_ms": 16359,
+    "quality": {
+      "deskew_angle_deg": 7.0,
+      "rotation_applied_deg": 0,
+      "warnings": []
+    },
+    "pass": true,
+    "matched": 21,
+    "flagged": [],
+    "silent_wrong": [],
+    "total": 21
+  },
+  {
+    "case": "upside_down",
+    "source_page": 3,
+    "status": "needs_review",
+    "processing_ms": 22671,
+    "quality": {
+      "deskew_angle_deg": 0.0,
+      "rotation_applied_deg": 180,
+      "warnings": []
+    },
+    "pass": true,
+    "matched": 22,
+    "flagged": [],
+    "silent_wrong": [],
+    "total": 22
+  },
+  {
+    "case": "mud_stains",
+    "source_page": 1,
+    "status": "needs_review",
+    "processing_ms": 15771,
+    "quality": {
+      "deskew_angle_deg": 0.0,
+      "rotation_applied_deg": 0,
+      "warnings": []
+    },
+    "pass": true,
+    "matched": 13,
+    "flagged": [
+      "checklist[1]",
+      "checklist[2]",
+      "checklist[3]",
+      "checklist[4]",
+      "checklist[5]",
+      "checklist[6]",
+      "checklist[7]",
+      "checklist[8]"
+    ],
+    "silent_wrong": [],
+    "total": 21
+  },
+  {
+    "case": "mud_plus_skew",
+    "source_page": 2,
+    "status": "needs_review",
+    "processing_ms": 22313,
+    "quality": {
+      "deskew_angle_deg": -3.0,
+      "rotation_applied_deg": 0,
+      "warnings": []
+    },
+    "pass": true,
+    "matched": 20,
+    "flagged": [
+      "employee_number"
+    ],
+    "silent_wrong": [],
+    "total": 21
+  },
+  {
+    "case": "blur",
+    "source_page": 3,
+    "status": "needs_review",
+    "processing_ms": 17725,
+    "quality": {
+      "deskew_angle_deg": 0.0,
+      "rotation_applied_deg": 0,
+      "warnings": [
+        "blurry_scan",
+        "unrecognised_expectation_row"
+      ]
+    },
+    "pass": true,
+    "matched": 9,
+    "flagged": [
+      "observation_date",
+      "timesheet_number",
+      "comments",
+      "checklist[1]",
+      "checklist[2]",
+      "checklist[3]",
+      "checklist[4]",
+      "checklist[5]",
+      "checklist[6]",
+      "checklist[7]",
+      "checklist[8]",
+      "checklist[9]",
+      "expectation[Has positive feedback provided]"
+    ],
+    "silent_wrong": [],
+    "total": 22
+  },
+  {
+    "case": "low_res_fax",
+    "source_page": 1,
+    "status": "needs_review",
+    "processing_ms": 15079,
+    "quality": {
+      "deskew_angle_deg": 0.0,
+      "rotation_applied_deg": 0,
+      "warnings": [
+        "blurry_scan",
+        "unrecognised_expectation_row"
+      ]
+    },
+    "pass": true,
+    "matched": 10,
+    "flagged": [
+      "observation_date",
+      "comments",
+      "checklist[1]",
+      "checklist[2]",
+      "checklist[3]",
+      "checklist[4]",
+      "checklist[5]",
+      "checklist[6]",
+      "checklist[7]",
+      "checklist[8]",
+      "expectation[Has positive feedback provided]"
+    ],
+    "silent_wrong": [],
+    "total": 21
+  },
+  {
+    "case": "crossed_out_observer",
+    "source_page": 2,
+    "status": "needs_review",
+    "processing_ms": 18217,
+    "quality": {
+      "deskew_angle_deg": 0.0,
+      "rotation_applied_deg": 0,
+      "warnings": []
+    },
+    "pass": true,
+    "matched": 20,
+    "flagged": [
+      "observer"
+    ],
+    "silent_wrong": [],
+    "total": 21
+  },
+  {
+    "case": "blank_page",
+    "source_page": 1,
+    "status": "rejected",
+    "processing_ms": 72,
+    "quality": {
+      "deskew_angle_deg": 0.0,
+      "rotation_applied_deg": 0,
+      "warnings": []
+    },
+    "pass": true,
+    "detail": "blank_page"
+  },
+  {
+    "case": "black_page",
+    "source_page": 1,
+    "status": "rejected",
+    "processing_ms": 158,
+    "quality": {
+      "deskew_angle_deg": 0.0,
+      "rotation_applied_deg": 0,
+      "warnings": [
+        "heavy_noise_or_dark_scan",
+        "blurry_scan"
+      ]
+    },
+    "pass": true,
+    "detail": "form_grid_not_found"
+  },
+  {
+    "case": "random_noise",
+    "source_page": 1,
+    "status": "rejected",
+    "processing_ms": 157,
+    "quality": {
+      "deskew_angle_deg": 0.0,
+      "rotation_applied_deg": 0,
+      "warnings": [
+        "heavy_noise_or_dark_scan"
+      ]
+    },
+    "pass": true,
+    "detail": "form_grid_not_found"
+  },
+  {
+    "case": "failed_form_scanned_no_text_layer",
+    "status": "rejected",
+    "pass": true,
+    "detail": "form_labels_not_found"
+  },
+  {
+    "case": "truncated_pdf",
+    "pass": true,
+    "statuses": [
+      "ok",
+      "rejected",
+      "rejected",
+      "rejected"
+    ],
+    "detail": "[(1, 'ok', None), (2, 'rejected', 'blank_page'), (3, 'rejected', 'blank_page'), (4, 'rejected', 'blank_page')]"
+  },
+  {
+    "case": "garbage_bytes",
+    "pass": true,
+    "statuses": [
+      "error"
+    ],
+    "detail": "[(1, 'error', \"cannot open document: Failed to open file 'C:\\\\\\\\Users\\\\\\\\admin\\\\\\\\AppData\\\\\\\\Local\\\\\\\\Temp\\\\\\\\tmpnrlr3tga\\\\\\\\garbage_bytes.pdf' as type pdf.\")]"
+  }
+]

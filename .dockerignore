@@ -1,0 +1,11 @@
+# secrets never go into the image - they are passed at runtime via env_file
+.env
+.git
+.venv
+venv
+**/__pycache__
+**/*.pyc
+.celery
+data
+*.log
+outputs/.*.log

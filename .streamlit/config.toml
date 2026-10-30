@@ -1,0 +1,13 @@
+[theme]
+base = "light"
+primaryColor = "#F08404"            # Teknobuilt orange
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F2F5F7"
+textColor = "#0E2A36"
+font = "sans serif"
+
+[server]
+maxUploadSize = 50
+
+[browser]
+gatherUsageStats = false

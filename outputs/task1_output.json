@@ -1,0 +1,1195 @@
+{
+  "source_file": "Sample_input.pdf",
+  "pipeline_version": "1.0.0",
+  "engines": {
+    "layout": "opencv-grid+tesseract-anchors",
+    "printed_text": "tesseract",
+    "handwriting": "trocr:microsoft/trocr-small-handwritten",
+    "checkboxes": "ink-density",
+    "vlm_escalation": "gemini:gemini-flash-lite-latest"
+  },
+  "processed_at": "2026-10-30T16:33:39+00:00",
+  "summary": {
+    "pages_total": 4,
+    "ok": 3,
+    "needs_review": 0,
+    "rejected": 1,
+    "error": 0
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "page_sha1": "5e7d59a95fef1efbf2015f4a16e177df54b72ab3",
+      "status": "ok",
+      "rejection_reason": null,
+      "quality": {
+        "ink_ratio": 0.0341,
+        "blur_score": 1458.2,
+        "deskew_angle_deg": 0.0,
+        "rotation_applied_deg": 0,
+        "grid_h_lines": 31,
+        "grid_v_lines": 28,
+        "anchors_found": [
+          "cczjv",
+          "comments",
+          "company_observed",
+          "day",
+          "employee",
+          "location",
+          "night",
+          "observation_date",
+          "observer",
+          "safe",
+          "shift",
+          "timesheet"
+        ],
+        "warnings": []
+      },
+      "form": {
+        "observation_date": {
+          "value": "2024-10-02",
+          "raw": "2024-10-02",
+          "confidence": 0.915,
+          "engine": "trocr:microsoft/trocr-small-handwritten",
+          "needs_review": false,
+          "flags": [],
+          "alternatives": []
+        },
+        "observer": {
+          "value": "John Davis",
+          "raw": "John Davis",
+          "confidence": 0.916,
+          "engine": "trocr:microsoft/trocr-small-handwritten",
+          "needs_review": false,
+          "flags": [],
+          "alternatives": []
+        },
+        "company_observed": {
+          "value": "Summit Construction",
+          "raw": "Summit Construction",
+          "confidence": 0.915,
+          "engine": "trocr:microsoft/trocr-small-handwritten",
+          "needs_review": false,
+          "flags": [],
+          "alternatives": []
+        },
+        "location_cwa": {
+          "value": "8000",
+          "confidence": 1.0,
+          "scores": {
+            "1000": 0.0,
+            "2000": 0.0,
+            "3000": 0.0,
+            "4000": 0.0,
+            "8000": 0.0184,
+            "5000": 0.0,
+            "5900": 0.0,
+            "6000": 0.0,
+            "7000": 0.0,
+            "OSLD": 0.0
+          },
+          "needs_review": false,
+          "flags": []
+        },
+        "shift": {
+          "value": "day",
+          "confidence": 1.0,
+          "scores": {
+            "day": 0.0199,
+            "night": 0.0
+          },
+          "needs_review": false,
+          "flags": []
+        },
+        "timesheet_number": {
+          "value": "25489",
+          "raw": "25489",
+          "confidence": 0.984,
+          "engine": "trocr:microsoft/trocr-small-handwritten",
+          "needs_review": false,
+          "flags": [],
+          "alternatives": []
+        },
+        "employee_number": {
+          "value": "7852",
+          "raw": "7852",
+          "confidence": 0.924,
+          "engine": "trocr:microsoft/trocr-small-handwritten",
+          "needs_review": false,
+          "flags": [],
+          "alternatives": []
+        },
+        "checklist_title": {
+          "value": "Breaking Containment - Life Saving Action",
+          "raw": "Breaking Containment — Life Saving Action",
+          "confidence": 0.935,
+          "engine": "tesseract",
+          "needs_review": false,
+          "flags": [],
+          "alternatives": []
+        },
+        "checklist": [
+          {
+            "item_no": 1,
+            "question": {
+              "value": "Has the location to be cut or opened been visibly marked?",
+              "raw": "Has the location to be cut or opened been visibly marked?",
+              "confidence": 0.958,
+              "engine": "tesseract",
+              "needs_review": false,
+              "flags": [],
+              "alternatives": []
+            },
+            "response": {
+              "value": "I",
+              "confidence": 1.0,
+              "scores": {
+                "S": 0.0,
+                "R": 0.0,
+                "I": 0.0174,
+                "N": 0.0
+              },
+              "needs_review": false,
+              "flags": []
+            }
+          },
+          {
+            "item_no": 2,
+            "question": {
+              "value": "Work has been authorized to begin (e.g.— Line Break Permit)",
+              "raw": "Work has been authorized to begin (e.g.— Line Break Permit)",
+              "confidence": 0.911,
+              "engine": "tesseract",
+              "needs_review": false,
+              "flags": [],
+              "alternatives": []
+            },
+            "response": {
+              "value": "I",
+              "confidence": 1.0,
+              "scores": {
+                "S": 0.0,
+                "R": 0.0,
+                "I": 0.0188,
+                "N": 0.0
+              },
+              "needs_review": false,
+              "flags": []
+            }
+          },
+          {
+            "item_no": 3,
+            "question": {
+              "value": "Nearby work activities has no potential ignition sources or conflict with work scope (e.g. hot work)",
+              "raw": "Nearby work activities has no potential ignition sources or conflict with work scope (e.g. hot work)",
+              "confidence": 0.957,
+              "engine": "tesseract",
+              "needs_review": false,
+              "flags": [],
+              "alternatives": []
+            },
+            "response": {
+              "value": "I",
+              "confidence": 1.0,
+              "scores": {
+                "S": 0.0,
+                "R": 0.0,
+                "I": 0.0194,
+                "N": 0.0
+              },
+              "needs_review": false,
+              "flags": []
+            }
+          },
+          {
+            "item_no": 4,
+            "question": {
+              "value": "Exclusion zone (e.g. barricade) is in place.",
+              "raw": "Exclusion zone (e.g. barricade) is in place.",
+              "confidence": 0.95,
+              "engine": "tesseract",
+              "needs_review": false,
+              "flags": [],
+              "alternatives": []
+            },
+            "response": {
+              "value": "R",
+              "confidence": 1.0,
+              "scores": {
+                "S": 0.0,
+                "R": 0.0185,
+                "I": 0.0,
+                "N": 0.0
+              },
+              "needs_review": false,
+              "flags": []
+            }
+          },
+          {
+            "item_no": 5,
+            "question": {
+              "value": "There is clear means of communication with the equipment operator",
+              "raw": "There is clear means of communication with the equipment operator",
+              "confidence": 0.95,
+              "engine": "tesseract",
+              "needs_review": false,
+              "flags": [],
+              "alternatives": []
+            },
+            "response": {
+              "value": "S",
+              "confidence": 1.0,
+              "scores": {
+                "S": 0.0192,
+                "R": 0.0,
+                "I": 0.0,
+                "N": 0.0
+              },
+              "needs_review": false,
+              "flags": []
+            }
+          },
+          {
+            "item_no": 6,
+            "question": {
+              "value": "Workers positioned outside line of fire",
+              "raw": "Workers positioned outside line of fire",
+              "confidence": 0.957,
+              "engine": "tesseract",
+              "needs_review": false,
+              "flags": [],
+              "alternatives": []
+            },
+            "response": {
+              "value": "I",
+              "confidence": 1.0,
+              "scores": {
+                "S": 0.0,
+                "R": 0.0,
+                "I": 0.017,
+                "N": 0.0
+              },
+              "needs_review": false,
+              "flags": []
+            }
+          },
+          {
+            "item_no": 7,
+            "question": {
+              "value": "Spill containment plan in place",
+              "raw": "Spill containment plan in place",
+              "confidence": 0.948,
+              "engine": "tesseract",
+              "needs_review": false,
+              "flags": [],
+              "alternatives": []
+            },
+            "response": {
+              "value": "I",
+              "confidence": 1.0,
+              "scores": {
+                "S": 0.0,
+                "R": 0.0,
+                "I": 0.019,
+                "N": 0.0
+              },
+              "needs_review": false,
+              "flags": []
+            }
+          },
+          {
+            "item_no": 8,
+            "question": {
+              "value": "Energy sources isolated and secured",
+              "raw": "Energy sources isolated and secured",
+              "confidence": 0.954,
+              "engine": "tesseract",
+              "needs_review": false,
+              "flags": [],
+              "alternatives": []
+            },
+            "response": {
+              "value": "I",
+              "confidence": 1.0,
+              "scores": {
+                "S": 0.0,
+                "R": 0.0,
+                "I": 0.0168,
+                "N": 0.0
+              },
+              "needs_review": false,
+              "flags": []
+            }
+          }
+        ],
+        "expectation_questions": [
+          {
+            "question": "Has positive feedback provided?",
+            "response": {
+              "value": "yes",
+              "confidence": 1.0,
+              "scores": {
+                "yes": 0.0201,
+                "no": 0.0,
+                "n/a": 0.0
+              },
+              "needs_review": false,
+              "flags": []
+            }
+          },
+          {
+            "question": "Has the job been stopped in the event of an imminent hazard?",
+            "response": {
+              "value": "no",
+              "confidence": 1.0,
+              "scores": {
+                "yes": 0.0,
+                "no": 0.0189,
+                "n/a": 0.0
+              },
+              "needs_review": false,
+              "flags": []
+            }
+          },
+          {
+            "question": "Has an investigation been conducted?",
+            "response": {
+              "value": "n/a",
+              "confidence": 1.0,
+              "scores": {
+                "yes": 0.0,
+                "no": 0.0,
+                "n/a": 0.0202
+              },
+              "needs_review": false,
+              "flags": []
+            }
+          },
+          {
+            "question": "Have corrective actions been taken?",
+            "response": {
+              "value": "n/a",
+              "confidence": 1.0,
+              "scores": {
+                "yes": 0.0,
+                "no": 0.0,
+                "n/a": 0.0187
+              },
+              "needs_review": false,
+              "flags": []
+            }
+          }
+        ],
+        "comments": {
+          "value": "Safety measures were strictly followed.",
+          "raw": "Safety measures were strictly followed .",
+          "confidence": 0.998,
+          "engine": "trocr:microsoft/trocr-small-handwritten",
+          "needs_review": false,
+          "flags": [],
+          "alternatives": []
+        }
+      },
+      "review_fields": [],
+      "processing_ms": 130922
+    },
+    {
+      "page_number": 2,
+      "page_sha1": "97d8a9a48349ea61e7573332ae4c8ce6918721bf",
+      "status": "ok",
+      "rejection_reason": null,
+      "quality": {
+        "ink_ratio": 0.0341,
+        "blur_score": 1486.8,
+        "deskew_angle_deg": 0.0,
+        "rotation_applied_deg": 0,
+        "grid_h_lines": 31,
+        "grid_v_lines": 28,
+        "anchors_found": [
+          "cczjv",
+          "comments",
+          "company_observed",
+          "day",
+          "employee",
+          "location",
+          "night",
+          "observation_date",
+          "observer",
+          "safe",
+          "shift",
+          "timesheet"
+        ],
+        "warnings": []
+      },
+      "form": {
+        "observation_date": {
+          "value": "2024-10-01",
+          "raw": "2024-10-01",
+          "confidence": 0.893,
+          "engine": "trocr:microsoft/trocr-small-handwritten",
+          "needs_review": false,
+          "flags": [],
+          "alternatives": []
+        },
+        "observer": {
+          "value": "Luis Gomez",
+          "raw": "Luis Gomez",
+          "confidence": 0.993,
+          "engine": "trocr:microsoft/trocr-small-handwritten",
+          "needs_review": false,
+          "flags": [],
+          "alternatives": []
+        },
+        "company_observed": {
+          "value": "Hernandez Builders",
+          "raw": "Hernandez Builders .",
+          "confidence": 0.881,
+          "engine": "trocr:microsoft/trocr-small-handwritten",
+          "needs_review": false,
+          "flags": [],
+          "alternatives": []
+        },
+        "location_cwa": {
+          "value": "1000",
+          "confidence": 1.0,
+          "scores": {
+            "1000": 0.0176,
+            "2000": 0.0,
+            "3000": 0.0,
+            "4000": 0.0,
+            "8000": 0.0,
+            "5000": 0.0,
+            "5900": 0.0,
+            "6000": 0.0,
+            "7000": 0.0,
+            "OSLD": 0.0
+          },
+          "needs_review": false,
+          "flags": []
+        },
+        "shift": {
+          "value": "night",
+          "confidence": 1.0,
+          "scores": {
+            "day": 0.0,
+            "night": 0.0201
+          },
+          "needs_review": false,
+          "flags": []
+        },
+        "timesheet_number": {
+          "value": "36781",
+          "raw": "36781",
+          "confidence": 0.887,
+          "engine": "trocr:microsoft/trocr-small-handwritten",
+          "needs_review": false,
+          "flags": [],
+          "alternatives": []
+        },
+        "employee_number": {
+          "value": "14589",
+          "raw": "14589",
+          "confidence": 0.955,
+          "engine": "trocr:microsoft/trocr-small-handwritten",
+          "needs_review": false,
+          "flags": [],
+          "alternatives": []
+        },
+        "checklist_title": {
+          "value": "O&I Confined Space - Life Saving Action",
+          "raw": "O&l Confined Space — Life Saving Action",
+          "confidence": 0.853,
+          "engine": "tesseract",
+          "needs_review": false,
+          "flags": [],
+          "alternatives": []
+        },
+        "checklist": [
+          {
+            "item_no": 1,
+            "question": {
+              "value": "Proof of Training for CSE Duties (e.g. HH Stickers)",
+              "raw": "Proof of Training for CSE Duties (e.g. HH Stickers)",
+              "confidence": 0.95,
+              "engine": "tesseract",
+              "needs_review": false,
+              "flags": [],
+              "alternatives": []
+            },
+            "response": {
+              "value": "I",
+              "confidence": 1.0,
+              "scores": {
+                "S": 0.0,
+                "R": 0.0,
+                "I": 0.0174,
+                "N": 0.0
+              },
+              "needs_review": false,
+              "flags": []
+            }
+          },
+          {
+            "item_no": 2,
+            "question": {
+              "value": "Does the crew have avalid confined space permit?",
+              "raw": "Does the crew have avalid confined space permit?",
+              "confidence": 0.912,
+              "engine": "tesseract",
+              "needs_review": false,
+              "flags": [],
+              "alternatives": []
+            },
+            "response": {
+              "value": "N",
+              "confidence": 1.0,
+              "scores": {
+                "S": 0.0,
+                "R": 0.0,
+                "I": 0.0,
+                "N": 0.0202
+              },
+              "needs_review": false,
+              "flags": []
+            }
+          },
+          {
+            "item_no": 3,
+            "question": {
+              "value": "Reliable communication is available for an Emergency (e.g. Hole Watch)",
+              "raw": "Reliable communication is available for an Emergency (e.g. Hole Watch)",
+              "confidence": 0.901,
+              "engine": "tesseract",
+              "needs_review": false,
+              "flags": [],
+              "alternatives": []
+            },
+            "response": {
+              "value": "N",
+              "confidence": 1.0,
+              "scores": {
+                "S": 0.0,
+                "R": 0.0,
+                "I": 0.0,
+                "N": 0.0202
+              },
+              "needs_review": false,
+              "flags": []
+            }
+          },
+          {
+            "item_no": 4,
+            "question": {
+              "value": "CSE Attendant monitoring entrant status and can communi- cate with entrants",
+              "raw": "CSE Attendant monitoring entrant status and can communi- cate with entrants",
+              "confidence": 0.908,
+              "engine": "tesseract",
+              "needs_review": false,
+              "flags": [],
+              "alternatives": []
+            },
+            "response": {
+              "value": "N",
+              "confidence": 1.0,
+              "scores": {
+                "S": 0.0,
+                "R": 0.0,
+                "I": 0.0,
+                "N": 0.0211
+              },
+              "needs_review": false,
+              "flags": []
+            }
+          },
+          {
+            "item_no": 5,
+            "question": {
+              "value": "Access/egress entry ways clear of obstructions?",
+              "raw": "Access/egress entry ways clear of obstructions?",
+              "confidence": 0.937,
+              "engine": "tesseract",
+              "needs_review": false,
+              "flags": [],
+              "alternatives": []
+            },
+            "response": {
+              "value": "N",
+              "confidence": 1.0,
+              "scores": {
+                "S": 0.0,
+                "R": 0.0,
+                "I": 0.0,
+                "N": 0.02
+              },
+              "needs_review": false,
+              "flags": []
+            }
+          },
+          {
+            "item_no": 6,
+            "question": {
+              "value": "Controls to prevent unauthorized access (e.g. Barricades, attendant, signs) are in place?",
+              "raw": "Controls to prevent unauthorized access (e.g. Barricades, attendant, signs) are in place?",
+              "confidence": 0.947,
+              "engine": "tesseract",
+              "needs_review": false,
+              "flags": [],
+              "alternatives": []
+            },
+            "response": {
+              "value": "I",
+              "confidence": 1.0,
+              "scores": {
+                "S": 0.0,
+                "R": 0.0,
+                "I": 0.017,
+                "N": 0.0
+              },
+              "needs_review": false,
+              "flags": []
+            }
+          },
+          {
+            "item_no": 7,
+            "question": {
+              "value": "Fire extinguisher located near entry point?",
+              "raw": "Fire extinguisher located near entry point?",
+              "confidence": 0.958,
+              "engine": "tesseract",
+              "needs_review": false,
+              "flags": [],
+              "alternatives": []
+            },
+            "response": {
+              "value": "I",
+              "confidence": 1.0,
+              "scores": {
+                "S": 0.0,
+                "R": 0.0,
+                "I": 0.019,
+                "N": 0.0
+              },
+              "needs_review": false,
+              "flags": []
+            }
+          },
+          {
+            "item_no": 8,
+            "question": {
+              "value": "Does the crew maintain an access/egress record?",
+              "raw": "Does the crew maintain an access/egress record?",
+              "confidence": 0.946,
+              "engine": "tesseract",
+              "needs_review": false,
+              "flags": [],
+              "alternatives": []
+            },
+            "response": {
+              "value": "I",
+              "confidence": 1.0,
+              "scores": {
+                "S": 0.0,
+                "R": 0.0,
+                "I": 0.0168,
+                "N": 0.0
+              },
+              "needs_review": false,
+              "flags": []
+            }
+          }
+        ],
+        "expectation_questions": [
+          {
+            "question": "Has positive feedback provided?",
+            "response": {
+              "value": "n/a",
+              "confidence": 1.0,
+              "scores": {
+                "yes": 0.0,
+                "no": 0.0,
+                "n/a": 0.0198
+              },
+              "needs_review": false,
+              "flags": []
+            }
+          },
+          {
+            "question": "Has the job been stopped in the event of an imminent hazard?",
+            "response": {
+              "value": "no",
+              "confidence": 1.0,
+              "scores": {
+                "yes": 0.0,
+                "no": 0.0189,
+                "n/a": 0.0
+              },
+              "needs_review": false,
+              "flags": []
+            }
+          },
+          {
+            "question": "Has an investigation been conducted?",
+            "response": {
+              "value": "yes",
+              "confidence": 1.0,
+              "scores": {
+                "yes": 0.0205,
+                "no": 0.0,
+                "n/a": 0.0
+              },
+              "needs_review": false,
+              "flags": []
+            }
+          },
+          {
+            "question": "Have corrective actions been taken?",
+            "response": {
+              "value": "yes",
+              "confidence": 1.0,
+              "scores": {
+                "yes": 0.0187,
+                "no": 0.0,
+                "n/a": 0.0
+              },
+              "needs_review": false,
+              "flags": []
+            }
+          }
+        ],
+        "comments": {
+          "value": "Improvements needed in communication.",
+          "raw": "Improvements needed in communication .",
+          "confidence": 0.987,
+          "engine": "trocr:microsoft/trocr-small-handwritten",
+          "needs_review": false,
+          "flags": [],
+          "alternatives": []
+        }
+      },
+      "review_fields": [],
+      "processing_ms": 21897
+    },
+    {
+      "page_number": 3,
+      "page_sha1": "7d3b7838b954212c7e8d8cb930de4f9880e3e2e1",
+      "status": "ok",
+      "rejection_reason": null,
+      "quality": {
+        "ink_ratio": 0.0368,
+        "blur_score": 1722.7,
+        "deskew_angle_deg": 0.0,
+        "rotation_applied_deg": 0,
+        "grid_h_lines": 32,
+        "grid_v_lines": 28,
+        "anchors_found": [
+          "cczjv",
+          "comments",
+          "company_observed",
+          "day",
+          "employee",
+          "location",
+          "night",
+          "observation_date",
+          "observer",
+          "safe",
+          "shift",
+          "timesheet"
+        ],
+        "warnings": []
+      },
+      "form": {
+        "observation_date": {
+          "value": "2024-09-30",
+          "raw": "2024-09-30",
+          "confidence": 0.949,
+          "engine": "trocr:microsoft/trocr-small-handwritten",
+          "needs_review": false,
+          "flags": [],
+          "alternatives": []
+        },
+        "observer": {
+          "value": "Maria Hernandez",
+          "raw": "Maria Hernandez",
+          "confidence": 0.995,
+          "engine": "trocr:microsoft/trocr-small-handwritten",
+          "needs_review": false,
+          "flags": [],
+          "alternatives": []
+        },
+        "company_observed": {
+          "value": "Queen's Contracting",
+          "raw": "Queen's Contracting",
+          "confidence": 0.987,
+          "engine": "trocr:microsoft/trocr-small-handwritten",
+          "needs_review": false,
+          "flags": [],
+          "alternatives": []
+        },
+        "location_cwa": {
+          "value": "7000",
+          "confidence": 1.0,
+          "scores": {
+            "1000": 0.0,
+            "2000": 0.0,
+            "3000": 0.0,
+            "4000": 0.0,
+            "8000": 0.0,
+            "5000": 0.0,
+            "5900": 0.0,
+            "6000": 0.0,
+            "7000": 0.0201,
+            "OSLD": 0.0
+          },
+          "needs_review": false,
+          "flags": []
+        },
+        "shift": {
+          "value": "night",
+          "confidence": 1.0,
+          "scores": {
+            "day": 0.0,
+            "night": 0.0201
+          },
+          "needs_review": false,
+          "flags": []
+        },
+        "timesheet_number": {
+          "value": "49012",
+          "raw": "49012",
+          "confidence": 0.95,
+          "engine": "gemini:gemini-flash-lite-latest",
+          "needs_review": false,
+          "flags": [
+            "escalated_from:trocr:microsoft/trocr-small-handwritten",
+            "engines_agree"
+          ],
+          "alternatives": []
+        },
+        "employee_number": {
+          "value": "357951",
+          "raw": "357951",
+          "confidence": 0.986,
+          "engine": "trocr:microsoft/trocr-small-handwritten",
+          "needs_review": false,
+          "flags": [],
+          "alternatives": []
+        },
+        "checklist_title": {
+          "value": "Critical Devices - Life Saving Action",
+          "raw": "Critical Devices — Life Saving Action",
+          "confidence": 0.935,
+          "engine": "tesseract",
+          "needs_review": false,
+          "flags": [],
+          "alternatives": []
+        },
+        "checklist": [
+          {
+            "item_no": 1,
+            "question": {
+              "value": "Is a Work Authorization Permit and/or Variance in place and at the work front to bypass/defeat a Safety Critical Device?",
+              "raw": "Is a Work Authorization Permit and/or Variance in place and at the work front to bypass/defeat a Safety Critical Device?",
+              "confidence": 0.951,
+              "engine": "tesseract",
+              "needs_review": false,
+              "flags": [],
+              "alternatives": []
+            },
+            "response": {
+              "value": "S",
+              "confidence": 1.0,
+              "scores": {
+                "S": 0.0174,
+                "R": 0.0,
+                "I": 0.0,
+                "N": 0.0
+              },
+              "needs_review": false,
+              "flags": []
+            }
+          },
+          {
+            "item_no": 2,
+            "question": {
+              "value": "Alternative controls in place to manage risks while Safety Critical Device is defeated?",
+              "raw": "Alternative controls in place to manage risks while Safety Critical Device is defeated?",
+              "confidence": 0.954,
+              "engine": "tesseract",
+              "needs_review": false,
+              "flags": [],
+              "alternatives": []
+            },
+            "response": {
+              "value": "S",
+              "confidence": 1.0,
+              "scores": {
+                "S": 0.0194,
+                "R": 0.0,
+                "I": 0.0,
+                "N": 0.0
+              },
+              "needs_review": false,
+              "flags": []
+            }
+          },
+          {
+            "item_no": 3,
+            "question": {
+              "value": "Is there an emergency response plan during safety critical device defeat?",
+              "raw": "Is there an emergency response plan during safety critical device defeat?",
+              "confidence": 0.946,
+              "engine": "tesseract",
+              "needs_review": false,
+              "flags": [],
+              "alternatives": []
+            },
+            "response": {
+              "value": "N",
+              "confidence": 1.0,
+              "scores": {
+                "S": 0.0,
+                "R": 0.0,
+                "I": 0.0,
+                "N": 0.0202
+              },
+              "needs_review": false,
+              "flags": []
+            }
+          },
+          {
+            "item_no": 4,
+            "question": {
+              "value": "Safety critical device defeat/bypass is documented?",
+              "raw": "Safety critical device defeat/bypass is documented?",
+              "confidence": 0.943,
+              "engine": "tesseract",
+              "needs_review": false,
+              "flags": [],
+              "alternatives": []
+            },
+            "response": {
+              "value": "N",
+              "confidence": 1.0,
+              "scores": {
+                "S": 0.0,
+                "R": 0.0,
+                "I": 0.0,
+                "N": 0.0211
+              },
+              "needs_review": false,
+              "flags": []
+            }
+          },
+          {
+            "item_no": 5,
+            "question": {
+              "value": "Safety critical device defeat/bypass is communicated?",
+              "raw": "Safety critical device defeat/bypass is communicated?",
+              "confidence": 0.943,
+              "engine": "tesseract",
+              "needs_review": false,
+              "flags": [],
+              "alternatives": []
+            },
+            "response": {
+              "value": "R",
+              "confidence": 1.0,
+              "scores": {
+                "S": 0.0,
+                "R": 0.0188,
+                "I": 0.0,
+                "N": 0.0
+              },
+              "needs_review": false,
+              "flags": []
+            }
+          },
+          {
+            "item_no": 6,
+            "question": {
+              "value": "Have crane computer by-passes/alarms been tampered with or disabled?",
+              "raw": "Have crane computer by-passes/alarms been tampered with or disabled?",
+              "confidence": 0.948,
+              "engine": "tesseract",
+              "needs_review": false,
+              "flags": [],
+              "alternatives": []
+            },
+            "response": {
+              "value": "I",
+              "confidence": 1.0,
+              "scores": {
+                "S": 0.0,
+                "R": 0.0,
+                "I": 0.017,
+                "N": 0.0
+              },
+              "needs_review": false,
+              "flags": []
+            }
+          },
+          {
+            "item_no": 7,
+            "question": {
+              "value": "Tools equipped with built-in safety features? (spring loaded safety knives, deadman switches, etc.) And safety features not bypassed",
+              "raw": "Tools equipped with built-in safety features? (spring loaded safety knives, deadman switches, etc.) And safety features not bypassed",
+              "confidence": 0.949,
+              "engine": "tesseract",
+              "needs_review": false,
+              "flags": [],
+              "alternatives": []
+            },
+            "response": {
+              "value": "S",
+              "confidence": 1.0,
+              "scores": {
+                "S": 0.0199,
+                "R": 0.0,
+                "I": 0.0,
+                "N": 0.0
+              },
+              "needs_review": false,
+              "flags": []
+            }
+          },
+          {
+            "item_no": 8,
+            "question": {
+              "value": "Are tools with triggers being used properly? The trigger is not locked down",
+              "raw": "Are tools with triggers being used properly? The trigger is not locked down",
+              "confidence": 0.932,
+              "engine": "tesseract",
+              "needs_review": false,
+              "flags": [],
+              "alternatives": []
+            },
+            "response": {
+              "value": "S",
+              "confidence": 1.0,
+              "scores": {
+                "S": 0.0192,
+                "R": 0.0,
+                "I": 0.0,
+                "N": 0.0
+              },
+              "needs_review": false,
+              "flags": []
+            }
+          },
+          {
+            "item_no": 9,
+            "question": {
+              "value": "Are tools with guards and handles being used properly",
+              "raw": "Are tools with guards and handles being used properly",
+              "confidence": 0.933,
+              "engine": "tesseract",
+              "needs_review": false,
+              "flags": [],
+              "alternatives": []
+            },
+            "response": {
+              "value": "I",
+              "confidence": 1.0,
+              "scores": {
+                "S": 0.0,
+                "R": 0.0,
+                "I": 0.0184,
+                "N": 0.0
+              },
+              "needs_review": false,
+              "flags": []
+            }
+          }
+        ],
+        "expectation_questions": [
+          {
+            "question": "Has positive feedback provided?",
+            "response": {
+              "value": "no",
+              "confidence": 1.0,
+              "scores": {
+                "yes": 0.0,
+                "no": 0.0198,
+                "n/a": 0.0
+              },
+              "needs_review": false,
+              "flags": []
+            }
+          },
+          {
+            "question": "Has the job been stopped in the event of an imminent hazard?",
+            "response": {
+              "value": "no",
+              "confidence": 1.0,
+              "scores": {
+                "yes": 0.0,
+                "no": 0.0189,
+                "n/a": 0.0
+              },
+              "needs_review": false,
+              "flags": []
+            }
+          },
+          {
+            "question": "Has an investigation been conducted?",
+            "response": {
+              "value": "yes",
+              "confidence": 1.0,
+              "scores": {
+                "yes": 0.0205,
+                "no": 0.0,
+                "n/a": 0.0
+              },
+              "needs_review": false,
+              "flags": []
+            }
+          },
+          {
+            "question": "Have corrective actions been taken?",
+            "response": {
+              "value": "no",
+              "confidence": 1.0,
+              "scores": {
+                "yes": 0.0,
+                "no": 0.0187,
+                "n/a": 0.0
+              },
+              "needs_review": false,
+              "flags": []
+            }
+          }
+        ],
+        "comments": {
+          "value": "Great teamwork and performance.",
+          "raw": "Great teamwork and performance .",
+          "confidence": 0.998,
+          "engine": "trocr:microsoft/trocr-small-handwritten",
+          "needs_review": false,
+          "flags": [],
+          "alternatives": []
+        }
+      },
+      "review_fields": [],
+      "processing_ms": 28809
+    },
+    {
+      "page_number": 4,
+      "page_sha1": "744c2bba26e2079d0941a76ca474ccee0a2e0b10",
+      "status": "rejected",
+      "rejection_reason": "void_marker_in_text_layer:failed_test",
+      "quality": {
+        "ink_ratio": 0.0161,
+        "blur_score": 210.3,
+        "deskew_angle_deg": 0.0,
+        "rotation_applied_deg": 0,
+        "grid_h_lines": 0,
+        "grid_v_lines": 0,
+        "anchors_found": [],
+        "warnings": []
+      },
+      "form": null,
+      "review_fields": [],
+      "processing_ms": 69
+    }
+  ]
+}

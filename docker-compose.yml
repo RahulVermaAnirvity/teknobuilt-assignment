@@ -1,0 +1,68 @@
+# Full stack in containers - nothing installed on the host except Docker.
+#
+#   docker compose up --build            -> http://localhost:8501
+#   PAGE_WORKERS=4 docker compose up     -> more pages processed at a time
+#   docker compose up -d redis           -> only the Redis broker (for a local, non-Docker setup)
+#
+# API keys: put GEMINI_API_KEY=... in .env (optional; see .env.example). The file is read
+# at runtime and never copied into the image.
+
+x-app: &app
+  build: .
+  image: teknobuilt-assignment:latest
+  env_file:
+    - path: .env
+      required: false
+  environment:
+    CELERY_BROKER_URL: redis://redis:6379/0     # overrides any localhost URL from .env
+    UPLOAD_DIR: /app/data/uploads
+  volumes:
+    - uploads:/app/data/uploads                 # uploads shared between app and workers
+  depends_on:
+    redis:
+      condition: service_healthy
+
+services:
+  redis:
+    image: redis:7.4-alpine
+    container_name: teknobuilt-redis
+    ports:
+      - "127.0.0.1:6379:6379"                   # local machine only
+    command: ["redis-server", "--appendonly", "yes"]   # queued pages survive a Redis restart
+    volumes:
+      - redis-data:/data
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 3s
+      retries: 5
+    restart: unless-stopped
+
+  worker:
+    <<: *app
+    container_name: teknobuilt-worker
+    working_dir: /app/task1_form_digitization
+    command: >
+      celery -A form_pipeline.tasks worker --pool=prefork
+      --concurrency=${PAGE_WORKERS:-2} --prefetch-multiplier=1 --loglevel=INFO -n page-worker@%h
+    environment:
+      CELERY_BROKER_URL: redis://redis:6379/0
+      UPLOAD_DIR: /app/data/uploads
+      PIPELINE_TORCH_THREADS: "2"
+    restart: unless-stopped
+
+  app:
+    <<: *app
+    container_name: teknobuilt-app
+    ports:
+      - "8501:8501"
+    depends_on:
+      redis:
+        condition: service_healthy
+      worker:
+        condition: service_started
+    restart: unless-stopped
+
+volumes:
+  redis-data:
+  uploads:

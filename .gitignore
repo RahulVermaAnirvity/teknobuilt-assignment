@@ -1,0 +1,16 @@
+# secrets - API keys live only in your local .env (template: .env.example)
+.env
+
+# virtual environments
+.venv/
+venv/
+
+# python
+__pycache__/
+*.pyc
+
+# runtime state
+.celery/
+data/
+outputs/.*.log
+*.log

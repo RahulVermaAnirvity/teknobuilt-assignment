@@ -1,0 +1,144 @@
+{
+  "pseudo_gold": 328,
+  "retrieval": [
+    {
+      "method": "semantic only",
+      "w_semantic": 1.0,
+      "w_bm25": 0.0,
+      "top1": 0.762,
+      "top5_recall": 0.939
+    },
+    {
+      "method": "hybrid 1:0.3",
+      "w_semantic": 1.0,
+      "w_bm25": 0.3,
+      "top1": 0.75,
+      "top5_recall": 0.93
+    },
+    {
+      "method": "hybrid 1:0.5",
+      "w_semantic": 1.0,
+      "w_bm25": 0.5,
+      "top1": 0.744,
+      "top5_recall": 0.921
+    },
+    {
+      "method": "hybrid 1:1",
+      "w_semantic": 1.0,
+      "w_bm25": 1.0,
+      "top1": 0.735,
+      "top5_recall": 0.918
+    },
+    {
+      "method": "BM25 only",
+      "w_semantic": 0.0,
+      "w_bm25": 1.0,
+      "top1": 0.659,
+      "top5_recall": 0.896
+    }
+  ],
+  "auto_accept_curve": [
+    {
+      "threshold": 0.7,
+      "auto_accepted": 95,
+      "coverage": 0.29,
+      "precision": 0.968
+    },
+    {
+      "threshold": 0.75,
+      "auto_accepted": 73,
+      "coverage": 0.223,
+      "precision": 0.986
+    },
+    {
+      "threshold": 0.8,
+      "auto_accepted": 56,
+      "coverage": 0.171,
+      "precision": 0.982
+    },
+    {
+      "threshold": 0.85,
+      "auto_accepted": 45,
+      "coverage": 0.137,
+      "precision": 0.978
+    },
+    {
+      "threshold": 0.9,
+      "auto_accepted": 26,
+      "coverage": 0.079,
+      "precision": 0.962
+    },
+    {
+      "threshold": 0.95,
+      "auto_accepted": 9,
+      "coverage": 0.027,
+      "precision": 0.889
+    }
+  ],
+  "configured": {
+    "w_semantic": 1.0,
+    "w_bm25": 0.0,
+    "auto_accept_sim": 0.8
+  },
+  "llm": {
+    "held_out": 40,
+    "models": "gemini + gemini:gemini-flash-lite-latest",
+    "answered": 40,
+    "uncertain": 0,
+    "accuracy_when_labelled": 0.825,
+    "high_confidence": 25,
+    "precision_high_confidence": 0.96,
+    "retrieval_top1_same_items": 0.725,
+    "errors": [
+      {
+        "activity": "Directional drilling launch pits, machinery alignment",
+        "expected": "Civil :: Underground Dry Utilities",
+        "llm": "Civil :: Foundation Works",
+        "confidence": "medium",
+        "reason": "Drilling and excavation pits align with civil foundation or earthworks."
+      },
+      {
+        "activity": "Cabling - Earthing",
+        "expected": "Electrical :: Rough-In",
+        "llm": "Electrical :: Cable Pulling",
+        "confidence": "medium",
+        "reason": "Earthing cabling works align with electrical cable pulling."
+      },
+      {
+        "activity": "COLO1&3 - WHR Supports - GL1",
+        "expected": "Structural :: Exterior Equipment Steel",
+        "llm": "Civil :: Underground Wet Utilities",
+        "confidence": "low",
+        "reason": "Waste heat recovery pipe supports are linked to underground wet utility systems."
+      },
+      {
+        "activity": "Install Containment Gantry Steel",
+        "expected": "Structural :: Miscellaneous",
+        "llm": "Structural :: Exterior Equipment Steel",
+        "confidence": "medium",
+        "reason": "Gantry and support steel structures are classified under exterior equipment steel."
+      },
+      {
+        "activity": "WiFi Install",
+        "expected": "Telecommunications :: Digital Antenna System / Radio Over IP",
+        "llm": "Telecommunications :: Miscellaneous",
+        "confidence": "high",
+        "reason": "Wi-Fi hardware installation is telecommunications miscellaneous work."
+      },
+      {
+        "activity": "Cable pulls",
+        "expected": "Telecommunications :: Production Fiber",
+        "llm": "Electrical :: Cable Pulling",
+        "confidence": "medium",
+        "reason": "Cable pulling activity across telecommunications or electrical domain."
+      },
+      {
+        "activity": "UGS Install - Back Fill COLO5 Cell 1",
+        "expected": "Civil :: Miscellaneous",
+        "llm": "Civil :: Underground Wet Utilities",
+        "confidence": "medium",
+        "reason": "Underground services backfilling works."
+      }
+    ]
+  }
+}

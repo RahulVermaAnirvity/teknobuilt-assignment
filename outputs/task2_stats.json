@@ -1,0 +1,20 @@
+{
+  "rows": 4499,
+  "unique_names": 741,
+  "unique_keys_after_normalisation": 374,
+  "dedup_reduction": "91.7%",
+  "keys_by_source": {
+    "rule": 328,
+    "llm": 38,
+    "unresolved": 8
+  },
+  "rows_by_source": {
+    "rule": 3917,
+    "llm": 526,
+    "unresolved": 56
+  },
+  "rows_needing_review": 353,
+  "retrieval_index_size": 328,
+  "llm_items_sent": 46,
+  "llm_models": "gemini + gemini:gemini-flash-lite-latest"
+}

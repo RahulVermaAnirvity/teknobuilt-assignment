@@ -1,0 +1,36 @@
+# Exact versions this project was developed and tested with (Python 3.11).
+# Install into an isolated virtual environment - see README "Setup".
+#
+# CPU-only PyTorch wheels (~200 MB instead of ~2 GB of CUDA libraries):
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+# --- Task 1: form digitisation -------------------------------------------------
+pymupdf==2.0                     # PDF rendering
+opencv-python-headless==4.9.0.80 # image processing (headless: no GUI system libs needed)
+numpy==1.26.4
+pytesseract==0.3.13              # + the Tesseract 5 binary (system package, see README)
+pydantic==2.14.2
+pillow==10.3.0
+torch==2.15.0                    # TrOCR handwriting model (CPU)
+transformers==4.57.6             # pinned <5: TrOCR outputs were validated on 4.57
+tokenizers==0.22.2
+sentencepiece==0.2.2
+
+# --- Task 1: parallel page processing ----------------------------------------
+celery==5.6.3
+kombu==5.6.2
+redis==8.1.0                     # Redis broker client (docker compose / CELERY_BROKER_URL)
+SQLAlchemy==2.0.44               # result store for the zero-setup local broker
+
+# --- Task 2: P6 classification (hybrid RAG) ------------------------------------
+pandas==2.3.0
+scikit-learn==1.6.1
+sentence-transformers==5.7.0     # embeddings; v6 would pull transformers 5 (breaks the pin above)
+rank-bm25==0.2.2
+
+# --- AI providers (optional at runtime; only used when a key is configured) -----
+google-genai==2.34.0             # Gemini: Task 1 VLM escalation + Task 2 RAG
+anthropic==2.3.0                 # Claude alternative / Batch API path
+
+# --- Demo console ----------------------------------------------------------------
+streamlit==1.54.0
