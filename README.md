@@ -11,6 +11,23 @@ console that runs them:
 | 2 | **P6 Schedule Batch Classification** (activities → Discipline / Sub-Discipline) | Architecture document (this README) **plus** a working hybrid-RAG classifier and an evaluation harness | 4,499 rows → 374 unique activities → **92.2% of rows auto-classified**, the rest routed to review; never outside the 41-label rubric |
 | – | **Demo console** | Streamlit app (`app.py`) in Teknobuilt branding: run both tasks, inspect evidence, review queue, robustness lab | `docker compose up` → http://localhost:8501 |
 
+### Assignment requirements → where each is answered
+
+| The brief asks for… | Where it's answered |
+|---|---|
+| *Overview:* resilient systems, messy physical-world data, performance **and** cloud-API cost | §6.4 design decisions, §6.8 resilience, §6.12 throughput, §7.5 cost |
+| *Submission:* source code, the requested outputs, and a README explaining architectural choices | this repository · `outputs/` (§3.5) · this README |
+| *API costs:* if a paid API is mocked, document **exactly** how it would be configured (system prompts, structured-output schemas, parameters) | Task 1: §6.11 (verbatim prompt, schema, parameters, example call) · Task 2: §7.7 (verbatim prompt, schema, parameters, example request and response). Gemini runs **live** on its free tier; the Claude paths are fully configured and documented the same way |
+| **Task 1, Deliverable 1:** Python extraction script that processes the sample PDF | `task1_form_digitization/run_pipeline.py` (§3.2), code map §5, per-field method §6.6 |
+| **Task 1, Deliverable 2:** structured JSON (Date, Observer, Checkbox States, Safety Comments) | `outputs/task1_output.json` · results §6.2 · full format reference + flag glossary §6.7 |
+| **Task 1, Deliverable 3:** resilience strategy for "garbage" inputs (blank, muddy, corrupted pages) that prevents crashes and hallucinated data | §6.8, proven by the stress test in §6.9 |
+| Task 1 challenges: skewed pages, dirty/muddy forms, crossed-out text, folded forms, construction slang, corrupted/failed test forms, the master template | §6.8 (each threat → defence → outcome) · slang §6.10 · template usage §6.4 · folds §6.13 |
+| **Task 2:** analyse Activity Name and assign Discipline / Sub-Discipline from the strict taxonomy; the AI cannot invent categories | `task2_p6_classification/` · §7 |
+| **Task 2, Deliverable 1:** scalable batch-processing pipeline for tens of thousands of rows | §7.3 (architecture + scaling) · implementation §7.6 |
+| **Task 2, Deliverable 2:** guarantee the AI selects only from the rubric | §7.4 (five enforcement layers) · exact enum schema §7.7 |
+| **Task 2, Deliverable 3:** reduce API cost and latency without expensive per-row reasoning calls, while keeping accuracy high | §7.5 (levers, measured retrieval/RAG accuracy, cost model) |
+| Task 2 *(optional)* proof-of-concept script | built and measured: `classify_schedule.py`, `evaluate.py`, results §7.5, examples §7.8 |
+
 ---
 
 ## Contents
@@ -378,7 +395,82 @@ text at ~95% confidence but fails on handwriting (`2024-70-02`, `John Davie`). T
 correctly. Gemini is called only for fields that fail the local gate, with a crop of about
 600×80 px.
 
-### 6.5 Resilience strategy: handling "garbage" inputs
+### 6.5 Technology choices
+
+| Component | Choice | Why | Considered and rejected |
+|---|---|---|---|
+| PDF rendering | **PyMuPDF** (200 dpi greyscale) | fast, no system dependencies, exposes the PDF **text layer** (that's how a digital "FAILED TEST FORM" stamp is detected) | pdf2image (needs Poppler) |
+| Image processing | **OpenCV** | morphology for rule extraction, Hough for deskew, connected components for ink | – |
+| Printed text | **Tesseract 5** | free, local, ~95% confidence on the printed labels and questions | cloud OCR: cost per page, data leaves the site |
+| Handwriting | **TrOCR-small** (`microsoft/trocr-small-handwritten`, open source, CPU) | read every handwritten sample field correctly; returns top-k beams, which enables the ambiguity check | Tesseract (`2024-70-02`, `John Davie`); cloud document AI (cost); a VLM per field (cost, hallucination risk) |
+| Checkboxes | **Ink-density measurement** | deterministic, explainable, free; decided relative to sibling boxes | a vision model ("is this ticked?"): slower, costlier, not auditable |
+| Output contract | **pydantic** models (`schema.py`) | every page is validated against one schema before it's written | free-form dicts |
+| Escalation VLM | **Gemini Flash-Lite** (free tier, JSON-schema output); **Claude Opus 5.5** alternative | only for flagged handwritten crops; structured output, `null` allowed | whole-page VLM extraction |
+| Parallelism | **Celery + Redis** | standard Python task queue: acks-late redelivery, time limits, horizontal scaling across machines | `multiprocessing` (single machine, no persistence or redelivery) |
+| UI | **Streamlit** | review queue and robustness lab in pure Python | a separate React front end (more code, same value for a prototype) |
+| Packaging | **Docker Compose** | reviewer needs only Docker; Tesseract and the models are baked into the image | – |
+
+### 6.6 Field-by-field extraction (how each output field is produced)
+
+| Output field | How it's located on the page | How it's read | How it's validated |
+|---|---|---|---|
+| `observation_date` | OCR finds the printed label *Observation*; value = the ruled cell to its right (vertical bounds taken from the label cell, so a strike-through can't fake a rule) | TrOCR, top-2 beams | parsed in 8 formats → ISO `YYYY-MM-DD`; must fall in 2000…today; day/month-ambiguous (`03/04/2024`) is **not** guessed |
+| `observer`, `company_observed` | label *Observer* / *Company* → cell to the right | TrOCR | name-like characters only; trailing OCR punctuation stripped |
+| `timesheet_number`, `employee_number` | label *Timesheet* / *Employee* → cell to the right | TrOCR | 3–10 digits; letter→digit fixes (`O→0`, `S→5`) are applied but flagged `char_substitution` |
+| `location_cwa` | label *Location (CWA)* → walk the two ruled rows of (code cell, box cell) pairs | box: ink density · code: Tesseract, checked against `{1000…8000, 5000…7000, OSLD}`, template order as fallback | normally one box; two ticked boxes → both returned and flagged `multiple_marks` |
+| `shift` | printed words *Day* / *Night* → the box right of each | ink density | exactly one must be marked |
+| `checklist_title` | the full-width cell above the *Safe / At Risk / …* legend row | Tesseract | snapped to the registry of known form types; an unknown title → `unknown_form_type` |
+| `checklist[]` | legend cell (*Safe*) → the 4 response columns S/R/I/N to its right; rows walked downward until the ruled table ends (works for 8, 9 … 15 rows) | question: Tesseract · answer: ink density per S/R/I/N box | single-select (winner ≥ 2.5× runner-up); each answer box must overlap its question row ≥ 70% |
+| `expectation_questions[]` | header *CCZJV Expectation Questions* → Yes/No/N/A columns; rows identified **by their printed question text**, not by position | ink density | all 4 canonical questions are always emitted; a missing row → `question_row_not_found` |
+| `comments` | label *Comments:* → the region below it in the same cell | TrOCR, split into lines | free text, whitespace cleaned; an empty box is legitimate (no review needed) |
+
+### 6.7 Output JSON reference and flag glossary
+
+**Top level:** `source_file`, `pipeline_version`, `engines` (what read what, plus execution mode),
+`processed_at`, `summary {pages_total, ok, needs_review, rejected, error}`, `pages[]`.
+
+**Per page:**
+
+| Key | Meaning |
+|---|---|
+| `page_number`, `page_sha1` | 1-based page number; hash of the rendered page (duplicate detection) |
+| `status` | `ok`: every field accepted · `needs_review`: data extracted, ≥ 1 field (or a quality warning) needs a human · `rejected`: refused by the quality gate, **no data emitted** · `error`: unreadable / unexpected failure, no data |
+| `rejection_reason` | why a page was rejected or errored (see glossary) |
+| `quality` | `ink_ratio`, `blur_score`, `deskew_angle_deg`, `rotation_applied_deg`, `grid_h_lines`, `grid_v_lines`, `anchors_found`, `warnings` |
+| `form` | the extracted data (null when rejected) |
+| `review_fields` | the exact fields a reviewer must look at |
+| `processing_ms` | time spent on the page |
+
+**Text fields** (`TextField`): `value` (validated; null if not trustworthy), `raw` (what the
+engine actually read), `confidence` (0–1), `engine` (`trocr:…`, `gemini:…`, `tesseract`,
+`human`), `needs_review`, `flags`, `alternatives` (competing readings shown to the reviewer).
+
+**Checkbox groups** (`ChoiceResult`): `value` (`S/R/I/N`, `yes/no/n/a`, `day/night`, CWA code),
+`confidence`, `scores` (ink fraction per box, for audit), `needs_review`, `flags`.
+
+**Flag glossary:**
+
+| Flag / reason | Meaning |
+|---|---|
+| `void_marker_in_text_layer:*` | page carries a digital VOID / FAILED TEST stamp |
+| `blank_page` · `form_grid_not_found` · `form_labels_not_found` | page refused: empty · no ruled table · not this form |
+| `duplicate_of_page_N` | identical scan of an earlier page |
+| `blurry_scan` · `heavy_noise_or_dark_scan` *(page warnings)* | degraded scan; no handwriting is auto-accepted on such a page |
+| `low_confidence` | engine confidence below the acceptance gate (0.80 handwriting / 0.60 printed) |
+| `ambiguous_reading` | TrOCR's second-best reading is materially different and ≥ 80% as likely |
+| `degraded_scan` | field read on a blurry/noisy page |
+| `strikethrough_detected` | a pen stroke crosses the written entry |
+| `unparseable_date` · `date_out_of_range` · `ambiguous_day_month` | date validation failures |
+| `not_a_number` · `char_substitution` · `unexpected_characters` | ID / name validation failures or repairs |
+| `empty` | nothing written (legitimate for comments) |
+| `cell_not_found` · `no_boxes_located` · `shift_box_missing` | the layout step couldn't locate a field |
+| `no_mark` · `multiple_marks` · `secondary_ink` · `box_filled_or_scribbled` | checkbox outcomes: none ticked · no clear winner · stray ink beside a clear winner · box blacked out |
+| `row_alignment_failed` · `question_row_not_found` | table rows couldn't be matched safely |
+| `unknown_form_type` | checklist title not in the form registry |
+| `engines_agree` · `engines_disagree` · `vlm_only` · `vlm_could_not_read` · `vlm_unavailable` · `escalated_from:*` | VLM escalation outcomes (§6.11) |
+| `human_corrected` | value set in the console's review queue |
+
+### 6.8 Resilience strategy: handling "garbage" inputs (deliverable 3)
 
 The guiding rule: **a wrong value that looks right is worse than a missing value.**
 Every stage can refuse, and refusal is data, never an exception.
@@ -403,7 +495,7 @@ Every stage can refuse, and refusal is data, never an exception.
 | A bug on one odd page | top-level per-page `except` | `status: error` with the exception text; never a crash |
 | VLM hallucination | one cropped field only; schema allows `legible:false, text:null`; answer re-enters the same validators; accepted only on agreement | a VLM can't bypass validation |
 
-### 6.6 Stress test (proof of the resilience strategy)
+### 6.9 Stress test (proof of the resilience strategy)
 
 `stress_test.py` degrades the sample pages synthetically and compares with the clean
 extraction. A case **passes** if every field either matches the clean run or is
@@ -436,34 +528,92 @@ than by tuning thresholds to the test:
 * noise pages spent minutes in OCR → cheap grid check moved ahead of OCR;
 * dirt specks counted as ticks → connected-component stroke filter.
 
-### 6.7 Vision-model escalation: exact configuration
+### 6.10 Construction slang and abbreviations
 
-`form_pipeline/vlm.py`. Only handwritten fields still `needs_review` after local reading
-are escalated, so clean scans cost zero or a couple of calls per page.
+Field forms are full of shorthand: company abbreviations, crew nicknames, "HH stickers",
+"CSE", "O&I". The pipeline handles it without "correcting" anything:
 
-* **Gemini (default):** `google-genai` → `models.generate_content(...)`,
-  `response_mime_type="application/json"`, `response_json_schema=FIELD_SCHEMA`,
-  `temperature=0`, 45 s timeout. Models are tried in order
-  (`gemini-flash-lite-latest` → `gemini-flash-latest` → `gemini-3.8-flash`). An overloaded
-  model is skipped; quota exhaustion (429) stops escalation and the field stays flagged.
-  Measured: ~1,200 input / ~45 output tokens and 2–7 s per field. The key is passed
-  explicitly, so a stray `GOOGLE_API_KEY` can't override it.
-* **Claude (alternative):** `claude-opus-5-5` via `client.beta.messages.create`,
-  `output_config={"effort": "low", "format": {"type": "json_schema", ...}}`, server-side
-  refusal fallback enabled.
-* **System prompt (summary):** transcribe verbatim; don't correct, guess or infer from
-  context; ignore struck-through text; if illegible or empty return
-  `legible:false, text:null` ("null is always preferable to a guess").
-* **Output schema:** `{text: string|null, legible: bool, struck_through_present: bool,
-  confidence: high|medium|low}`, `additionalProperties: false`.
-* **Acceptance policy: the VLM is a second reader, not an oracle.**
-  * If it agrees with TrOCR's reading (or TrOCR's runner-up), it's accepted (`engines_agree`).
-  * If TrOCR's reading was invalid and the VLM is highly confident on a non-degraded page,
-    it's accepted and tagged `vlm_only` for audit.
-  * Anything else (disagreement, low confidence, crossed-out text) goes to human review,
-    with both readings shown.
+* **No spell-correction or dictionary snapping on handwritten fields.** TrOCR's output is kept
+  as read; validators check only the *type* (date, digits, name-like characters), never the
+  vocabulary, so a valid slang term is never rewritten into a different, plausible word.
+* **Printed text that has a closed vocabulary is snapped to it**: the checklist title is
+  matched against the form registry, and the CCZJV questions against their fixed wording. That
+  fixes OCR noise there without touching free text.
+* **The VLM prompt says so explicitly:** *"Construction slang and abbreviations are expected;
+  keep them verbatim."*
+* **Task 2** handles the schedule-side jargon (VESDA, NPW, LTHW, UGS, HAC, DHW/DCW…) with a
+  domain abbreviation dictionary that expands names before retrieval (§7.6).
 
-### 6.8 Throughput: one page per Celery task
+### 6.11 Vision-model escalation: exact API configuration
+
+Implemented in `form_pipeline/vlm.py`. Only **handwritten fields still `needs_review` after
+local reading** are escalated, one small crop each (~600×80 px PNG), so clean scans cost zero
+or a couple of calls per page. Gemini runs live on its free tier; the Claude path is fully
+implemented with identical prompt and schema.
+
+**System prompt (verbatim, both providers):**
+
+```text
+You transcribe single handwritten fields cropped from construction-site safety observation
+forms. Rules:
+- Transcribe exactly what is written. Do not correct spelling, guess missing characters, or
+  infer values from context.
+- Ignore any text that has been crossed out / struck through; transcribe only the final
+  intended entry. Set struck_through_present=true if you saw crossed-out text.
+- If the writing is illegible, obscured (mud, folds, stains) or the box is empty, set
+  legible=false and text=null. Returning null is always preferable to a guess.
+- Construction slang and abbreviations are expected; keep them verbatim.
+```
+
+**User message:** the PNG crop + `Field: <name> (expected: <hint>). Transcribe it.`. Hints:
+`observation_date` → "a calendar date", `observer` → "a person's name", `company_observed` →
+"a company name", `timesheet_number` / `employee_number` → "a numeric … number", `comments`
+→ "a short free-text safety comment".
+
+**Structured-output schema (`FIELD_SCHEMA`):**
+
+```json
+{
+  "type": "object",
+  "properties": {
+    "text":                   {"type": ["string", "null"], "description": "Verbatim transcription, or null"},
+    "legible":                {"type": "boolean"},
+    "struck_through_present": {"type": "boolean"},
+    "confidence":             {"type": "string", "enum": ["high", "medium", "low"]}
+  },
+  "required": ["text", "legible", "struck_through_present", "confidence"],
+  "additionalProperties": false
+}
+```
+
+**Request parameters:**
+
+| | Gemini (default, live) | Claude (alternative) |
+|---|---|---|
+| SDK call | `google-genai`: `client.models.generate_content(model, contents=[image_part, text], config)` | `anthropic`: `client.beta.messages.create(...)` |
+| Model | `gemini-flash-lite-latest` → fallback `gemini-flash-latest` → `gemini-3.8-flash` (`GEMINI_MODELS`) | `claude-opus-5-5` (`VLM_MODEL`) |
+| Output constraint | `response_mime_type="application/json"`, `response_json_schema=FIELD_SCHEMA` | `output_config={"effort": "low", "format": {"type": "json_schema", "schema": FIELD_SCHEMA}}` |
+| Sampling / effort | `temperature=0` | `effort: "low"` (single-field transcription needs little reasoning) |
+| Limits | 45 s timeout (`VLM_TIMEOUT_S`), no SDK auto-retry; next model on failure | `max_tokens=1024`, timeout 60 s, `max_retries=3` |
+| Safety net | 429 quota → stop escalating (field stays flagged) | `betas=["server-side-fallback-2026-07-01"]`, `fallbacks="default"`; `refusal` / `max_tokens` stop → field stays flagged |
+| Key handling | `GEMINI_API_KEY` passed explicitly (a stray `GOOGLE_API_KEY` can't override it) | `ANTHROPIC_API_KEY` |
+| Measured cost | ~1,200 input / ~45 output tokens, 2–7 s per field (free tier) | – |
+
+**Example response:** `{"text": "49012", "legible": true, "struck_through_present": false, "confidence": "high"}`
+
+**Acceptance policy: the VLM is a second reader, not an oracle.** The answer goes back through
+the *same* validators as TrOCR's reading, then:
+* it **agrees** with TrOCR's reading or with TrOCR's runner-up beam → two independent engines
+  agree → accepted (`engines_agree`);
+* TrOCR's reading was invalid, the VLM is `high` confidence and the page isn't degraded →
+  accepted but tagged `vlm_only` for audit;
+* anything else (the engines **disagree**, low confidence, crossed-out text) → human review,
+  with both readings kept in `alternatives`.
+
+Every failure (overload, timeout, quota, refusal, empty or invalid JSON) leaves the field
+flagged; it never raises and never fills the field with a guess.
+
+### 6.12 Throughput: one page per Celery task
 
 **Rule: speed must never cost accuracy.** Nothing about *how* a page is read was changed:
 no coarser OCR, smaller images or batching that could alter model outputs. Pages run
@@ -490,7 +640,7 @@ extracted value is identical** to the Windows run (all answers, text, handwritte
 statuses); only Tesseract's printed-text confidence scores differ by ≤ 0.03 between the
 Windows and Debian builds of Tesseract 5.5.
 
-### 6.9 Limitations and next steps
+### 6.13 Limitations and next steps
 
 * **Calibration needs real data.** Thresholds were tuned on 3 clean forms plus synthetic
   damage. A few hundred labelled real scans would calibrate the gates per field (target
@@ -663,7 +813,178 @@ tier the sample costs nothing.
   the same mistake isn't repeated. Frequent LLM answers are promoted to rules, and a rule
   that keeps getting overridden is demoted to a hint.
 
-### 7.6 Examples
+### 7.6 Implementation details
+
+**Normalisation → canonical keys** (`normalize.py`). Lower-case; fix recurring typos
+(`containmnet`, `temination`, `secuirty`, `copmound`, `pipwork`, `fibre→fiber`, …); remove
+location and sequencing tokens that don't change *what the work is*: `COLO1&3`, `Cell 2`,
+`CE4`, `GL 15-22`, `(GL: Y1-Y7)`, `Zone F`, `HEL16`, `MMR1`, `(1/2)`, `Part 2/2`,
+`East/West Side`, room codes (`FCR`, `FOC`, `IDF`, `SER`, `SOC`, `Secure Store II`), pole
+ranges, tank volumes, `#2`. Tokens that **do** carry classification signal are deliberately
+kept: `GPC01`, `TX/LBP01`, `UMS` (equipment pads) and `Level 1/2` (elevated vs. ground slab).
+Key = `client_prefix|canonical_name`, so a generic name such as `Testing` stays separate
+per trade.
+
+**Tier 1, keyword rules** (`rules.py`). About 45 ordered regular expressions, each bound
+to a label through the validating `label()` constructor, with a confidence and an optional
+client-prefix restriction (used only for context-free names like `Testing`, `Dressing`,
+`Cable pulls`). Confidence ≥ 0.85 → accepted; lower → passed to the LLM as a `rule_hint`.
+Order matters and was audited key by key: e.g. `Snow Hoods & Dampers` must hit *Exterior
+Finishes* before the HVAC `dampers` rule, and `Primary Containment - Drops` must hit
+*Cable Trays Drops* before *Cable Trays Main*.
+
+**Tier 2, hybrid retrieval** (`retrieval.py`).
+* Index: every activity labelled by the cache or an accepted rule (328 on the sample).
+  Document text = `client_prefix + canonical name + abbreviation expansions`
+  (VESDA → "very early smoke detection fire alarm", NPW → "non potable water pipe", LTHW,
+  DHW/DCW, UGS, HAC, AHU/ACU, LV/MV, BMS/BAS, EPMS, WHR, …).
+* Semantic: `sentence-transformers/all-MiniLM-L6-v2` (384-d, normalised, cosine). Lexical:
+  BM25 (`rank_bm25.BM25Okapi`). Fusion: weighted reciprocal-rank fusion,
+  `w_sem/(60+rank_sem) + w_bm25/(60+rank_bm25)` (weights 1.0 / 0.0 as measured, §7.5).
+* Output per activity: top-5 neighbours (name, client prefix, label, similarity) and
+  candidate labels (rank-weighted vote).
+* **Auto-accept** only if the top-3 neighbours all share one label **and** the activity's
+  client prefix, **and** the best cosine ≥ 0.80. Otherwise the neighbours become the LLM's
+  evidence.
+
+**Tier 3/4, LLM with retrieved evidence** (`llm.py`). Residual activities are sent 30 per
+request, each with its evidence (§7.7). Decision mapping: `high` → accepted (confidence 0.90);
+`medium` (0.75) / `low` (0.50) → label kept as a *suggestion* and the row flagged for review;
+`UNCERTAIN` → review (a rule hint, if any, is kept as the suggestion). Items that are unsure
+after the first pass go to a stronger model; if it is `high`, or agrees with the first
+model, the answer is accepted. Missing or invalid answers are retried once, then left for
+review.
+
+**Output columns** (`outputs/task2_classified.csv`):
+
+| Column | Meaning |
+|---|---|
+| `Activity ID`, `Activity Name` | as supplied |
+| `Discipline`, `Sub-Discipline` | always a valid rubric pair, or empty when unresolved |
+| `confidence` | rule confidence · cosine similarity (retrieval) · 0.90 / 0.75 / 0.50 (LLM high / medium / low) |
+| `source` | `cache` · `rule` · `retrieval` · `llm` · `rule_hint` (unconfirmed suggestion) · `unresolved` |
+| `matched_by` | the *why*: rule id, the agreeing neighbours, or `gemini:<model>: <reason>` |
+| `needs_review` | `True` → a human should confirm (suggestion + reason + evidence are provided) |
+| `evidence` | the top-3 retrieved labelled activities with their labels and similarity |
+| `prefix`, `norm` | client prefix and canonical name (the dedup key) |
+
+### 7.7 Exact LLM configuration (system prompt, schema, parameters)
+
+Gemini runs **live** (free tier). The Claude Message Batches path is fully implemented and
+generates the exact payloads in `outputs/task2_llm_batch_requests.jsonl`.
+
+**System prompt (verbatim, generated from `taxonomy.py`):**
+
+```text
+You classify construction schedule activities (Primavera P6, data-centre projects) into a fixed
+Discipline / Sub-Discipline taxonomy.
+
+TAXONOMY (the only permitted answers):
+- Architectural: Acoustical Ceiling Tile; Exterior Finishes; Hot Aisle Containment; Interior Finishes; Miscellaneous
+- Building Automation System: Pull, Test and Terminate
+- Civil: Exterior Equipment Pad; Foundation Works; Miscellaneous; Slab on Grade; Underground Dry Utilities; Underground Wet Utilities
+- Electrical: Cable Pulling; Cable Termination; Cable Trays Drops; Cable Trays Main; Miscellaneous; Rough-In
+- Fire Alarm: Pull, Test and Terminate
+- Fire Protection: Installation
+- Landscape: Miscellaneous
+- Mechanical: Exterior Installation; Rough-In
+- Plumbing: Rough-In
+- Security: Pull, Test and Terminate
+- Structural: Envelope; Exterior Equipment Steel; Miscellaneous
+- Telecommunications: Basket Tray Main; Digital Antenna System / Radio Over IP; Miscellaneous; Production Fiber
+
+Each input activity comes with evidence:
+- `similar_examples`: previously classified activities from the same programme, most similar
+  first, with their verified label and a similarity score (0-1). Use them as precedent, but
+  they are only similar, not identical - check the actual wording.
+- `candidate_labels`: the labels those examples vote for. The answer is often among them,
+  but you may choose any taxonomy label.
+- `client_prefix` (ARC, CON, ELE, MEC, SEC, TELE ...): the client's own discipline code. It is
+  frequently wrong; use it only to disambiguate generic names such as "Testing" or "Cabling".
+- `rule_hint`: a low-confidence keyword-rule suggestion. It may be wrong.
+
+How to decide:
+- Classify by the physical work described, not by who the client assigned it to.
+- Containment / cable tray is Electrical (main tray = Cable Trays Main, drops/secondary =
+  Cable Trays Drops) unless it is telecom basket tray.
+- Below-ground services (foul, storm, potable water, MV/LV ducts) are Civil underground
+  utilities; above-ground building services are Plumbing / Mechanical / Electrical.
+- Elevated concrete (upper-level slabs, cores, walls) is Structural; ground-bearing slabs
+  are Civil Slab on Grade.
+- If the name is too vague to classify with reasonable confidence (e.g. an unexplained
+  acronym, or "Fit-Out" with no trade), answer UNCERTAIN. Never invent a category.
+- `confidence`: "high" only if you would bet on it; otherwise "medium" or "low".
+- `reason`: at most 15 words.
+
+Return exactly one result per input `key`.
+```
+
+**Structured-output schema (`OUTPUT_SCHEMA`):** the `label` enum is generated from the
+taxonomy, so it contains exactly the 41 `"Discipline :: Sub-Discipline"` strings plus
+`"UNCERTAIN"`:
+
+```json
+{
+  "type": "object",
+  "properties": {
+    "results": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "key":        {"type": "string"},
+          "label":      {"type": "string", "enum": ["Architectural :: Acoustical Ceiling Tile", "…41 pairs…", "Telecommunications :: Production Fiber", "UNCERTAIN"]},
+          "confidence": {"type": "string", "enum": ["high", "medium", "low"]},
+          "reason":     {"type": "string"}
+        },
+        "required": ["key", "label", "confidence", "reason"],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": ["results"],
+  "additionalProperties": false
+}
+```
+
+**Request parameters:**
+
+| | Gemini (default, live) | Claude Message Batches (large asynchronous runs) |
+|---|---|---|
+| Call | `client.models.generate_content(model, contents=<JSON list of items>, config)` | `client.messages.batches.create(requests=[{custom_id, params}, …])`, poll until `ended`, read results by `custom_id` |
+| Worker model | `gemini-flash-lite-latest` (fallbacks: `gemini-flash-latest`, `gemini-3.8-flash`) | `claude-haiku-5-5` |
+| Escalation model | `gemini-flash-latest` → `gemini-3.8-flash` for non-`high` / `UNCERTAIN` items (implemented) | design: a second, much smaller batch on a stronger model (e.g. `claude-opus-5-5`) for the same subset (not wired in the PoC) |
+| Output constraint | `response_mime_type="application/json"`, `response_json_schema=OUTPUT_SCHEMA` | `output_config={"effort": "low", "format": {"type": "json_schema", "schema": OUTPUT_SCHEMA}}` |
+| Sampling | `temperature=0` | `effort: "low"` |
+| Batch size | 30 activities per request (`LLM_BATCH`) | 30 per request; up to 100k requests per batch |
+| Caching / discount | – | system prompt marked `cache_control: {"type": "ephemeral"}`; Batch API = 50% price |
+| Limits / failures | 60 s timeout, 3 attempts with back-off per model; 429 → stop the tier (items go to review) | `max_tokens=8000`; only `succeeded` results with `stop_reason=end_turn` are parsed; missing ids re-submitted |
+
+**One real request item** (from `task2_llm_batch_requests.jsonl`):
+
+```json
+{
+  "key": "CON|pv panels", "name": "PV panels", "client_prefix": "CON",
+  "rule_hint": "Electrical :: Miscellaneous",
+  "similar_examples": [
+    {"name": "COLO5 - Panels",                "client_prefix": "CON", "label": "Structural :: Envelope",                   "similarity": 0.67},
+    {"name": "Sandwich panel",                "client_prefix": "CON", "label": "Structural :: Envelope",                   "similarity": 0.48},
+    {"name": "Install Ceiling Grid & Panels", "client_prefix": "ARC", "label": "Architectural :: Acoustical Ceiling Tile", "similarity": 0.45},
+    {"name": "LV",                            "client_prefix": "CON", "label": "Civil :: Underground Dry Utilities",       "similarity": 0.41},
+    {"name": "MV",                            "client_prefix": "CON", "label": "Civil :: Underground Dry Utilities",       "similarity": 0.41}
+  ],
+  "candidate_labels": ["Structural :: Envelope", "Civil :: Underground Dry Utilities", "Architectural :: Acoustical Ceiling Tile"]
+}
+```
+
+**The model's answer:** `{"key": "CON|pv panels", "label": "Structural :: Envelope",
+"confidence": "medium", "reason": "PV solar panels on roof envelope."}`. Because it's
+`medium`, the row is *not* auto-accepted: it's flagged for review with the suggestion, the
+reason and the evidence. The example also shows why: retrieval matched the word "panels",
+while the rule hint (Electrical) was arguably the better answer. A human settles it, and the
+correction then enters the cache and the retrieval index.
+
+### 7.8 Examples
 
 | Activity (client prefix) | Result | Tier / why |
 |---|---|---|
