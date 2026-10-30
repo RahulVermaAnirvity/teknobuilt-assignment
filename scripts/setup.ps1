@@ -17,7 +17,7 @@ Write-Host "Using $py"
 if (-not (Test-Path .venv)) { Invoke-Expression "$py -m venv .venv" }
 $venvPy = ".\.venv\Scripts\python.exe"
 & $venvPy -m pip install --upgrade pip
-& $venvPy -m pip install -r requirements.txt
+& $venvPy -m pip install --retries 10 --timeout 120 -r requirements.txt
 
 if (-not (Test-Path .env)) {
     Copy-Item .env.example .env

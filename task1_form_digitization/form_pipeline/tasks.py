@@ -70,6 +70,16 @@ def _vlm(use_vlm: bool):
     return make_vlm(use_vlm)
 
 
+def _warm_main(sender=None, **_):
+    """worker_init runs in the worker's main process. With the prefork pool (Linux / Docker)
+    that process then forks children, and PyTorch's thread pool does not survive a fork:
+    loading the model here would deadlock every child. So for prefork, load only in the
+    children (worker_process_init); for solo / threads pools, the main process does the work."""
+    if "prefork" in str(getattr(sender, "pool_cls", "")).lower():
+        return
+    _warm()
+
+
 def _warm(**_):
     """Load the handwriting model once per worker process, before the first page arrives."""
     threads = os.getenv("PIPELINE_TORCH_THREADS")
@@ -80,8 +90,8 @@ def _warm(**_):
     handwriting_engine().available  # noqa: B018 - triggers the lazy load
 
 
-worker_init.connect(_warm)          # solo pool: the worker process itself runs tasks
-worker_process_init.connect(_warm)  # prefork pool (Linux): each child process
+worker_init.connect(_warm_main)     # solo / threads pool: the worker process itself runs tasks
+worker_process_init.connect(_warm)  # prefork pool (Linux / Docker): each child, after the fork
 
 
 @app.task(name="forms.process_page")

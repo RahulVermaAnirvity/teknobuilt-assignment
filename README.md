@@ -61,11 +61,14 @@ Open **http://localhost:8501**.
 * **More pages at once:** `PAGE_WORKERS=4 docker compose up` (each worker needs ~1 GB RAM).
 * **Stop:** `Ctrl+C`, then `docker compose down`. Add `-v` to also delete the Redis data
   and uploads.
-* **Run the command-line tools inside the image:**
+* **Run the command-line tools inside the running stack:**
   ```bash
-  docker compose run --rm -w /app/task1_form_digitization app python run_pipeline.py ../Sample_input.pdf -o /app/data/out.json
-  docker compose run --rm -w /app/task2_p6_classification app python classify_schedule.py ../P6_Schedule_Sample.csv -o /app/data
+  docker compose exec -w /app/task1_form_digitization app python run_pipeline.py ../Sample_input.pdf -o /app/data/out.json --celery
+  docker compose exec -w /app/task2_p6_classification app python classify_schedule.py ../P6_Schedule_Sample.csv -o /app/data
+  docker compose cp app:/app/data/out.json .          # copy a result to your machine
   ```
+  On Windows **Git Bash**, prefix these with `MSYS_NO_PATHCONV=1` (Git Bash otherwise rewrites
+  `/app/...` into a Windows path). PowerShell and macOS/Linux shells need nothing extra.
 
 ---
 
@@ -481,6 +484,11 @@ side by side instead.
 | Celery, zero-setup broker, 1 process × 4 slots | 32.5 s | byte-identical |
 
 Each of the 4 workers processed exactly one page (from the worker logs).
+
+**Docker (Linux containers, 2 prefork page slots):** 45.0 s for the same sample. **Every
+extracted value is identical** to the Windows run (all answers, text, handwritten fields and
+statuses); only Tesseract's printed-text confidence scores differ by ≤ 0.03 between the
+Windows and Debian builds of Tesseract 5.5.
 
 ### 6.9 Limitations and next steps
 

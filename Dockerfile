@@ -16,8 +16,11 @@ RUN apt-get update \
  && rm -rf /var/lib/apt/lists/*
 
 WORKDIR /app
+# PyTorch (~200 MB) in its own cached layer, with retries: a dropped connection mid-download
+# otherwise surfaces as a pip "hash mismatch" and fails the whole build.
+RUN pip install --retries 10 --timeout 120 torch==2.15.0 --index-url https://download.pytorch.org/whl/cpu
 COPY requirements.txt .
-RUN pip install -r requirements.txt
+RUN pip install --retries 10 --timeout 120 -r requirements.txt
 
 # Bake the two open-source models into the image: first run is fast and works offline.
 RUN python -c "from transformers import TrOCRProcessor, VisionEncoderDecoderModel as M; \

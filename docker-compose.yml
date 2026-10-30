@@ -8,8 +8,7 @@
 # at runtime and never copied into the image.
 
 x-app: &app
-  build: .
-  image: teknobuilt-assignment:latest
+  image: teknobuilt-assignment:latest           # built once by the `app` service below
   env_file:
     - path: .env
       required: false
@@ -40,6 +39,7 @@ services:
 
   worker:
     <<: *app
+    pull_policy: never                          # use the locally built image, never Docker Hub
     container_name: teknobuilt-worker
     working_dir: /app/task1_form_digitization
     command: >
@@ -49,10 +49,16 @@ services:
       CELERY_BROKER_URL: redis://redis:6379/0
       UPLOAD_DIR: /app/data/uploads
       PIPELINE_TORCH_THREADS: "2"
+    healthcheck:                                # the image's default check targets Streamlit
+      test: ["CMD-SHELL", "celery -A form_pipeline.tasks inspect ping -d page-worker@$$HOSTNAME -t 10 || exit 1"]
+      interval: 60s
+      timeout: 30s
+      start_period: 90s
     restart: unless-stopped
 
   app:
     <<: *app
+    build: .
     container_name: teknobuilt-app
     ports:
       - "8501:8501"

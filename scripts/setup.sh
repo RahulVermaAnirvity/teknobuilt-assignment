@@ -16,7 +16,7 @@ echo "Using $PY"
 
 [ -d .venv ] || "$PY" -m venv .venv
 .venv/bin/python -m pip install --upgrade pip
-.venv/bin/python -m pip install -r requirements.txt
+.venv/bin/python -m pip install --retries 10 --timeout 120 -r requirements.txt
 
 if [ ! -f .env ]; then
   cp .env.example .env
