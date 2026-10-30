@@ -36,7 +36,7 @@ if sys.prefix == sys.base_prefix:
 
 for mod in ("pymupdf", "cv2", "numpy", "pytesseract", "pydantic", "PIL", "torch", "transformers",
             "celery", "redis", "sqlalchemy", "pandas", "sklearn", "sentence_transformers", "rank_bm25",
-            "google.genai", "anthropic", "streamlit"):
+            "google.genai", "anthropic", "streamlit", "pyarrow"):
     try:
         m = importlib.import_module(mod)
         line(OK, f"{mod} {getattr(m, '__version__', '')}")

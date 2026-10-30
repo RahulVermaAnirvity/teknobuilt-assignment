@@ -34,3 +34,5 @@ anthropic==2.3.0                 # Claude alternative / Batch API path
 
 # --- Demo console ----------------------------------------------------------------
 streamlit==1.54.0
+pyarrow==23.0.0                  # streamlit's table engine; pinned: pyarrow >= 24 requires NumPy 2,
+                                 # but this project pins NumPy 1.26 (OpenCV 4.9 + validated outputs)
